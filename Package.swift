@@ -24,6 +24,10 @@ let package = Package(
         .target(
             name: "RodeoCarnivalSP",
             dependencies: []),
+        .binaryTarget(
+                    name: "permission_handler_apple",
+                    path: "binaryFrameworks/permission_handler_apple.xcframework"
+                ),
         .testTarget(
             name: "RodeoCarnivalSPTests",
             dependencies: ["RodeoCarnivalSP"]),
