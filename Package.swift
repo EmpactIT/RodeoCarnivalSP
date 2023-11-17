@@ -23,14 +23,34 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .target(
             name: "RodeoCarnivalSP",
-            dependencies: []),
+            dependencies: [
+                .target(name: "permission_handler_apple"),
+                .target(name: "path_provider_foundation"),
+                .target(name: "camera_avfoundation"),
+                .target(name: "geocoding_ios"),
+                .target(name: "FMDB"),
+                .target(name: "shared_preferences_foundation"),
+                .target(name: "webview_flutter_wkwebview"),
+                .target(name: "launch_review"),
+                .target(name: "sqflite"),
+                .target(name: "Reachability"),
+                .target(name: "store_redirect"),
+                .target(name: "connectivity_plus"),
+                .target(name: "pay_ios"),
+                .target(name: "FlutterPluginRegistrant"),
+                .target(name: "url_launcher_ios"),
+                .target(name: "MTBBarcodeScanner"),
+                .target(name: "qr_code_scanner"),
+                .target(name: "App"),
+                .target(name: "Flutter")
+            ]),
         .binaryTarget(
                     name: "permission_handler_apple",
                     path: "./Sources/binaryFrameworks/Release/permission_handler_apple.xcframework"
                 ),
         .binaryTarget(
                     name: "path_provider_foundation",
-                    path: "binaryFrameworks/Release/path_provider_foundation.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/path_provider_foundation.xcframework"
                 ),
         .binaryTarget(
                     name: "camera_avfoundation",
@@ -62,7 +82,7 @@ let package = Package(
                 ),
         .binaryTarget(
                     name: "Reachability",
-                    path: "binaryFrameworks/Release/Reachability.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/Reachability.xcframework"
                 ),
         .binaryTarget(
                     name: "store_redirect",
