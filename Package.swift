@@ -24,10 +24,12 @@ let package = Package(
         .target(
             name: "RodeoCarnivalSP",
             dependencies: [
+                .target(name: "wifi_iot"),
                 .target(name: "permission_handler_apple"),
                 .target(name: "path_provider_foundation"),
                 .target(name: "camera_avfoundation"),
                 .target(name: "geocoding_ios"),
+                .target(name: "wifi_scan"),
                 .target(name: "FMDB"),
                 .target(name: "shared_preferences_foundation"),
                 .target(name: "webview_flutter_wkwebview"),
@@ -45,6 +47,10 @@ let package = Package(
                 .target(name: "Flutter")
             ]),
         .binaryTarget(
+                    name: "wifi_iot",
+                    path: "./Sources/binaryFrameworks/Debug/wifi_iot.xcframework"
+                ),
+        .binaryTarget(
                     name: "permission_handler_apple",
                     path: "./Sources/binaryFrameworks/Debug/permission_handler_apple.xcframework"
                 ),
@@ -59,6 +65,10 @@ let package = Package(
         .binaryTarget(
                     name: "geocoding_ios",
                     path: "./Sources/binaryFrameworks/Debug/geocoding_ios.xcframework"
+                ),
+        .binaryTarget(
+                    name: "wifi_scan",
+                    path: "./Sources/binaryFrameworks/Debug/wifi_scan.xcframework"
                 ),
         .binaryTarget(
                     name: "FMDB",
