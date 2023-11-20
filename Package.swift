@@ -24,12 +24,10 @@ let package = Package(
         .target(
             name: "RodeoCarnivalSP",
             dependencies: [
-                .target(name: "wifi_iot"),
                 .target(name: "permission_handler_apple"),
                 .target(name: "path_provider_foundation"),
                 .target(name: "camera_avfoundation"),
                 .target(name: "geocoding_ios"),
-                .target(name: "wifi_scan"),
                 .target(name: "FMDB"),
                 .target(name: "shared_preferences_foundation"),
                 .target(name: "webview_flutter_wkwebview"),
