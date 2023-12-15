@@ -35,7 +35,6 @@ let package = Package(
                 .target(name: "webview_flutter_wkwebview"),
                 .target(name: "launch_review"),
                 .target(name: "sqflite"),
-                .target(name: "Reachability"),
                 .target(name: "store_redirect"),
                 .target(name: "connectivity_plus"),
                 .target(name: "pay_ios"),
@@ -89,10 +88,6 @@ let package = Package(
         .binaryTarget(
                     name: "sqflite",
                     path: "./Sources/binaryFrameworks/Release/sqflite.xcframework"
-                ),
-        .binaryTarget(
-                    name: "Reachability",
-                    path: "./Sources/binaryFrameworks/Release/Reachability.xcframework"
                 ),
         .binaryTarget(
                     name: "store_redirect",
