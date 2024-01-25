@@ -24,6 +24,7 @@ let package = Package(
         .target(
             name: "RodeoCarnivalSP",
             dependencies: [
+                .target(name: "empactit_wifi"),
                 .target(name: "wifi_iot"),
                 .target(name: "permission_handler_apple"),
                 .target(name: "path_provider_foundation"),
@@ -46,6 +47,10 @@ let package = Package(
                 .target(name: "App"),
                 .target(name: "Flutter")
             ]),
+        .binaryTarget(
+                    name: "empactit_wifi",
+                    path: "./Sources/binaryFrameworks/Release/empactit_wifi.xcframework"
+                ),
         .binaryTarget(
                     name: "wifi_iot",
                     path: "./Sources/binaryFrameworks/Release/wifi_iot.xcframework"
