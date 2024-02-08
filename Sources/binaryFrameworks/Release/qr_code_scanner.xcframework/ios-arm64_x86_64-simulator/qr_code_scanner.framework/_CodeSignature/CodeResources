@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4UVtO5ANhOeSKVdvrdaw04v9GJ8=
+		7ino4DlYA5U4T6UU/HGMTfz08lI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/qr_code_scanner.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		qhsu1iNIItVRSQ0XdKr322s9CJs=
+		nOENKKX161CS9Q7wL1JFawv7SKE=
 		</data>
 		<key>Modules/qr_code_scanner.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		lItk/2peUF62YW5nn6pLvKZh+cM=
+		RtgyxJA7vyntWdMN7KO7lkUBzYU=
 		</data>
 		<key>Modules/qr_code_scanner.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -38,19 +38,19 @@
 		</data>
 		<key>Modules/qr_code_scanner.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		+N8Cqaq5WUhAR/rK8SY59lblp4g=
+		Ymow+wop9rKmKmvpzcF69Z3vzB0=
 		</data>
 		<key>Modules/qr_code_scanner.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		BicWhM3poTBFOIiBHwXz7fg3m5E=
+		P/9kiQ5yGW/XtpOktm7tFIFIQcw=
 		</data>
 		<key>Modules/qr_code_scanner.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		+N8Cqaq5WUhAR/rK8SY59lblp4g=
+		Ymow+wop9rKmKmvpzcF69Z3vzB0=
 		</data>
 		<key>Modules/qr_code_scanner.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		DaVzTdrUczKHPN8sNqJmeLLNIAo=
+		plHshIibvmgSpIG4LBTyCGdvf0Q=
 		</data>
 		<key>Modules/qr_code_scanner.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -58,19 +58,19 @@
 		</data>
 		<key>Modules/qr_code_scanner.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Easgta34gCk8EFKTEASTbKuNJGk=
+		ybu4PU6ohcDZqXxdEs/7yy4vNOE=
 		</data>
 		<key>Modules/qr_code_scanner.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		CC7oF1LcDflQcYvFIvD3JCuBaBQ=
+		BsvT3FFpfjAIW3867+DpcRFL11g=
 		</data>
 		<key>Modules/qr_code_scanner.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Easgta34gCk8EFKTEASTbKuNJGk=
+		ybu4PU6ohcDZqXxdEs/7yy4vNOE=
 		</data>
 		<key>Modules/qr_code_scanner.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		e9x1D2yFJhOlvT6gAX4ocRrnafI=
+		IW2T5G4a41wiP3Q3ufvWVfUS2aA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -107,14 +107,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lAg6PXIJ9ewMAp/MEJawkuDmBDt6rdTpzJAVFdUM3k0=
+			2ZhUOeOZb6OQCA/7SnTTxKFXhomy7Ah7AEkcmJmVUss=
 			</data>
 		</dict>
 		<key>Modules/qr_code_scanner.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			So96NIYqdlaEezmLXqB9jKtTt51M461xuyNosHRX/w4=
+			2pfX8IkyF6ba7pWcsUaxr0uf3z2lRFVvK1BpNdI0qWo=
 			</data>
 		</dict>
 		<key>Modules/qr_code_scanner.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -128,28 +128,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gS7elv0a7hHsNy+p6QLM/3+Pv7L9zPh/chYeGXx3s4c=
+			IBHRGPAdZ2XKs2C95J4ORguDQlDMsKI6b12yIwl0h1Y=
 			</data>
 		</dict>
 		<key>Modules/qr_code_scanner.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zd9ze+eExlH6Myb/B47xQ/jQrJ2fwWQLCYtJtxeiyo8=
+			Lpb3mhk+WElsoXeXGODj+Q6iiXwxw9cod/IimdZL/UM=
 			</data>
 		</dict>
 		<key>Modules/qr_code_scanner.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gS7elv0a7hHsNy+p6QLM/3+Pv7L9zPh/chYeGXx3s4c=
+			IBHRGPAdZ2XKs2C95J4ORguDQlDMsKI6b12yIwl0h1Y=
 			</data>
 		</dict>
 		<key>Modules/qr_code_scanner.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CmBzi5j0kbCsPy852bSIPSjyt4LP0eIMIAlP5zdNch8=
+			mITiGY8DisVfmxPTTmpISia3Up/b/26QHfZnElsrwbk=
 			</data>
 		</dict>
 		<key>Modules/qr_code_scanner.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -163,28 +163,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ia+rE4plzTDj4bF4pqYD26PsG+hoOCl31//QPWUudh8=
+			BuTTWXwrr/2rKWISQkfHoS1omZMwhpIvRyky8OMG/3U=
 			</data>
 		</dict>
 		<key>Modules/qr_code_scanner.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xPQpEdXHu0bnYxY4lLEoz65y5/hyq2+V7JismVzH8wU=
+			FnX4FDsEasnThljUqicXhAm9CiaVNZ/050z2Sfsc+SU=
 			</data>
 		</dict>
 		<key>Modules/qr_code_scanner.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ia+rE4plzTDj4bF4pqYD26PsG+hoOCl31//QPWUudh8=
+			BuTTWXwrr/2rKWISQkfHoS1omZMwhpIvRyky8OMG/3U=
 			</data>
 		</dict>
 		<key>Modules/qr_code_scanner.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d/q/F3zppHrV3Iy/Y+uZa/y48sflJe5DnnhSD+10dGE=
+			1ObpsufT5P+8q+bMW7uvNyaCim+zk4F85GplWVkCRhk=
 			</data>
 		</dict>
 	</dict>

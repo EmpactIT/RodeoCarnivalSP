@@ -1745,42 +1745,42 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.9\/ios\/Classes\/ApplePayButtonView.swift",
+      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.11\/ios\/Classes\/ApplePayButtonView.swift",
       "kind": "StringLiteral",
       "offset": 1018,
       "length": 25,
       "value": "\"pay_ios.ApplePayButtonViewFactory\""
     },
     {
-      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.9\/ios\/Classes\/ApplePayButtonView.swift",
+      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.11\/ios\/Classes\/ApplePayButtonView.swift",
       "kind": "StringLiteral",
       "offset": 3227,
       "length": 41,
       "value": "\"plugins.flutter.io\/pay\/apple_pay_button\""
     },
     {
-      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.9\/ios\/Classes\/ApplePayButtonView.swift",
+      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.11\/ios\/Classes\/ApplePayButtonView.swift",
       "kind": "StringLiteral",
       "offset": 3043,
       "length": 18,
       "value": "\"pay_ios.ApplePayButtonView\""
     },
     {
-      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.9\/ios\/Classes\/PayPlugin.swift",
+      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.11\/ios\/Classes\/PayPlugin.swift",
       "kind": "StringLiteral",
       "offset": 814,
       "length": 32,
       "value": "\"plugins.flutter.io\/pay_channel\""
     },
     {
-      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.9\/ios\/Classes\/PayPlugin.swift",
+      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.11\/ios\/Classes\/PayPlugin.swift",
       "kind": "StringLiteral",
       "offset": 880,
       "length": 12,
       "value": "\"userCanPay\""
     },
     {
-      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.9\/ios\/Classes\/PayPlugin.swift",
+      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.11\/ios\/Classes\/PayPlugin.swift",
       "kind": "StringLiteral",
       "offset": 935,
       "length": 21,

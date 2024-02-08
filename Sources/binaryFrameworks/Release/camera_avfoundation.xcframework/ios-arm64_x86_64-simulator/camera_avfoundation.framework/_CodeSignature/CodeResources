@@ -68,6 +68,14 @@
 		<data>
 		48SjTVuIMRO+7k55uNwWrU76bdU=
 		</data>
+		<key>camera_avfoundation_privacy.bundle/Info.plist</key>
+		<data>
+		MNcCGr0XyhLkb8tYfbEbRUWHQkI=
+		</data>
+		<key>camera_avfoundation_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		/LX0ZlwxwIAIhjZaDB8EiH5KpXA=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -174,6 +182,20 @@
 			<key>hash2</key>
 			<data>
 			VpJTZvvrGQqnZY2TPCI9dSF9IZ+412+EHbI4eLJH21o=
+			</data>
+		</dict>
+		<key>camera_avfoundation_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Iqo5s7FDCXGGHeQ43zPXD1LVupbQDZfgZHUDtSchfaI=
+			</data>
+		</dict>
+		<key>camera_avfoundation_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bS2g2NkwIn1CjB2TY7CtbjoS4sm2jFzilxWKdBL8jDE=
 			</data>
 		</dict>
 	</dict>
