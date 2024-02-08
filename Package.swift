@@ -24,6 +24,8 @@ let package = Package(
         .target(
             name: "RodeoCarnivalSP",
             dependencies: [
+                .target(name: "device_info_plus"),
+                .target(name: "empactit_wifi"),
                 .target(name: "wifi_iot"),
                 .target(name: "permission_handler_apple"),
                 .target(name: "path_provider_foundation"),
@@ -47,88 +49,96 @@ let package = Package(
                 .target(name: "Flutter")
             ]),
         .binaryTarget(
+                        name: "device_info_plus",
+                        path: "./Sources/binaryFrameworks/Release/device_info_plus.xcframework"
+                    ),
+        .binaryTarget(
+                        name: "empactit_wifi",
+                        path: "./Sources/binaryFrameworks/Release/empactit_wifi.xcframework"
+                    ),
+        .binaryTarget(
                     name: "wifi_iot",
-                    path: "./Sources/binaryFrameworks/Debug/wifi_iot.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/wifi_iot.xcframework"
                 ),
         .binaryTarget(
                     name: "permission_handler_apple",
-                    path: "./Sources/binaryFrameworks/Debug/permission_handler_apple.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/permission_handler_apple.xcframework"
                 ),
         .binaryTarget(
                     name: "path_provider_foundation",
-                    path: "./Sources/binaryFrameworks/Debug/path_provider_foundation.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/path_provider_foundation.xcframework"
                 ),
         .binaryTarget(
                     name: "camera_avfoundation",
-                    path: "./Sources/binaryFrameworks/Debug/camera_avfoundation.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/camera_avfoundation.xcframework"
                 ),
         .binaryTarget(
                     name: "geocoding_ios",
-                    path: "./Sources/binaryFrameworks/Debug/geocoding_ios.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/geocoding_ios.xcframework"
                 ),
         .binaryTarget(
                     name: "wifi_scan",
-                    path: "./Sources/binaryFrameworks/Debug/wifi_scan.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/wifi_scan.xcframework"
                 ),
         .binaryTarget(
                     name: "FMDB",
-                    path: "./Sources/binaryFrameworks/Debug/FMDB.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/FMDB.xcframework"
                 ),
         .binaryTarget(
                     name: "shared_preferences_foundation",
-                    path: "./Sources/binaryFrameworks/Debug/shared_preferences_foundation.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/shared_preferences_foundation.xcframework"
                 ),
         .binaryTarget(
                     name: "webview_flutter_wkwebview",
-                    path: "./Sources/binaryFrameworks/Debug/webview_flutter_wkwebview.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/webview_flutter_wkwebview.xcframework"
                 ),
         .binaryTarget(
                     name: "launch_review",
-                    path: "./Sources/binaryFrameworks/Debug/launch_review.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/launch_review.xcframework"
                 ),
         .binaryTarget(
                     name: "sqflite",
-                    path: "./Sources/binaryFrameworks/Debug/sqflite.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/sqflite.xcframework"
                 ),
         .binaryTarget(
                     name: "Reachability",
-                    path: "./Sources/binaryFrameworks/Debug/Reachability.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/Reachability.xcframework"
                 ),
         .binaryTarget(
                     name: "store_redirect",
-                    path: "./Sources/binaryFrameworks/Debug/store_redirect.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/store_redirect.xcframework"
                 ),
         .binaryTarget(
                     name: "connectivity_plus",
-                    path: "./Sources/binaryFrameworks/Debug/connectivity_plus.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/connectivity_plus.xcframework"
                 ),
         .binaryTarget(
                     name: "pay_ios",
-                    path: "./Sources/binaryFrameworks/Debug/pay_ios.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/pay_ios.xcframework"
                 ),
         .binaryTarget(
                     name: "FlutterPluginRegistrant",
-                    path: "./Sources/binaryFrameworks/Debug/FlutterPluginRegistrant.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/FlutterPluginRegistrant.xcframework"
                 ),
         .binaryTarget(
                     name: "url_launcher_ios",
-                    path: "./Sources/binaryFrameworks/Debug/url_launcher_ios.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/url_launcher_ios.xcframework"
                 ),
         .binaryTarget(
                     name: "MTBBarcodeScanner",
-                    path: "./Sources/binaryFrameworks/Debug/MTBBarcodeScanner.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/MTBBarcodeScanner.xcframework"
                 ),
         .binaryTarget(
                     name: "qr_code_scanner",
-                    path: "./Sources/binaryFrameworks/Debug/qr_code_scanner.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/qr_code_scanner.xcframework"
                 ),
         .binaryTarget(
                     name: "App",
-                    path: "./Sources/binaryFrameworks/Debug/App.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/App.xcframework"
                 ),
         .binaryTarget(
                     name: "Flutter",
-                    path: "./Sources/binaryFrameworks/Debug/Flutter.xcframework"
+                    path: "./Sources/binaryFrameworks/Release/Flutter.xcframework"
                 ),
         
         .testTarget(
