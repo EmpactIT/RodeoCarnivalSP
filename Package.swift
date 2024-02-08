@@ -32,7 +32,6 @@ let package = Package(
                 .target(name: "camera_avfoundation"),
                 .target(name: "geocoding_ios"),
                 .target(name: "wifi_scan"),
-                .target(name: "FMDB"),
                 .target(name: "shared_preferences_foundation"),
                 .target(name: "webview_flutter_wkwebview"),
                 .target(name: "launch_review"),
@@ -79,10 +78,6 @@ let package = Package(
         .binaryTarget(
                     name: "wifi_scan",
                     path: "./Sources/binaryFrameworks/Release/wifi_scan.xcframework"
-                ),
-        .binaryTarget(
-                    name: "FMDB",
-                    path: "./Sources/binaryFrameworks/Release/FMDB.xcframework"
                 ),
         .binaryTarget(
                     name: "shared_preferences_foundation",
