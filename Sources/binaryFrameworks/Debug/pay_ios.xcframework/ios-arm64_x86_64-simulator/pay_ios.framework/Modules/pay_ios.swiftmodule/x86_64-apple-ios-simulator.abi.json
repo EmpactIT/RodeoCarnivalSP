@@ -41,7 +41,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "FlutterBinaryMessenger",
-                "printedName": "Flutter.FlutterBinaryMessenger",
+                "printedName": "any Flutter.FlutterBinaryMessenger",
                 "usr": "c:objc(pl)FlutterBinaryMessenger"
               }
             ],
@@ -72,7 +72,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "FlutterBinaryMessenger",
-                "printedName": "Flutter.FlutterBinaryMessenger",
+                "printedName": "any Flutter.FlutterBinaryMessenger",
                 "usr": "c:objc(pl)FlutterBinaryMessenger"
               }
             ],
@@ -93,7 +93,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "FlutterPlatformView",
-                "printedName": "Flutter.FlutterPlatformView",
+                "printedName": "any Flutter.FlutterPlatformView",
                 "usr": "c:objc(pl)FlutterPlatformView"
               },
               {
@@ -142,7 +142,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "ProtocolComposition",
-                "printedName": "Flutter.FlutterMessageCodec & ObjectiveC.NSObjectProtocol"
+                "printedName": "any Flutter.FlutterMessageCodec & ObjectiveC.NSObjectProtocol"
               }
             ],
             "declKind": "Func",
@@ -418,7 +418,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "FlutterBinaryMessenger",
-                "printedName": "Flutter.FlutterBinaryMessenger",
+                "printedName": "any Flutter.FlutterBinaryMessenger",
                 "usr": "c:objc(pl)FlutterBinaryMessenger"
               }
             ],
@@ -510,7 +510,7 @@
           {
             "kind": "Function",
             "name": "createApplePayView",
-            "printedName": "createApplePayView(type:style:)",
+            "printedName": "createApplePayView(type:style:cornerRadius:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -528,11 +528,25 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Float?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Float",
+                    "printedName": "Swift.Float",
+                    "usr": "s:Sf"
+                  }
+                ],
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:7pay_ios18ApplePayButtonViewC06createcdF04type5styleySS_SStF",
-            "mangledName": "$s7pay_ios18ApplePayButtonViewC06createcdF04type5styleySS_SStF",
+            "usr": "s:7pay_ios18ApplePayButtonViewC06createcdF04type5style12cornerRadiusySS_SSSfSgtF",
+            "mangledName": "$s7pay_ios18ApplePayButtonViewC06createcdF04type5style12cornerRadiusySS_SSSfSgtF",
             "moduleName": "pay_ios",
             "isOpen": true,
             "declAttributes": [
@@ -1410,7 +1424,8 @@
             "objc_name": "paymentAuthorizationControllerWillAuthorizePayment:",
             "declAttributes": [
               "Dynamic",
-              "ObjC"
+              "ObjC",
+              "Custom"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
@@ -1464,7 +1479,8 @@
             "objc_name": "paymentAuthorizationController:didAuthorizePayment:handler:",
             "declAttributes": [
               "Dynamic",
-              "ObjC"
+              "ObjC",
+              "Custom"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
@@ -1494,7 +1510,8 @@
             "objc_name": "paymentAuthorizationControllerDidFinish:",
             "declAttributes": [
               "Dynamic",
-              "ObjC"
+              "ObjC",
+              "Custom"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
@@ -1608,7 +1625,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "FlutterPluginRegistrar",
-                "printedName": "Flutter.FlutterPluginRegistrar",
+                "printedName": "any Flutter.FlutterPluginRegistrar",
                 "usr": "c:objc(pl)FlutterPluginRegistrar"
               }
             ],
@@ -2375,7 +2392,11 @@
         "moduleName": "Foundation",
         "intro_Macosx": "10.11",
         "intro_iOS": "9.0",
+        "intro_tvOS": "9.0",
+        "intro_watchOS": "2.0",
         "declAttributes": [
+          "Available",
+          "Available",
           "Available",
           "Available"
         ],
@@ -3256,42 +3277,42 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.9\/ios\/Classes\/ApplePayButtonView.swift",
+      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.11\/ios\/Classes\/ApplePayButtonView.swift",
       "kind": "StringLiteral",
       "offset": 1018,
       "length": 25,
       "value": "\"pay_ios.ApplePayButtonViewFactory\""
     },
     {
-      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.9\/ios\/Classes\/ApplePayButtonView.swift",
+      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.11\/ios\/Classes\/ApplePayButtonView.swift",
       "kind": "StringLiteral",
       "offset": 3227,
       "length": 41,
       "value": "\"plugins.flutter.io\/pay\/apple_pay_button\""
     },
     {
-      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.9\/ios\/Classes\/ApplePayButtonView.swift",
+      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.11\/ios\/Classes\/ApplePayButtonView.swift",
       "kind": "StringLiteral",
       "offset": 3043,
       "length": 18,
       "value": "\"pay_ios.ApplePayButtonView\""
     },
     {
-      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.9\/ios\/Classes\/PayPlugin.swift",
+      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.11\/ios\/Classes\/PayPlugin.swift",
       "kind": "StringLiteral",
       "offset": 814,
       "length": 32,
       "value": "\"plugins.flutter.io\/pay_channel\""
     },
     {
-      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.9\/ios\/Classes\/PayPlugin.swift",
+      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.11\/ios\/Classes\/PayPlugin.swift",
       "kind": "StringLiteral",
       "offset": 880,
       "length": 12,
       "value": "\"userCanPay\""
     },
     {
-      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.9\/ios\/Classes\/PayPlugin.swift",
+      "filePath": "\/Users\/bernardo\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.11\/ios\/Classes\/PayPlugin.swift",
       "kind": "StringLiteral",
       "offset": 935,
       "length": 21,

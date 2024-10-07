@@ -17,13 +17,17 @@
         "parameters": {
           "allowedCardNetworks": ["VISA", "MASTERCARD", "AMEX", "DISCOVER"],
           "allowedAuthMethods": ["PAN_ONLY", "CRYPTOGRAM_3DS"],
-          "billingAddressRequired": false
+          "billingAddressRequired": true,
+          "billingAddressParameters": {
+            "format": "FULL",
+            "phoneNumberRequired": true
+          }
         }
       }
     ],
     "merchantInfo": {
-      "merchantId": "BCR2DN4TYTZ3T7CZ",
-      "merchantName": "Rodeohouston"
+      "merchantId": "536895242987363801",
+      "merchantName": "RCSFunPass"
     },
     "transactionInfo": {
       "countryCode": "US",

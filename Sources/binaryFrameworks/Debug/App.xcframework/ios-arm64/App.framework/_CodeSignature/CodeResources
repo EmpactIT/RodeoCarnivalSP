@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		ip5vuSPnT15rEKozCl3dFYeWGWw=
+		cz+CrmBPAzxrvvFazjfvjE+3EB0=
 		</data>
 		<key>flutter_assets/AssetManifest.smcbin</key>
 		<data>
-		atP6hlr8kfMLwlve68Rt6h5Kx1A=
+		3L3H+gk/67fBjMo9igIdcQoI4fI=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		xofUy2oIal41Y3cVG40MujCxdyk=
+		BIt/PyRBY5UTuOzYRzXKlcE7zuM=
 		</data>
 		<key>flutter_assets/assets/ewalletsConfig/apple_pay.json</key>
 		<data>
@@ -42,15 +42,15 @@
 		</data>
 		<key>flutter_assets/assets/ewalletsConfig/google_pay.json</key>
 		<data>
-		yp2jeRGnIEwEaQSah1M/P6tIeRE=
+		XUPGx3TmjPpC8m7wR26Sp27CiZ4=
 		</data>
 		<key>flutter_assets/assets/ewalletsConfig/google_pay_dev.json</key>
 		<data>
-		qJIjiung1wIGB5XbrQeIcX9LLos=
+		cHZXHNVsbrsUBKkeFelCUpH3ajY=
 		</data>
 		<key>flutter_assets/assets/ewalletsConfig/google_pay_stagging.json</key>
 		<data>
-		HpFqfkv3XDQeqE7sTaT7XrgUXbo=
+		pUDY8DVYRZ60C3bz2otI/FnpWDU=
 		</data>
 		<key>flutter_assets/assets/files/wifi_terms.txt</key>
 		<data>
@@ -514,7 +514,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		0HHTPgEB7nzyz6uF99Cngzcwqi0=
+		3Y96JyMmTZCc9iyR4UaehXrwgAA=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -1564,6 +1564,10 @@
 		<data>
 		p453Xm+wW9CNOUNDkzGs03wgAmg=
 		</data>
+		<key>flutter_assets/packages/fpjs_pro_plugin/web/index.js</key>
+		<data>
+		MXGww5q9i9HKXfiDZm4QE/1l/Po=
+		</data>
 		<key>flutter_assets/packages/pay_android/assets/ar/add_to.svg</key>
 		<data>
 		JjJtCDfCuClnpEhSpySAmOx/maM=
@@ -2562,7 +2566,7 @@
 		</data>
 		<key>flutter_assets/packages/pay_platform_interface/pubspec.yaml</key>
 		<data>
-		kKVIRBvm1KtxoAIBH1VGLciauNY=
+		wKcLCjfF/+YQcMJ4gy+HoQCNSRI=
 		</data>
 		<key>flutter_assets/shaders/ink_sparkle.frag</key>
 		<data>
@@ -2579,14 +2583,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hEXo1xdJG/lrPwai2eHKU4W2u20PbZb6RDuz5SiMCpI=
+			UE1shAwFh+JU0P1gcXuNROjtE8DnhcRZmv1MMVrXiLY=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.smcbin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DxfhQwwGtQQ2BzxR/Jjc5p7ze+ixZCXpEXggPmT0Fjw=
+			7k+2nZ1Umml77aQIDk9KCAOXtmv5/7LlZ+bZgAWYkYQ=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -2600,7 +2604,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xp9jHuTmriPYkP9hepNNfhaPxFICM4jHg3qhmtaZINU=
+			h+2C6GLsJdZRd7YTQGOdpLn2pLvTOfXFAx/ggaVmE/c=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/ewalletsConfig/apple_pay.json</key>
@@ -2635,21 +2639,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YmXXGe4A/T8SzuIKse6YTyHUtkO7XawdKDECaRl+bWw=
+			H00OJiiSQsCxvjCBezxVovYe0wXTpQ+vCsUGo3Iqzsk=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/ewalletsConfig/google_pay_dev.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kZOtEAPmZOIr/P1+eOkwY8b+O5a8T6g6rLA6GpCZEzw=
+			kTlAB/S8IF9ycf9LQFMffS+A8jDGntFPGMdxC+GycOY=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/ewalletsConfig/google_pay_stagging.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xgbRxadd0d1JgQLVZGyxI5fZFdP/ppaNagy8JUAQLdo=
+			C32ibNC5OMl+b4fJiwMYbJQD6GFw/b/d/LyO3JQpJIQ=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/files/wifi_terms.txt</key>
@@ -3461,7 +3465,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hyb3AS09T79UDfb5Uv9fk0j4EpyREASSraeeI0tUnrs=
+			mcL8BZsuB6HUKPdTeIcVKY4K4hVC+/9hRn1xQfvOgVQ=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -5298,6 +5302,13 @@
 			ujxdyr0uH6KGOKei2zu2BEX34I4ktxQOdWo6dzmAVPM=
 			</data>
 		</dict>
+		<key>flutter_assets/packages/fpjs_pro_plugin/web/index.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AZlD+zK57zW1OJ8b+uE9Mp5duwgdyDjhtGn7Ck94Cg8=
+			</data>
+		</dict>
 		<key>flutter_assets/packages/pay_android/assets/ar/add_to.svg</key>
 		<dict>
 			<key>hash2</key>
@@ -7045,7 +7056,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pfkPkis9msfgBW7JJMTRQO3RsxVBcpgnugdEhKKmYtU=
+			rmV1bnI04MzGy/b80cuiSXblPKz7E29WaIbCZI5J3b4=
 			</data>
 		</dict>
 		<key>flutter_assets/shaders/ink_sparkle.frag</key>

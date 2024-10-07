@@ -17,7 +17,11 @@
         "parameters": {
           "allowedCardNetworks": ["VISA", "MASTERCARD", "AMEX", "DISCOVER"],
           "allowedAuthMethods": ["PAN_ONLY", "CRYPTOGRAM_3DS"],
-          "billingAddressRequired": false
+          "billingAddressRequired": true,
+          "billingAddressParameters": {
+            "format": "FULL",
+            "phoneNumberRequired": true
+          }
         }
       }
     ],

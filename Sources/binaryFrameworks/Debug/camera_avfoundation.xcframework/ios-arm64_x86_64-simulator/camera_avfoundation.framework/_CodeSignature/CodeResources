@@ -62,11 +62,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		I69djH9AMqDND3SiAhSU1+12NZg=
+		Mv6Lxkd3Xux2e5lAqKko7SVUrfw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		48SjTVuIMRO+7k55uNwWrU76bdU=
+		</data>
+		<key>camera_avfoundation_privacy.bundle/Info.plist</key>
+		<data>
+		zqbYXMBsm0f6nrnm1Ex5ngc4U0Y=
+		</data>
+		<key>camera_avfoundation_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		/LX0ZlwxwIAIhjZaDB8EiH5KpXA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -174,6 +182,20 @@
 			<key>hash2</key>
 			<data>
 			VpJTZvvrGQqnZY2TPCI9dSF9IZ+412+EHbI4eLJH21o=
+			</data>
+		</dict>
+		<key>camera_avfoundation_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			69DJzqSVW/GfIz06eeqSSScJBYEho28wR/xFQ/offug=
+			</data>
+		</dict>
+		<key>camera_avfoundation_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bS2g2NkwIn1CjB2TY7CtbjoS4sm2jFzilxWKdBL8jDE=
 			</data>
 		</dict>
 	</dict>

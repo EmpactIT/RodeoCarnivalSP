@@ -743,6 +743,10 @@
                 "moduleName": "connectivity_plus",
                 "implicit": true,
                 "isOpen": true,
+                "intro_iOS": "12",
+                "declAttributes": [
+                  "Available"
+                ],
                 "accessorKind": "_modify"
               }
             ]
@@ -1273,7 +1277,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "ConnectivityProvider",
-                "printedName": "connectivity_plus.ConnectivityProvider",
+                "printedName": "any connectivity_plus.ConnectivityProvider",
                 "usr": "s:17connectivity_plus20ConnectivityProviderP"
               }
             ],
@@ -1296,7 +1300,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "FlutterPluginRegistrar",
-                "printedName": "Flutter.FlutterPluginRegistrar",
+                "printedName": "any Flutter.FlutterPluginRegistrar",
                 "usr": "c:objc(pl)FlutterPluginRegistrar"
               }
             ],
@@ -1326,7 +1330,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "FlutterPluginRegistrar",
-                "printedName": "Flutter.FlutterPluginRegistrar",
+                "printedName": "any Flutter.FlutterPluginRegistrar",
                 "usr": "c:objc(pl)FlutterPluginRegistrar"
               }
             ],
