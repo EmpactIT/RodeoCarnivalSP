@@ -70,10 +70,10 @@ let package = Package(
                     name: "wifi_scan",
                     path: "./Sources/binaryFrameworks/Debug/wifi_scan.xcframework"
                 ),
-        .binaryTarget(
+       /* .binaryTarget(
                     name: "FMDB",
                     path: "./Sources/binaryFrameworks/Debug/FMDB.xcframework"
-                ),
+                ),*/
         .binaryTarget(
                     name: "shared_preferences_foundation",
                     path: "./Sources/binaryFrameworks/Debug/shared_preferences_foundation.xcframework"
@@ -82,10 +82,10 @@ let package = Package(
                     name: "webview_flutter_wkwebview",
                     path: "./Sources/binaryFrameworks/Debug/webview_flutter_wkwebview.xcframework"
                 ),
-        .binaryTarget(
+       /* .binaryTarget(
                     name: "launch_review",
                     path: "./Sources/binaryFrameworks/Debug/launch_review.xcframework"
-                ),
+                ),*/
         .binaryTarget(
                     name: "sqflite",
                     path: "./Sources/binaryFrameworks/Debug/sqflite.xcframework"
