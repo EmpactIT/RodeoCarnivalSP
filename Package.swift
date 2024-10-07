@@ -45,7 +45,7 @@ let package = Package(
                 .target(name: "url_launcher_ios"),
                 .target(name: "MTBBarcodeScanner"),
                 .target(name: "qr_code_scanner"),
-                //.target(name: "fpjs_pro_plugin"),
+                .target(name: "fpjs_pro_plugin"),
                 .target(name: "empactit_wifi"),
                 .target(name: "App"),
                 .target(name: "Flutter")
@@ -130,10 +130,10 @@ let package = Package(
                     name: "qr_code_scanner",
                     path: "./Sources/binaryFrameworks/Debug/qr_code_scanner.xcframework"
                 ),
-        /*.binaryTarget(
+        .binaryTarget(
                     name: "fpjs_pro_plugin",
                     path: "./Sources/binaryFrameworks/Debug/fpjs_pro_plugin.xcframework"
-                ),*/
+                ),
         .binaryTarget(
                     name: "empactit_wifi",
                     path: "./Sources/binaryFrameworks/Debug/empactit_wifi.xcframework"
