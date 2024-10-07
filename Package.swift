@@ -47,7 +47,7 @@ let package = Package(
                 .target(name: "url_launcher_ios"),
                 .target(name: "MTBBarcodeScanner"),
                 .target(name: "qr_code_scanner"),
-                .target(name: "fpjs_pro_plugin"),
+                //.target(name: "fpjs_pro_plugin"),
                 .target(name: "empactit_wifi"),
                 .target(name: "App"),
                 .target(name: "Flutter")
