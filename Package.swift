@@ -28,9 +28,10 @@ let package = Package(
                 .target(name: "permission_handler_apple"),
                 .target(name: "path_provider_foundation"),
                 .target(name: "camera_avfoundation"),
+                .target(name: "device_info_plus"),
                 .target(name: "geocoding_ios"),
                 .target(name: "wifi_scan"),
-                .target(name: "FMDB"),
+                //.target(name: "FMDB"),
                 .target(name: "shared_preferences_foundation"),
                 .target(name: "webview_flutter_wkwebview"),
                 .target(name: "launch_review"),
@@ -43,6 +44,7 @@ let package = Package(
                 .target(name: "url_launcher_ios"),
                 .target(name: "MTBBarcodeScanner"),
                 .target(name: "qr_code_scanner"),
+                .target(name: "fpjs_pro_plugin"),
                 .target(name: "App"),
                 .target(name: "Flutter")
             ]),
@@ -61,6 +63,10 @@ let package = Package(
         .binaryTarget(
                     name: "camera_avfoundation",
                     path: "./Sources/binaryFrameworks/Debug/camera_avfoundation.xcframework"
+                ),
+        .binaryTarget(
+                    name: "device_info_plus",
+                    path: "./Sources/binaryFrameworks/Debug/device_info_plus.xcframework"
                 ),
         .binaryTarget(
                     name: "geocoding_ios",
@@ -82,10 +88,10 @@ let package = Package(
                     name: "webview_flutter_wkwebview",
                     path: "./Sources/binaryFrameworks/Debug/webview_flutter_wkwebview.xcframework"
                 ),
-       /* .binaryTarget(
+        .binaryTarget(
                     name: "launch_review",
                     path: "./Sources/binaryFrameworks/Debug/launch_review.xcframework"
-                ),*/
+                ),
         .binaryTarget(
                     name: "sqflite",
                     path: "./Sources/binaryFrameworks/Debug/sqflite.xcframework"
@@ -121,6 +127,10 @@ let package = Package(
         .binaryTarget(
                     name: "qr_code_scanner",
                     path: "./Sources/binaryFrameworks/Debug/qr_code_scanner.xcframework"
+                ),
+        .binaryTarget(
+                    name: "fpjs_pro_plugin",
+                    path: "./Sources/binaryFrameworks/Debug/fpjs_pro_plugin.xcframework"
                 ),
         .binaryTarget(
                     name: "App",
