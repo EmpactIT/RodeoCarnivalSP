@@ -47,7 +47,7 @@ let package = Package(
                 .target(name: "url_launcher_ios"),
                 .target(name: "MTBBarcodeScanner"),
                 .target(name: "qr_code_scanner"),
-                .target(name: "FingerprintPro"),
+                .target(name: "fpjs_pro_plugin"),
                 .target(name: "empactit_wifi"),
                 .target(name: "App"),
                 .target(name: "Flutter")
@@ -132,10 +132,10 @@ let package = Package(
                     name: "qr_code_scanner",
                     path: "./Sources/binaryFrameworks/Debug/qr_code_scanner.xcframework"
                 ),
-        /*.binaryTarget(
+        .binaryTarget(
                     name: "fpjs_pro_plugin",
-                    path: "./Sources/binaryFrameworks/Debug/fpjs_pro_plugin.xcframework"
-                ),*/
+                    path: "./Sources/binaryFrameworks/FingerprintPro.xcframework"
+                ),
        /* .binaryTarget(
             name: "fpjs_pro_plugin",
             url: "https://fpjs-public.s3.amazonaws.com/ios/\(version)/FingerprintPro-\(version)-\(checksum).xcframework.zip",
