@@ -136,11 +136,11 @@ let package = Package(
                     name: "fpjs_pro_plugin",
                     path: "./Sources/binaryFrameworks/Debug/fpjs_pro_plugin.xcframework"
                 ),*/
-        .binaryTarget(
+       /* .binaryTarget(
             name: "fpjs_pro_plugin",
             url: "https://fpjs-public.s3.amazonaws.com/ios/\(version)/FingerprintPro-\(version)-\(checksum).xcframework.zip",
             checksum: checksum
-        ),
+        ),*/
         .binaryTarget(
                     name: "empactit_wifi",
                     path: "./Sources/binaryFrameworks/Debug/empactit_wifi.xcframework"
