@@ -45,6 +45,7 @@ let package = Package(
                 .target(name: "MTBBarcodeScanner"),
                 .target(name: "qr_code_scanner"),
                 .target(name: "fpjs_pro_plugin"),
+                .target(name: "empactit_wifi"),
                 .target(name: "App"),
                 .target(name: "Flutter")
             ]),
@@ -131,6 +132,10 @@ let package = Package(
         .binaryTarget(
                     name: "fpjs_pro_plugin",
                     path: "./Sources/binaryFrameworks/Debug/fpjs_pro_plugin.xcframework"
+                ),
+        .binaryTarget(
+                    name: "empactit_wifi",
+                    path: "./Sources/binaryFrameworks/Debug/empactit_wifi.xcframework"
                 ),
         .binaryTarget(
                     name: "App",
