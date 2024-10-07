@@ -134,7 +134,7 @@ let package = Package(
                 ),
         .binaryTarget(
                     name: "fpjs_pro_plugin",
-                    path: "./Sources/binaryFrameworks/FingerprintPro.xcframework"
+                    path: "./Sources/binaryFrameworks/Debug/fpjs_pro_plugin.xcframework"
                 ),
        /* .binaryTarget(
             name: "fpjs_pro_plugin",
