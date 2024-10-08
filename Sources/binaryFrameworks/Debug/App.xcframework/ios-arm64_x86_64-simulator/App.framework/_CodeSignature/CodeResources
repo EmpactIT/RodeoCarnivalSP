@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		cz+CrmBPAzxrvvFazjfvjE+3EB0=
+		ip5vuSPnT15rEKozCl3dFYeWGWw=
 		</data>
 		<key>flutter_assets/AssetManifest.smcbin</key>
 		<data>
-		3L3H+gk/67fBjMo9igIdcQoI4fI=
+		atP6hlr8kfMLwlve68Rt6h5Kx1A=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		LITTiZq6GpAQqatvbs28VvEffZI=
+		zVmQnEWtMeLHqE7Eb6LSzKwNYzc=
 		</data>
 		<key>flutter_assets/assets/ewalletsConfig/apple_pay.json</key>
 		<data>
@@ -514,7 +514,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		+Lcxf9fbUh+cOMijMQhl5ba4oe0=
+		mmkqPxSYqyh6q8CQZbYjzNJu/CY=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -1564,10 +1564,6 @@
 		<data>
 		p453Xm+wW9CNOUNDkzGs03wgAmg=
 		</data>
-		<key>flutter_assets/packages/fpjs_pro_plugin/web/index.js</key>
-		<data>
-		MXGww5q9i9HKXfiDZm4QE/1l/Po=
-		</data>
 		<key>flutter_assets/packages/pay_android/assets/ar/add_to.svg</key>
 		<data>
 		JjJtCDfCuClnpEhSpySAmOx/maM=
@@ -2583,14 +2579,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UE1shAwFh+JU0P1gcXuNROjtE8DnhcRZmv1MMVrXiLY=
+			hEXo1xdJG/lrPwai2eHKU4W2u20PbZb6RDuz5SiMCpI=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.smcbin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7k+2nZ1Umml77aQIDk9KCAOXtmv5/7LlZ+bZgAWYkYQ=
+			DxfhQwwGtQQ2BzxR/Jjc5p7ze+ixZCXpEXggPmT0Fjw=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -2604,7 +2600,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9BVbz0S/DwH17cvxOxnR6T01Sb7iTaWDuizv1iYP1TI=
+			+rXl9mRCR62p7XKkMaWiVl2q/auP0hqA7z+pNZrxu0k=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/ewalletsConfig/apple_pay.json</key>
@@ -3465,7 +3461,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oK5WRik8BaOokg0d7S0qu76qoK4CCyaACzk0Hmtz0T8=
+			smhRlteSCsPgGzOigPog01yTaCtOfuDbJ5d3gmnEyjU=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -5300,13 +5296,6 @@
 			<key>hash2</key>
 			<data>
 			ujxdyr0uH6KGOKei2zu2BEX34I4ktxQOdWo6dzmAVPM=
-			</data>
-		</dict>
-		<key>flutter_assets/packages/fpjs_pro_plugin/web/index.js</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			AZlD+zK57zW1OJ8b+uE9Mp5duwgdyDjhtGn7Ck94Cg8=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/pay_android/assets/ar/add_to.svg</key>
