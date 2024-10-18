@@ -41,7 +41,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "FlutterBinaryMessenger",
-                "printedName": "Flutter.FlutterBinaryMessenger",
+                "printedName": "any Flutter.FlutterBinaryMessenger",
                 "usr": "c:objc(pl)FlutterBinaryMessenger"
               }
             ],
@@ -72,7 +72,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "FlutterBinaryMessenger",
-                "printedName": "Flutter.FlutterBinaryMessenger",
+                "printedName": "any Flutter.FlutterBinaryMessenger",
                 "usr": "c:objc(pl)FlutterBinaryMessenger"
               }
             ],
@@ -93,7 +93,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "FlutterPlatformView",
-                "printedName": "Flutter.FlutterPlatformView",
+                "printedName": "any Flutter.FlutterPlatformView",
                 "usr": "c:objc(pl)FlutterPlatformView"
               },
               {
@@ -142,7 +142,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "ProtocolComposition",
-                "printedName": "Flutter.FlutterMessageCodec & ObjectiveC.NSObjectProtocol"
+                "printedName": "any Flutter.FlutterMessageCodec & ObjectiveC.NSObjectProtocol"
               }
             ],
             "declKind": "Func",
@@ -418,7 +418,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "FlutterBinaryMessenger",
-                "printedName": "Flutter.FlutterBinaryMessenger",
+                "printedName": "any Flutter.FlutterBinaryMessenger",
                 "usr": "c:objc(pl)FlutterBinaryMessenger"
               }
             ],
@@ -1424,7 +1424,8 @@
             "objc_name": "paymentAuthorizationControllerWillAuthorizePayment:",
             "declAttributes": [
               "Dynamic",
-              "ObjC"
+              "ObjC",
+              "Custom"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
@@ -1478,7 +1479,8 @@
             "objc_name": "paymentAuthorizationController:didAuthorizePayment:handler:",
             "declAttributes": [
               "Dynamic",
-              "ObjC"
+              "ObjC",
+              "Custom"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
@@ -1508,7 +1510,8 @@
             "objc_name": "paymentAuthorizationControllerDidFinish:",
             "declAttributes": [
               "Dynamic",
-              "ObjC"
+              "ObjC",
+              "Custom"
             ],
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
@@ -1622,7 +1625,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "FlutterPluginRegistrar",
-                "printedName": "Flutter.FlutterPluginRegistrar",
+                "printedName": "any Flutter.FlutterPluginRegistrar",
                 "usr": "c:objc(pl)FlutterPluginRegistrar"
               }
             ],
@@ -2389,7 +2392,11 @@
         "moduleName": "Foundation",
         "intro_Macosx": "10.11",
         "intro_iOS": "9.0",
+        "intro_tvOS": "9.0",
+        "intro_watchOS": "2.0",
         "declAttributes": [
+          "Available",
+          "Available",
           "Available",
           "Available"
         ],

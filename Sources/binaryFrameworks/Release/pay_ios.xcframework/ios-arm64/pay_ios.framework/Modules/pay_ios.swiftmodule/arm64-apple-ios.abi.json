@@ -104,7 +104,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "FlutterPluginRegistrar",
-                "printedName": "Flutter.FlutterPluginRegistrar",
+                "printedName": "any Flutter.FlutterPluginRegistrar",
                 "usr": "c:objc(pl)FlutterPluginRegistrar"
               }
             ],
@@ -866,7 +866,11 @@
         "moduleName": "Foundation",
         "intro_Macosx": "10.11",
         "intro_iOS": "9.0",
+        "intro_tvOS": "9.0",
+        "intro_watchOS": "2.0",
         "declAttributes": [
+          "Available",
+          "Available",
           "Available",
           "Available"
         ],

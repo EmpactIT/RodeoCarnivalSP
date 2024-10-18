@@ -1,0 +1,23 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/bernardo/Projects/RodeoCarnivalSP/Sources/binaryFrameworks/Release/iphoneos/Release-iphoneos/empactit_wifi/empactit_wifi.framework/empactit_wifi'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x57DA9, size: 0x8, addend: 0x0, symName: _empactit_wifiVersionString, symObjAddr: 0x0, symBinAddr: 0xACB0, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x57DDE, size: 0x8, addend: 0x0, symName: _empactit_wifiVersionNumber, symObjAddr: 0x30, symBinAddr: 0xACE0, symSize: 0x0 }
+  - { offsetInCU: 0xD4, offset: 0x57EC8, size: 0x8, addend: 0x0, symName: '_$s13empactit_wifi18EmpactitWifiPluginC8register4withySo07FlutterE9Registrar_p_tFZTo', symObjAddr: 0x11C, symBinAddr: 0x811C, symSize: 0xF0 }
+  - { offsetInCU: 0x19B, offset: 0x57F8F, size: 0x8, addend: 0x0, symName: '_$s13empactit_wifi18EmpactitWifiPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTo', symObjAddr: 0x460, symBinAddr: 0x8460, symSize: 0x78 }
+  - { offsetInCU: 0x1E3, offset: 0x57FD7, size: 0x8, addend: 0x0, symName: '_$s13empactit_wifi18EmpactitWifiPluginCACycfcTo', symObjAddr: 0x508, symBinAddr: 0x8508, symSize: 0x3C }
+  - { offsetInCU: 0x234, offset: 0x58028, size: 0x8, addend: 0x0, symName: '_$s13empactit_wifi18EmpactitWifiPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF015$syXlSgIeyBy_ypM7Iegn_TRyXlSgIeyBy_Tf1ncn_nTf4ndg_n', symObjAddr: 0x59C, symBinAddr: 0x859C, symSize: 0x2CC }
+  - { offsetInCU: 0x2AB, offset: 0x5809F, size: 0x8, addend: 0x0, symName: '_$s13empactit_wifi18EmpactitWifiPluginCMa', symObjAddr: 0xFC, symBinAddr: 0x80FC, symSize: 0x20 }
+  - { offsetInCU: 0x2E4, offset: 0x580D8, size: 0x8, addend: 0x0, symName: '_$sSo8NSObjectCMa', symObjAddr: 0x3A4, symBinAddr: 0x83A4, symSize: 0x3C }
+  - { offsetInCU: 0x2F8, offset: 0x580EC, size: 0x8, addend: 0x0, symName: '_$sypSgWOh', symObjAddr: 0x3E0, symBinAddr: 0x83E0, symSize: 0x40 }
+  - { offsetInCU: 0x30C, offset: 0x58100, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x420, symBinAddr: 0x8420, symSize: 0x40 }
+  - { offsetInCU: 0x32B, offset: 0x5811F, size: 0x8, addend: 0x0, symName: '_$sypSgWOc', symObjAddr: 0x868, symBinAddr: 0x8868, symSize: 0x48 }
+  - { offsetInCU: 0x33F, offset: 0x58133, size: 0x8, addend: 0x0, symName: ___swift_project_boxed_opaque_existential_0, symObjAddr: 0x8B0, symBinAddr: 0x88B0, symSize: 0x24 }
+  - { offsetInCU: 0x353, offset: 0x58147, size: 0x8, addend: 0x0, symName: ___swift_destroy_boxed_opaque_existential_0, symObjAddr: 0x8D4, symBinAddr: 0x88D4, symSize: 0x20 }
+  - { offsetInCU: 0x4D4, offset: 0x582C8, size: 0x8, addend: 0x0, symName: '_$s13empactit_wifi18EmpactitWifiPluginC8register4withySo07FlutterE9Registrar_p_tFZ', symObjAddr: 0x0, symBinAddr: 0x8000, symSize: 0xDC }
+  - { offsetInCU: 0x556, offset: 0x5834A, size: 0x8, addend: 0x0, symName: '_$s13empactit_wifi18EmpactitWifiPluginCACycfC', symObjAddr: 0xDC, symBinAddr: 0x80DC, symSize: 0x20 }
+  - { offsetInCU: 0x591, offset: 0x58385, size: 0x8, addend: 0x0, symName: '_$s13empactit_wifi18EmpactitWifiPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF', symObjAddr: 0x20C, symBinAddr: 0x820C, symSize: 0x198 }
+  - { offsetInCU: 0x5F9, offset: 0x583ED, size: 0x8, addend: 0x0, symName: '_$s13empactit_wifi18EmpactitWifiPluginCACycfc', symObjAddr: 0x4D8, symBinAddr: 0x84D8, symSize: 0x30 }
+  - { offsetInCU: 0x62A, offset: 0x5841E, size: 0x8, addend: 0x0, symName: '_$s13empactit_wifi18EmpactitWifiPluginCfD', symObjAddr: 0x544, symBinAddr: 0x8544, symSize: 0x30 }
+...

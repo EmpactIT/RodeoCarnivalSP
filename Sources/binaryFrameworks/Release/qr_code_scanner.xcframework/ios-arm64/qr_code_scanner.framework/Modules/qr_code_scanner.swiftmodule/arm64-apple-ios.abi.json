@@ -46,7 +46,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "FlutterPluginRegistrar",
-                "printedName": "Flutter.FlutterPluginRegistrar",
+                "printedName": "any Flutter.FlutterPluginRegistrar",
                 "usr": "c:objc(pl)FlutterPluginRegistrar"
               },
               {
@@ -227,7 +227,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "FlutterPluginRegistrar",
-                "printedName": "Flutter.FlutterPluginRegistrar",
+                "printedName": "any Flutter.FlutterPluginRegistrar",
                 "usr": "c:objc(pl)FlutterPluginRegistrar"
               }
             ],
@@ -248,7 +248,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "FlutterPlatformView",
-                "printedName": "Flutter.FlutterPlatformView",
+                "printedName": "any Flutter.FlutterPlatformView",
                 "usr": "c:objc(pl)FlutterPlatformView"
               },
               {
@@ -296,7 +296,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "ProtocolComposition",
-                "printedName": "Flutter.FlutterMessageCodec & ObjectiveC.NSObjectProtocol"
+                "printedName": "any Flutter.FlutterMessageCodec & ObjectiveC.NSObjectProtocol"
               }
             ],
             "declKind": "Func",
@@ -434,7 +434,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "FlutterPluginRegistrar",
-                "printedName": "Flutter.FlutterPluginRegistrar",
+                "printedName": "any Flutter.FlutterPluginRegistrar",
                 "usr": "c:objc(pl)FlutterPluginRegistrar"
               }
             ],
@@ -460,7 +460,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "FlutterPluginRegistrar",
-                "printedName": "Flutter.FlutterPluginRegistrar",
+                "printedName": "any Flutter.FlutterPluginRegistrar",
                 "usr": "c:objc(pl)FlutterPluginRegistrar"
               }
             ],

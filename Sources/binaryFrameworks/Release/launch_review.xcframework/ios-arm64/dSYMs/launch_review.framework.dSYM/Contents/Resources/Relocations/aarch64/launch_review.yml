@@ -1,0 +1,11 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/bernardo/Projects/RodeoCarnivalSP/Sources/binaryFrameworks/Release/iphoneos/Release-iphoneos/launch_review/launch_review.framework/launch_review'
+relocations:
+  - { offsetInCU: 0x33, offset: 0x3C58, size: 0x8, addend: 0x0, symName: _launch_reviewVersionString, symObjAddr: 0x0, symBinAddr: 0x4BB0, symSize: 0x0 }
+  - { offsetInCU: 0x67, offset: 0x3C8C, size: 0x8, addend: 0x0, symName: _launch_reviewVersionNumber, symObjAddr: 0x30, symBinAddr: 0x4BE0, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x3CC8, size: 0x8, addend: 0x0, symName: '+[LaunchReviewPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xA0 }
+  - { offsetInCU: 0xB0, offset: 0x3D51, size: 0x8, addend: 0x0, symName: '+[LaunchReviewPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xA0 }
+  - { offsetInCU: 0x109, offset: 0x3DAA, size: 0x8, addend: 0x0, symName: '-[LaunchReviewPlugin handleMethodCall:result:]', symObjAddr: 0xA0, symBinAddr: 0x40A0, symSize: 0x3FC }
+  - { offsetInCU: 0x22A, offset: 0x3ECB, size: 0x8, addend: 0x0, symName: '-[LaunchReviewPlugin fetchAppIdFromBundleId]', symObjAddr: 0x49C, symBinAddr: 0x449C, symSize: 0x2EC }
+...
