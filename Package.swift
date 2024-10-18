@@ -2,7 +2,8 @@
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
-
+//let checksum = "678df5bce7478060b0fe9490bf7ed10d6fd96eb024890943b51b265504809bb7"
+//let version = "2.6.0"
 let package = Package(
     name: "RodeoCarnivalSP",
     platforms: [
@@ -14,9 +15,11 @@ let package = Package(
             name: "RodeoCarnivalSP",
             targets: ["RodeoCarnivalSP"]),
     ],
+
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
+        //.package(url: "https://github.com/fingerprintjs/fingerprintjs-pro-ios", from: "2.6.0")
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
@@ -24,14 +27,14 @@ let package = Package(
         .target(
             name: "RodeoCarnivalSP",
             dependencies: [
-                .target(name: "device_info_plus"),
-                .target(name: "empactit_wifi"),
                 .target(name: "wifi_iot"),
                 .target(name: "permission_handler_apple"),
                 .target(name: "path_provider_foundation"),
                 .target(name: "camera_avfoundation"),
+                .target(name: "device_info_plus"),
                 .target(name: "geocoding_ios"),
                 .target(name: "wifi_scan"),
+                //.target(name: "FMDB"),
                 .target(name: "shared_preferences_foundation"),
                 .target(name: "webview_flutter_wkwebview"),
                 .target(name: "launch_review"),
@@ -44,17 +47,11 @@ let package = Package(
                 .target(name: "url_launcher_ios"),
                 .target(name: "MTBBarcodeScanner"),
                 .target(name: "qr_code_scanner"),
+                //.target(name: "fpjs_pro_plugin"),
+                .target(name: "empactit_wifi"),
                 .target(name: "App"),
                 .target(name: "Flutter")
             ]),
-        .binaryTarget(
-                        name: "device_info_plus",
-                        path: "./Sources/binaryFrameworks/Release/device_info_plus.xcframework"
-                    ),
-        .binaryTarget(
-                        name: "empactit_wifi",
-                        path: "./Sources/binaryFrameworks/Release/empactit_wifi.xcframework"
-                    ),
         .binaryTarget(
                     name: "wifi_iot",
                     path: "./Sources/binaryFrameworks/Release/wifi_iot.xcframework"
@@ -72,6 +69,10 @@ let package = Package(
                     path: "./Sources/binaryFrameworks/Release/camera_avfoundation.xcframework"
                 ),
         .binaryTarget(
+                    name: "device_info_plus",
+                    path: "./Sources/binaryFrameworks/Release/device_info_plus.xcframework"
+                ),
+        .binaryTarget(
                     name: "geocoding_ios",
                     path: "./Sources/binaryFrameworks/Release/geocoding_ios.xcframework"
                 ),
@@ -79,6 +80,10 @@ let package = Package(
                     name: "wifi_scan",
                     path: "./Sources/binaryFrameworks/Release/wifi_scan.xcframework"
                 ),
+       /* .binaryTarget(
+                    name: "FMDB",
+                    path: "./Sources/binaryFrameworks/Release/FMDB.xcframework"
+                ),*/
         .binaryTarget(
                     name: "shared_preferences_foundation",
                     path: "./Sources/binaryFrameworks/Release/shared_preferences_foundation.xcframework"
@@ -126,6 +131,19 @@ let package = Package(
         .binaryTarget(
                     name: "qr_code_scanner",
                     path: "./Sources/binaryFrameworks/Release/qr_code_scanner.xcframework"
+                ),
+        /*.binaryTarget(
+                    name: "fpjs_pro_plugin",
+                    path: "./Sources/binaryFrameworks/Release/fpjs_pro_plugin.xcframework"
+                ),*/
+       /* .binaryTarget(
+            name: "fpjs_pro_plugin",
+            url: "https://fpjs-public.s3.amazonaws.com/ios/\(version)/FingerprintPro-\(version)-\(checksum).xcframework.zip",
+            checksum: checksum
+        ),*/
+        .binaryTarget(
+                    name: "empactit_wifi",
+                    path: "./Sources/binaryFrameworks/Release/empactit_wifi.xcframework"
                 ),
         .binaryTarget(
                     name: "App",
