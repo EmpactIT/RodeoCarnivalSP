@@ -2,7 +2,7 @@
   "provider": "apple_pay",
   "data": {
     "merchantIdentifier": "merchant.rodeohouston",
-    "displayName": "funpass",
+    "displayName": "rodeohouston",
     "merchantCapabilities": ["3DS", "debit", "credit"],
     "supportedNetworks": ["amex", "visa", "discover", "masterCard"],
     "countryCode": "US",
