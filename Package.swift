@@ -2,8 +2,8 @@
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
-//let checksum = "678df5bce7478060b0fe9490bf7ed10d6fd96eb024890943b51b265504809bb7"
-//let version = "2.6.0"
+let checksum = "678df5bce7478060b0fe9490bf7ed10d6fd96eb024890943b51b265504809bb7"
+let version = "2.6.0"
 let package = Package(
     name: "RodeoCarnivalSP",
     platforms: [
@@ -47,14 +47,14 @@ let package = Package(
                 .target(name: "url_launcher_ios"),
                 .target(name: "MTBBarcodeScanner"),
                 .target(name: "qr_code_scanner"),
-                //.target(name: "fpjs_pro_plugin"),
+                .target(name: "fpjs_pro_plugin"),
                 .target(name: "empactit_wifi"),
                 .target(name: "App"),
                 .target(name: "Flutter" )
             ],
             resources: [
                 .process("PrivacyInfo.xcprivacy"),
-                .process("./Sources/binaryFrameworks/Release/Flutter.xcframework/PrivacyInfo.xcprivacy")
+                //.process("Resources/PrivacyInfo.xcprivacy")
             ]
         ),
         .binaryTarget(
@@ -141,11 +141,11 @@ let package = Package(
                     name: "fpjs_pro_plugin",
                     path: "./Sources/binaryFrameworks/Release/fpjs_pro_plugin.xcframework"
                 ),*/
-       /* .binaryTarget(
+        .binaryTarget(
             name: "fpjs_pro_plugin",
             url: "https://fpjs-public.s3.amazonaws.com/ios/\(version)/FingerprintPro-\(version)-\(checksum).xcframework.zip",
             checksum: checksum
-        ),*/
+        ),
         .binaryTarget(
                     name: "empactit_wifi",
                     path: "./Sources/binaryFrameworks/Release/empactit_wifi.xcframework"
