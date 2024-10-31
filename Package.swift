@@ -30,7 +30,11 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .target(
               name: "FlutterWrapper",
-              dependencies: [.target(name: "Flutter" )]
+              dependencies: [.target(name: "Flutter" )],
+              resources: [
+                  .process("./Sources/binaryFrameworks/Release/Flutter.xcframework/PrivacyInfo.xcprivacy"),
+                  //.process("Resources/PrivacyInfo.xcprivacy")
+              ]
         ),
         .target(
             name: "RodeoCarnivalSP",
