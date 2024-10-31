@@ -50,9 +50,14 @@ let package = Package(
                 //.target(name: "fpjs_pro_plugin"),
                 .target(name: "empactit_wifi"),
                 .target(name: "App"),
-                .target(name: "Flutter")
+                .target(name: "FlutterWrapper" )
             ],
             resources: [.process("PrivacyInfo.xcprivacy")]
+        ),
+        .target(
+            name: "FlutterWrapper",
+            dependencies: [.target(name: "Flutter" )],
+            resources: [.process("./Sources/binaryFrameworks/Release/Flutter.xcframework/PrivacyInfo.xcprivacy")]
         ),
         .binaryTarget(
                     name: "wifi_iot",
