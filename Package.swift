@@ -13,7 +13,11 @@ let package = Package(
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "RodeoCarnivalSP",
-            targets: ["RodeoCarnivalSP"]),
+            targets: ["RodeoCarnivalSP"]
+        ),
+        .library(
+            name: "FlutterSDK",
+            targets: ["FlutterWrapper"]),
     ],
 
     dependencies: [
@@ -24,6 +28,10 @@ let package = Package(
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
+        .target(
+              name: "FlutterWrapper",
+              dependencies: [.target(name: "Flutter" )]
+        ),
         .target(
             name: "RodeoCarnivalSP",
             dependencies: [
@@ -50,7 +58,7 @@ let package = Package(
                 .target(name: "fpjs_pro_plugin"),
                 .target(name: "empactit_wifi"),
                 .target(name: "App"),
-                .target(name: "Flutter" )
+                //.target(name: "Flutter" )
             ],
             resources: [
                 .process("PrivacyInfo.xcprivacy"),
