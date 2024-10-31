@@ -156,7 +156,7 @@ let package = Package(
                 ),
         .binaryTarget(
                     name: "Flutter",
-                    path: "./Sources/binaryFrameworks/Release/Flutter.xcframework.zip"
+                    path: "./Sources/binaryFrameworks/Release/Flutter.xcframework"
                 ),
         
         
