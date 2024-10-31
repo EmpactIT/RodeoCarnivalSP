@@ -50,7 +50,7 @@ let package = Package(
                 //.target(name: "fpjs_pro_plugin"),
                 .target(name: "empactit_wifi"),
                 .target(name: "App"),
-                .target(name: "FlutterWrapper" )
+                //.target(name: "FlutterWrapper" )
             ],
             resources: [.process("PrivacyInfo.xcprivacy")]
         ),
