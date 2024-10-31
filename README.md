@@ -1,3 +1,3 @@
 # RodeoCarnivalSP
 
-A description of this package.
+Carnival module for HLSR app

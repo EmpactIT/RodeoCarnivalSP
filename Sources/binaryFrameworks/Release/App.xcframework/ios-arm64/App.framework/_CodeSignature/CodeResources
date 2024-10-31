@@ -6,15 +6,15 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		85iaADE5tc/NukRC+KGdiZaZ0ZA=
+		h5OB7aKzS5WR9SemvZAyN6FEkJs=
+		</data>
+		<key>flutter_assets/AssetManifest.bin</key>
+		<data>
+		r1xQoeyYWO3S7zJ+Uo8MwesfGU4=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
 		ip5vuSPnT15rEKozCl3dFYeWGWw=
-		</data>
-		<key>flutter_assets/AssetManifest.smcbin</key>
-		<data>
-		atP6hlr8kfMLwlve68Rt6h5Kx1A=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		5Q318EuBYNv+An3j0YqqipZIcAY=
+		YlviTusFmMFlnVZuUdkKpkN2QV0=
 		</data>
 		<key>flutter_assets/assets/ewalletsConfig/apple_pay.json</key>
 		<data>
@@ -506,7 +506,7 @@
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
-		DadehyhC0ARraMY0PvPrqcz0fRA=
+		tqv94eiShhLnJS/Y7dtD+rwZ5Kg=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -1546,7 +1546,7 @@
 		</data>
 		<key>flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf</key>
 		<data>
-		H8UD2Cgjcxk2xTiCvDx2gKMh+Ww=
+		Fw3EKguZodx3NRgNsgOCZYHTF5k=
 		</data>
 		<key>flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf</key>
 		<data>
@@ -2558,23 +2558,23 @@
 		</data>
 		<key>flutter_assets/shaders/ink_sparkle.frag</key>
 		<data>
-		KL+7f3IYR/Y9WDlxxUeDmgGoluc=
+		hBZgIGdEvhX+IvXd5bjkjJVu6+s=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>flutter_assets/AssetManifest.bin</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YsaNBrxG+0AxcnwqfetntYdgbUMFQi/fB4awNy/lZIo=
+			</data>
+		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			hEXo1xdJG/lrPwai2eHKU4W2u20PbZb6RDuz5SiMCpI=
-			</data>
-		</dict>
-		<key>flutter_assets/AssetManifest.smcbin</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DxfhQwwGtQQ2BzxR/Jjc5p7ze+ixZCXpEXggPmT0Fjw=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -2588,7 +2588,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hGOkImuuZCZgH2ofWZAO1XCgsGh952eOCV/+SCWln00=
+			6dwudjaO/LaZiJI48q8wyjLtSpOd5wQNstnIif4wPJ0=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/ewalletsConfig/apple_pay.json</key>
@@ -3435,7 +3435,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DMAYQi6Yl7+/HE0i4WEAipJV+BGitZGgbP6E7kd/WaI=
+			Uibx6f4Gkx9v3IYH9IaFwuhl4gVwTMdklS2bdTFMgWo=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -5255,7 +5255,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uCbrx0AeBI1SxxiMip/bHL/wb8FvCmao5EV2oxTFi7U=
+			UpctkBQgeAQIs6uT+d+FdgsJG5snexogazCbD4IiWN4=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf</key>
@@ -7026,7 +7026,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v6u8YtYjslOLIIb1rrgcOW817fxVEiBaprKuV+f6FpY=
+			0T+w183eMSTh5phjUfkXjg4ZpPYnVqkH4Gv3Ge4QCh8=
 			</data>
 		</dict>
 	</dict>
