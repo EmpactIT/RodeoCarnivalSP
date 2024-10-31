@@ -13,7 +13,7 @@ let package = Package(
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "RodeoCarnivalSP",
-            targets: ["RodeoCarnivalSP", "FlutterWrapper"]),
+            targets: ["RodeoCarnivalSP"]),
     ],
 
     dependencies: [
@@ -50,14 +50,12 @@ let package = Package(
                 //.target(name: "fpjs_pro_plugin"),
                 .target(name: "empactit_wifi"),
                 .target(name: "App"),
-                //.target(name: "FlutterWrapper" )
+                .target(name: "Flutter" )
             ],
-            resources: [.process("PrivacyInfo.xcprivacy")]
-        ),
-        .target(
-            name: "FlutterWrapper",
-            dependencies: [.target(name: "Flutter" )],
-            resources: [.process("./Sources/binaryFrameworks/Release/Flutter.xcframework/PrivacyInfo.xcprivacy")]
+            resources: [
+                .process("PrivacyInfo.xcprivacy"),
+                .process("./Sources/binaryFrameworks/Release/Flutter.xcframework/PrivacyInfo.xcprivacy")
+            ]
         ),
         .binaryTarget(
                     name: "wifi_iot",
