@@ -159,6 +159,7 @@ let package = Package(
                     path: "./Sources/binaryFrameworks/Release/Flutter.xcframework.zip"
                 ),
         
+        
         .testTarget(
             name: "RodeoCarnivalSPTests",
             dependencies: ["RodeoCarnivalSP"]),
