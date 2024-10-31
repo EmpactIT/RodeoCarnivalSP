@@ -32,8 +32,7 @@ let package = Package(
               name: "FlutterWrapper",
               dependencies: [.target(name: "Flutter" )],
               resources: [
-                  .process("./Sources/binaryFrameworks/Release/Flutter.xcframework/PrivacyInfo.xcprivacy"),
-                  //.process("Resources/PrivacyInfo.xcprivacy")
+                  .process("PrivacyInfo.xcprivacy")
               ]
         ),
         .target(
