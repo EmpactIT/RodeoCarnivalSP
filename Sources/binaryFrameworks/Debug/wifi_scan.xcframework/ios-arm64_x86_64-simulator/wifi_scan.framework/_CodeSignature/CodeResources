@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		BbbwC2dtdzmenbHTGFeHvqZQ7P0=
+		u5cjPmNOxJRDeuNCNxAcfflN3yk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/wifi_scan.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Iv+x8YK8EUizbV4lsusvX1qjHMY=
+		DIAyk8vZW126yqUFVTgCsW5LFkQ=
 		</data>
 		<key>Modules/wifi_scan.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		FO1laKArpAlDLN2ODLT1mFH3kXQ=
+		WNZQQGi0MGgLt3Iu6Z9UsludBIE=
 		</data>
 		<key>Modules/wifi_scan.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -38,19 +38,19 @@
 		</data>
 		<key>Modules/wifi_scan.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		xBPCnbxGeuMj9YTRGUd/uSr9mT4=
+		GWlbD19JSqnZ7QeQ6h+eDuy/HHw=
 		</data>
 		<key>Modules/wifi_scan.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		h9izVkZc4rOdYOCVPLrC3BQDekk=
+		80wWm/RQ5xs+F/ZmErfqEERqJmU=
 		</data>
 		<key>Modules/wifi_scan.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		xBPCnbxGeuMj9YTRGUd/uSr9mT4=
+		GWlbD19JSqnZ7QeQ6h+eDuy/HHw=
 		</data>
 		<key>Modules/wifi_scan.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		PHYJaulgmkHn9mtrG+jhIxG8qgg=
+		Y96rv4nJ8a0pLP8io13RJGOa/L0=
 		</data>
 		<key>Modules/wifi_scan.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -58,19 +58,19 @@
 		</data>
 		<key>Modules/wifi_scan.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		SXPWGxK/73eUkqyXgzQtanlffPU=
+		M/r/19PnOWCr197HcDfzt07SiUI=
 		</data>
 		<key>Modules/wifi_scan.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		E/dZ+ZWdiMiSA/QsRTWi5hMfDmE=
+		hQOrAcklp33fFk73dEPCGrJkJe4=
 		</data>
 		<key>Modules/wifi_scan.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		SXPWGxK/73eUkqyXgzQtanlffPU=
+		M/r/19PnOWCr197HcDfzt07SiUI=
 		</data>
 		<key>Modules/wifi_scan.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2VOF7hkyMnk3g4A4C/AQOcTaGeI=
+		THmtlm5AswMOnxTbEf8g+jM8h4o=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -107,14 +107,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v7KPuLKE4uuRmMA8WEOgfNtZkgn058d91jsRpWWuddc=
+			X6uI4PiWl4A3A6GJVFOGxg8xMTVNCpfHKqIOlHcOUgY=
 			</data>
 		</dict>
 		<key>Modules/wifi_scan.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BssxGsR6xEKOqXuLt9aDzdvQZ5kL25Zoc6qlx7HhAlc=
+			8dC+ms73swsdQr5SPXJEmMIJK4B2997GQWEbpkgPrs4=
 			</data>
 		</dict>
 		<key>Modules/wifi_scan.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -128,28 +128,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xluPmaMiT5ifdLPI+kEQZ0pt/dNkqKMitGowgo4BBZ4=
+			P4EuUrBL+EgIlvlkp9Jj1aYT4ZTrLEO/aNjlbZKiKE0=
 			</data>
 		</dict>
 		<key>Modules/wifi_scan.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bY1grMLM/BqShe6D+XAcQtCBH4I5SACTwPRdbdPSAbQ=
+			BLoOhES4CzlL/mn0hxHDK2+Zz/PePuBuD1wvSBicQKw=
 			</data>
 		</dict>
 		<key>Modules/wifi_scan.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xluPmaMiT5ifdLPI+kEQZ0pt/dNkqKMitGowgo4BBZ4=
+			P4EuUrBL+EgIlvlkp9Jj1aYT4ZTrLEO/aNjlbZKiKE0=
 			</data>
 		</dict>
 		<key>Modules/wifi_scan.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3HZBrAeu7VpPel2tRcaDTOIjJbDOThIhB+fMNrjOMR8=
+			xs+334eEMcTwsNgYmmXZSz/lDvV04NOH6y+e80zaWy0=
 			</data>
 		</dict>
 		<key>Modules/wifi_scan.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -163,28 +163,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CElb4IGtmT6eVmngqqgzWAFvONghX0jkgtXePPAjEcA=
+			/b2Eohm9TRRp/cOVvhseF8JI3mCoiSs+x0oOqF8mh0w=
 			</data>
 		</dict>
 		<key>Modules/wifi_scan.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			szZ1LlCxoA4Vfm0sR9AB3IH+ssxv90p4BXXGcdY2ofQ=
+			Wc0WG3j3wGjswbJj+sGSW/oqFv3gbL7FtWFUcE/oG28=
 			</data>
 		</dict>
 		<key>Modules/wifi_scan.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CElb4IGtmT6eVmngqqgzWAFvONghX0jkgtXePPAjEcA=
+			/b2Eohm9TRRp/cOVvhseF8JI3mCoiSs+x0oOqF8mh0w=
 			</data>
 		</dict>
 		<key>Modules/wifi_scan.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			In0E/K+lt7UYoRU48eMBElP/QI6Zy/8LEAfF7lvrT+w=
+			eCpGSiyt5SAPKjFaueSW0gb5CTfPs8jfztAY5DBFhro=
 			</data>
 		</dict>
 	</dict>
