@@ -51,6 +51,9 @@ let package = Package(
                 .target(name: "empactit_wifi"),
                 .target(name: "App"),
                 .target(name: "Flutter")
+            ],
+            resources: [
+                .process("PrivacyInfo.xcprivacy")
             ]),
         .binaryTarget(
                     name: "wifi_iot",
