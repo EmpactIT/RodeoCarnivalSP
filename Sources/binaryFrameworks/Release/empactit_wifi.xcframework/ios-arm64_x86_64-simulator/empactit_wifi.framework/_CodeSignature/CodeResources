@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		48AQBZsZ4LSqktRSKTkZ0VPM0lg=
+		ocwpF7ni3nVIFQYj/rvgz7UPoWA=
 		</data>
 		<key>Modules/empactit_wifi.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		oCVHPrqraFmd5raUPE/tXKUvPO0=
+		L5eSFPmNLKAoQGpP0rsKH3LFLX4=
 		</data>
 		<key>Modules/empactit_wifi.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		987kxloS6aP30XdQZlIBcbonJ/8=
+		ySSb2o9nUSgFHI71JXS+abAuX9A=
 		</data>
 		<key>Modules/empactit_wifi.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/empactit_wifi.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		bGGM+Nz8mNYhLa+wIqbch/zpX1M=
+		5bqUrkt98oFeQADUqyJjCwxnoJw=
 		</data>
 		<key>Modules/empactit_wifi.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		8/xSpq8MO/2K5ns2Rwb4jze5EOk=
+		N8+cy3EU0TkNqPahrz90vWr8rhk=
 		</data>
 		<key>Modules/empactit_wifi.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		bGGM+Nz8mNYhLa+wIqbch/zpX1M=
+		5bqUrkt98oFeQADUqyJjCwxnoJw=
 		</data>
 		<key>Modules/empactit_wifi.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		G93htPt+l/4UQVMax+vuzQLH+Ng=
+		j6I+3KUCW5JBy5825Q5aZ/mZEHI=
 		</data>
 		<key>Modules/empactit_wifi.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -50,19 +50,19 @@
 		</data>
 		<key>Modules/empactit_wifi.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		HMahMDt1wUPNOlEefat524Z0EkM=
+		H8Gega+0YvYNSKPCfQ4s/whBQ+4=
 		</data>
 		<key>Modules/empactit_wifi.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		mB6dFdwZNETgfOmegBnogrDNyww=
+		zDi2eBI8XJwdy7VxMuV3dUh9K0M=
 		</data>
 		<key>Modules/empactit_wifi.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		HMahMDt1wUPNOlEefat524Z0EkM=
+		H8Gega+0YvYNSKPCfQ4s/whBQ+4=
 		</data>
 		<key>Modules/empactit_wifi.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		qQTvDxnnkz/YKDLhrBy5vZQiEc4=
+		zMah1xPK7mgi6Vy55qjowPSwDlA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -89,14 +89,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HxksoP/SqRLGPrud3YFN+keE0SCvSX0u6gij9z1OxMI=
+			1o/qaUrYbkdYw0l1JKVsOVcJu5/wFIyFBU29+ypqRjo=
 			</data>
 		</dict>
 		<key>Modules/empactit_wifi.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/mejhamhJWWy4df1GGx82C9av9VGk1xMBtx1yVSMro8=
+			C8Ylyge+k+fH06VlnTqZwUyuil/pTGcwS9E0ZOu8gk4=
 			</data>
 		</dict>
 		<key>Modules/empactit_wifi.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -110,28 +110,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bQt2u179uQLXHjgT/qBakGJXvZg9Y9qtaXVaF3o1e2A=
+			0YuCSwXShXAI3i6E9ODRlDLlxgvaTn+wPm+thX2DVFI=
 			</data>
 		</dict>
 		<key>Modules/empactit_wifi.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NQFz/HuuWh97bIGIev997VKCGJRfFaV6Q6Nx4l7/1nM=
+			ovJiZs4Sot4oWeZ7sui80P6kaOft0mT4IkFjd3Ju3iQ=
 			</data>
 		</dict>
 		<key>Modules/empactit_wifi.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bQt2u179uQLXHjgT/qBakGJXvZg9Y9qtaXVaF3o1e2A=
+			0YuCSwXShXAI3i6E9ODRlDLlxgvaTn+wPm+thX2DVFI=
 			</data>
 		</dict>
 		<key>Modules/empactit_wifi.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q2PAHm+dgGm0ax2Z9xqowdRLw/0moEi734Vv26oFBRU=
+			eP50jrxNTanP9r9XOkrBOahNvUlgUZCk9R/NcQCEZm4=
 			</data>
 		</dict>
 		<key>Modules/empactit_wifi.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -145,28 +145,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6omuM/yUd9J9KPORDT4Djp7Lj2J2ouVTyAFxt98e+3s=
+			aP1BqJ5r35V0fxu8aWn4qrmd+6zUS3dw4osFFYGIJaw=
 			</data>
 		</dict>
 		<key>Modules/empactit_wifi.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VgUCu5N3Ft+F4WpbllZiASM2+ZMG/UgyofL1EwdnhEs=
+			rCMCqXd9zaTL5NndO0ntfLXufHjAbTMMUJ8cAqIHXv8=
 			</data>
 		</dict>
 		<key>Modules/empactit_wifi.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6omuM/yUd9J9KPORDT4Djp7Lj2J2ouVTyAFxt98e+3s=
+			aP1BqJ5r35V0fxu8aWn4qrmd+6zUS3dw4osFFYGIJaw=
 			</data>
 		</dict>
 		<key>Modules/empactit_wifi.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GSupAB9qXkRoNe8xn0VP7Y81fSvyzRetIKf2A06VIGk=
+			LbPjg3n0c9DV0+QK7x9z3Dk8N3JtlYZ9Gqx30bKZFgY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
