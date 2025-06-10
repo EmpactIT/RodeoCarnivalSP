@@ -1,0 +1,13 @@
+version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
+options: "22d11e589384cb2038a243882c34f57c78081811343262dbb40956475a25d841"
+build_start_time: [1749503746, 683694000]
+build_end_time: [1749503747, 244737000]
+inputs:
+  ? "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/url_launcher_ios-6.3.2/ios/url_launcher_ios/Sources/url_launcher_ios/Launcher.swift"
+  : [1749496169, 201553180]
+  ? "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/url_launcher_ios-6.3.2/ios/url_launcher_ios/Sources/url_launcher_ios/URLLaunchSession.swift"
+  : [1749496169, 201701306]
+  ? "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/url_launcher_ios-6.3.2/ios/url_launcher_ios/Sources/url_launcher_ios/URLLauncherPlugin.swift"
+  : [1749496169, 201859932]
+  ? "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/url_launcher_ios-6.3.2/ios/url_launcher_ios/Sources/url_launcher_ios/messages.g.swift"
+  : [1749496169, 202225393]

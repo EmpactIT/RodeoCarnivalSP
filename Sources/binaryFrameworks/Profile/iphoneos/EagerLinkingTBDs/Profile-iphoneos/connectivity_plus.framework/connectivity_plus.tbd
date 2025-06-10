@@ -1,0 +1,110 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s17connectivity_plus20ConnectivityProviderP0A13UpdateHandlerySayAA0C4TypeOGcSgvgTq",
+            "_$s17connectivity_plus22ConnectivityPlusPluginC16detachFromEngine3forySo07FlutterE9Registrar_p_tFTq",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderC0A13UpdateHandlerySayAA0E4TypeOGcSgvgTq",
+            "_$s17connectivity_plus20ConnectivityProviderP0A13UpdateHandlerySayAA0C4TypeOGcSgvMTq",
+            "_$s17connectivity_plus20ConnectivityProviderP0A13UpdateHandlerySayAA0C4TypeOGcSgvsTq",
+            "_$s17connectivity_plus22ConnectivityPlusPluginCMa",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderCMu",
+            "_$s17connectivity_plus20ConnectivityProviderP0A13UpdateHandlerySayAA0C4TypeOGcSgvsTj",
+            "_$s17connectivity_plus16ConnectivityTypeO4noneyA2CmFWC",
+            "_$s17connectivity_plus22ConnectivityPlusPluginC8onCancel13withArgumentsSo12FlutterErrorCSgypSg_tFTj",
+            "_$s17connectivity_plus22ConnectivityPlusPluginC8onListen13withArguments9eventSinkSo12FlutterErrorCSgypSg_yAJctFTj",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderC5startyyFTq",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderC07currentE5TypesSayAA0E4TypeOGvgTq",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderCMa",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderC5startyyFTj",
+            "_$s17connectivity_plus20ConnectivityProviderP4stopyyFTq",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderC4stopyyFTj",
+            "_connectivity_plusVersionNumber",
+            "_$s17connectivity_plus16ConnectivityTypeO9hashValueSivg",
+            "_$s17connectivity_plus16ConnectivityTypeOMn",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderCAA0eF0AAMc",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderC0A13UpdateHandlerySayAA0E4TypeOGcSgvsTq",
+            "_$s17connectivity_plus20ConnectivityProviderP5startyyFTj",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderC0A13UpdateHandlerySayAA0E4TypeOGcSgvMTj",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderCMo",
+            "_$s17connectivity_plus22ConnectivityPlusPluginCN",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderCN",
+            "_$s17connectivity_plus20ConnectivityProviderMp",
+            "_$s17connectivity_plus16ConnectivityTypeOMa",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderC4stopyyFTq",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderC07currentE5TypesSayAA0E4TypeOGvgTj",
+            "_$s17connectivity_plus16ConnectivityTypeO9hashValueSivpMV",
+            "_$s17connectivity_plus16ConnectivityTypeO4hash4intoys6HasherVz_tF",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderC0A13UpdateHandlerySayAA0E4TypeOGcSgvMTq",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderC0A13UpdateHandlerySayAA0E4TypeOGcSgvgTj",
+            "_connectivity_plusVersionString",
+            "_$s17connectivity_plus22ConnectivityPlusPluginC16detachFromEngine3forySo07FlutterE9Registrar_p_tFTj",
+            "_$s17connectivity_plus22ConnectivityPlusPluginCMn",
+            "_$s17connectivity_plus20ConnectivityProviderP5startyyFTq",
+            "_$s17connectivity_plus16ConnectivityTypeOSQAAMc",
+            "_$s17connectivity_plus16ConnectivityTypeO13wiredEthernetyA2CmFWC",
+            "_$s17connectivity_plus22ConnectivityPlusPluginCACycfc",
+            "_$s17connectivity_plus22ConnectivityPlusPluginCMo",
+            "_$s17connectivity_plus20ConnectivityProviderP07currentC5TypesSayAA0C4TypeOGvgTj",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderCfD",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderC0A13UpdateHandlerySayAA0E4TypeOGcSgvsTj",
+            "_$s17connectivity_plus20ConnectivityProviderP0A13UpdateHandlerySayAA0C4TypeOGcSgvMTj",
+            "_$s17connectivity_plus22ConnectivityPlusPluginC8onListen13withArguments9eventSinkSo12FlutterErrorCSgypSg_yAJctFTq",
+            "_$s17connectivity_plus20ConnectivityProviderP0A13UpdateHandlerySayAA0C4TypeOGcSgvgTj",
+            "_$s17connectivity_plus20ConnectivityProviderP4stopyyFTj",
+            "_$s17connectivity_plus22ConnectivityPlusPluginCACycfC",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderCAA0eF0AAWP",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderC07currentE5TypesSayAA0E4TypeOGvpMV",
+            "_$s17connectivity_plus16ConnectivityTypeO2eeoiySbAC_ACtFZ",
+            "_$s17connectivity_plus20ConnectivityProviderTL",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderC0A13UpdateHandlerySayAA0E4TypeOGcSgvpMV",
+            "_$s17connectivity_plus16ConnectivityTypeO8cellularyA2CmFWC",
+            "_$s17connectivity_plus31PathMonitorConnectivityProviderCMn",
+            "_$s17connectivity_plus16ConnectivityTypeOSHAAMc",
+            "_$s17connectivity_plus16ConnectivityTypeO4wifiyA2CmFWC",
+            "_$s17connectivity_plus22ConnectivityPlusPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTq",
+            "_$s17connectivity_plus22ConnectivityPlusPluginC8register4withySo07FlutterE9Registrar_p_tFZ",
+            "_$s17connectivity_plus16ConnectivityTypeO5otheryA2CmFWC",
+            "_$s17connectivity_plus22ConnectivityPlusPluginCfD",
+            "_$s17connectivity_plus22ConnectivityPlusPluginC8onCancel13withArgumentsSo12FlutterErrorCSgypSg_tFTq",
+            "_$s17connectivity_plus20ConnectivityProviderP07currentC5TypesSayAA0C4TypeOGvgTq",
+            "_$s17connectivity_plus16ConnectivityTypeON",
+            "_$s17connectivity_plus22ConnectivityPlusPluginCMu",
+            "_$s17connectivity_plus22ConnectivityPlusPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTj"
+          ],
+          "objc_class": [
+            "_TtC17connectivity_plus22ConnectivityPlusPlugin",
+            "PodsDummy_connectivity_plus",
+            "_TtC17connectivity_plus31PathMonitorConnectivityProvider"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/connectivity_plus.framework/connectivity_plus"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

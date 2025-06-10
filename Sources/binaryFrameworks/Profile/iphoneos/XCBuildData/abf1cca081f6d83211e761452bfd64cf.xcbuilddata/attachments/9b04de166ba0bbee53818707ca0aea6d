@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/empactit_wifi.build/Objects-normal/arm64/empactit_wifi-master.swiftconstvalues",
+    "dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/empactit_wifi.build/Objects-normal/arm64/empactit_wifi-master.d",
+    "diagnostics" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/empactit_wifi.build/Objects-normal/arm64/empactit_wifi-master.dia",
+    "emit-module-dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/empactit_wifi.build/Objects-normal/arm64/empactit_wifi-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/empactit_wifi.build/Objects-normal/arm64/empactit_wifi-master-emit-module.dia",
+    "swift-dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/empactit_wifi.build/Objects-normal/arm64/empactit_wifi-master.swiftdeps"
+  },
+  "/Users/bernardoiribarne/.pub-cache/git/flutter_plugin_empactit_wifi-b0cb784cbb86cb0d30a8cb6308ff53bca53a8707/empactit_wifi/ios/Classes/EmpactitWifiPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Profile-iphoneos/empactit_wifi.build/Objects-normal/arm64/EmpactitWifiPlugin.o",
+    "llvm-bc" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/empactit_wifi.build/Objects-normal/arm64/EmpactitWifiPlugin.bc",
+    "object" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/empactit_wifi.build/Objects-normal/arm64/EmpactitWifiPlugin.o"
+  }
+}

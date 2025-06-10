@@ -1,0 +1,5 @@
+
+module empactit_wifi.Swift {
+  header "empactit_wifi-Swift.h"
+  requires objc
+}

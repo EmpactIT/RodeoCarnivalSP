@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/empactit_wifi.build/Objects-normal/x86_64/empactit_wifi-master.dia",
+    "emit-module-dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/empactit_wifi.build/Objects-normal/x86_64/empactit_wifi-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/empactit_wifi.build/Objects-normal/x86_64/empactit_wifi-master-emit-module.dia",
+    "swift-dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/empactit_wifi.build/Objects-normal/x86_64/empactit_wifi-master.swiftdeps"
+  },
+  "/Users/bernardoiribarne/.pub-cache/git/flutter_plugin_empactit_wifi-b0cb784cbb86cb0d30a8cb6308ff53bca53a8707/empactit_wifi/ios/Classes/EmpactitWifiPlugin.swift" : {
+    "const-values" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/empactit_wifi.build/Objects-normal/x86_64/EmpactitWifiPlugin.swiftconstvalues",
+    "dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/empactit_wifi.build/Objects-normal/x86_64/EmpactitWifiPlugin.d",
+    "diagnostics" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/empactit_wifi.build/Objects-normal/x86_64/EmpactitWifiPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/empactit_wifi.build/Objects-normal/x86_64/EmpactitWifiPlugin.o",
+    "llvm-bc" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/empactit_wifi.build/Objects-normal/x86_64/EmpactitWifiPlugin.bc",
+    "object" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/empactit_wifi.build/Objects-normal/x86_64/EmpactitWifiPlugin.o",
+    "swift-dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/empactit_wifi.build/Objects-normal/x86_64/EmpactitWifiPlugin.swiftdeps",
+    "swiftmodule" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/empactit_wifi.build/Objects-normal/x86_64/EmpactitWifiPlugin~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s8wifi_iot18SwiftWifiIotPluginCMa",
+            "_$s8wifi_iot18SwiftWifiIotPluginCMn",
+            "_$s8wifi_iot18SwiftWifiIotPluginCACycfC",
+            "_wifi_iotVersionString",
+            "_$s8wifi_iot18SwiftWifiIotPluginC8register4withySo07FlutterF9Registrar_p_tFZ",
+            "_$s8wifi_iot18SwiftWifiIotPluginCfD",
+            "_wifi_iotVersionNumber",
+            "_$s8wifi_iot18SwiftWifiIotPluginCN",
+            "_$s8wifi_iot18SwiftWifiIotPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTj",
+            "_$s8wifi_iot18SwiftWifiIotPluginCACycfc",
+            "_$s8wifi_iot18SwiftWifiIotPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTq",
+            "_$s8wifi_iot18SwiftWifiIotPluginCMo",
+            "_$s8wifi_iot18SwiftWifiIotPluginCMu"
+          ],
+          "objc_class": [
+            "_TtC8wifi_iot18SwiftWifiIotPlugin",
+            "WifiIotPlugin",
+            "PodsDummy_wifi_iot"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/wifi_iot.framework/wifi_iot"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

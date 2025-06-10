@@ -1,0 +1,7 @@
+version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
+options: "b01f5a8744daac3424ebe4205e05a505279020dc4446437914497d725d215dda"
+build_start_time: [1749503742, 180560000]
+build_end_time: [1749503742, 529890000]
+inputs:
+  "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.2/darwin/Classes/PathProviderPlugin.swift": [1748960798, 201331735]
+  "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.2/darwin/Classes/messages.g.swift": [1748960798, 201090451]

@@ -1,0 +1,11 @@
+version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
+options: "c82f330bbc699323dfe2e28d64a7e031480196c309fa9dc86b72515408bc34cd"
+build_start_time: [1749503740, 645323000]
+build_end_time: [1749503741, 186197000]
+inputs:
+  ? "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/connectivity_plus-6.1.0/darwin/connectivity_plus/Sources/connectivity_plus/ConnectivityPlusPlugin.swift"
+  : [1748960795, 419041255]
+  ? "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/connectivity_plus-6.1.0/darwin/connectivity_plus/Sources/connectivity_plus/ConnectivityProvider.swift"
+  : [1748960795, 417979460]
+  ? "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/connectivity_plus-6.1.0/darwin/connectivity_plus/Sources/connectivity_plus/PathMonitorConnectivityProvider.swift"
+  : [1748960795, 418405986]

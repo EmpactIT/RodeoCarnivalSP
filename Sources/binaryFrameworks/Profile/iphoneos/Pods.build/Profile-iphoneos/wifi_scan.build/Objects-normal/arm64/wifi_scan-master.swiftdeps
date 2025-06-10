@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
+options: "68bd98f72e953afb502a07765cdaea9b6fa5afb3a5a0550aa4138d04ce197e8a"
+build_start_time: [1749503748, 586323000]
+build_end_time: [1749503748, 939049000]
+inputs:
+  "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/wifi_scan-0.4.1/ios/Classes/SwiftWifiScanPlugin.swift": [1748960794, 149112428]

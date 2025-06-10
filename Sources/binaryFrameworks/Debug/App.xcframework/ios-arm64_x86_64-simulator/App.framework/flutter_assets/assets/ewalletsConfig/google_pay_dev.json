@@ -11,7 +11,7 @@
           "type": "PAYMENT_GATEWAY",
           "parameters": {
             "gateway": "gatewayservices",
-            "gatewayMerchantId": "481283"
+            "gatewayMerchantId": "1127840"
           }
         },
         "parameters": {

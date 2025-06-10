@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Profile-iphoneos/wifi_scan/wifi_scan.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/wifi_scan.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Profile-iphoneos/wifi_scan/wifi_scan.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "wifi_scan-Swift.h",
+      "external-contents": "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/wifi_scan.build/unextended-interface-header.h",
+    }]
+  }]
+}

@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/wifi_scan.build/Objects-normal/arm64/wifi_scan-master.dia",
+    "emit-module-dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/wifi_scan.build/Objects-normal/arm64/wifi_scan-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/wifi_scan.build/Objects-normal/arm64/wifi_scan-master-emit-module.dia",
+    "swift-dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/wifi_scan.build/Objects-normal/arm64/wifi_scan-master.swiftdeps"
+  },
+  "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/wifi_scan-0.4.1/ios/Classes/SwiftWifiScanPlugin.swift" : {
+    "const-values" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/wifi_scan.build/Objects-normal/arm64/SwiftWifiScanPlugin.swiftconstvalues",
+    "dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/wifi_scan.build/Objects-normal/arm64/SwiftWifiScanPlugin.d",
+    "diagnostics" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/wifi_scan.build/Objects-normal/arm64/SwiftWifiScanPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/wifi_scan.build/Objects-normal/arm64/SwiftWifiScanPlugin.o",
+    "llvm-bc" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/wifi_scan.build/Objects-normal/arm64/SwiftWifiScanPlugin.bc",
+    "object" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/wifi_scan.build/Objects-normal/arm64/SwiftWifiScanPlugin.o",
+    "swift-dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/wifi_scan.build/Objects-normal/arm64/SwiftWifiScanPlugin.swiftdeps",
+    "swiftmodule" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/wifi_scan.build/Objects-normal/arm64/SwiftWifiScanPlugin~partial.swiftmodule"
+  }
+}

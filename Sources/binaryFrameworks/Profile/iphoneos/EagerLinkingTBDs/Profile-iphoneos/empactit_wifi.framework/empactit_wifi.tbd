@@ -1,0 +1,53 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s13empactit_wifi18EmpactitWifiPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTj",
+            "_$s13empactit_wifi18EmpactitWifiPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTq",
+            "_$s13empactit_wifi18EmpactitWifiPluginCACycfc",
+            "_$s13empactit_wifi18EmpactitWifiPluginCN",
+            "_$s13empactit_wifi18EmpactitWifiPluginCACycfC",
+            "_$s13empactit_wifi18EmpactitWifiPluginCfD",
+            "_empactit_wifiVersionNumber",
+            "_empactit_wifiVersionString",
+            "_$s13empactit_wifi18EmpactitWifiPluginCMn",
+            "_$s13empactit_wifi18EmpactitWifiPluginC8register4withySo07FlutterE9Registrar_p_tFZ",
+            "_$s13empactit_wifi18EmpactitWifiPluginCMo",
+            "_$s13empactit_wifi18EmpactitWifiPluginCMa",
+            "_$s13empactit_wifi18EmpactitWifiPluginCMu"
+          ],
+          "objc_class": [
+            "PodsDummy_empactit_wifi",
+            "_TtC13empactit_wifi18EmpactitWifiPlugin"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/empactit_wifi.framework/empactit_wifi"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

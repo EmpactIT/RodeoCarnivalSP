@@ -1,0 +1,8 @@
+version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
+options: "4d1693e298a31bc601ec86096811de4977621cf8a3bf62c7cde48d60c8c62d42"
+build_start_time: [1749503744, 758506000]
+build_end_time: [1749503745, 612357000]
+inputs:
+  "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/qr_code_scanner-1.0.1/ios/Classes/QRView.swift": [1748960794, 226288300]
+  "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/qr_code_scanner-1.0.1/ios/Classes/QRViewFactory.swift": [1748960794, 222218125]
+  "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/qr_code_scanner-1.0.1/ios/Classes/SwiftFlutterQrPlugin.swift": [1748960794, 216297730]

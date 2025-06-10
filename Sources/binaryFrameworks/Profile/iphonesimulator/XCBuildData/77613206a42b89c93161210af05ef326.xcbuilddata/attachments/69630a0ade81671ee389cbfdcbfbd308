@@ -1,0 +1,4 @@
+
+module empactit_wifi.__Swift {
+  exclude header "empactit_wifi-Swift.h"
+}

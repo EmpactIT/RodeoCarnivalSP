@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/connectivity_plus.build/module.modulemap \
+  /Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/empactit_wifi.build/module.modulemap \
+  /Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/path_provider_foundation.build/module.modulemap \
+  /Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/pay_ios.build/module.modulemap \
+  /Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/qr_code_scanner.build/module.modulemap \
+  /Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/shared_preferences_foundation.build/module.modulemap \
+  /Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/url_launcher_ios.build/module.modulemap \
+  /Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/wifi_iot.build/module.modulemap \
+  /Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/wifi_scan.build/module.modulemap \
+  /Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/FlutterPluginRegistrant.build/module.modulemap \
+  /Users/bernardoiribarne/Projects/EmpactIT/flutter_rodeo_carnival_module/.ios/Flutter/FlutterPluginRegistrant/Classes/GeneratedPluginRegistrant.m \
+  /Users/bernardoiribarne/Projects/EmpactIT/flutter_rodeo_carnival_module/.ios/Pods/Target\ Support\ Files/FlutterPluginRegistrant/FlutterPluginRegistrant-prefix.pch \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Users/bernardoiribarne/Projects/EmpactIT/flutter_rodeo_carnival_module/.ios/Flutter/FlutterPluginRegistrant/Classes/GeneratedPluginRegistrant.h \
+  /Users/bernardoiribarne/fvm/versions/3.19.2/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Modules/module.modulemap \
+  /Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/camera_avfoundation.build/module.modulemap \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/camera_avfoundation-0.9.13+10/ios/Classes/CameraPlugin.h \
+  /Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/device_info_plus.build/module.modulemap \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/device_info_plus-10.1.2/ios/Classes/FPPDeviceInfoPlusPlugin.h \
+  /Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/geocoding_ios.build/module.modulemap \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/geocoding_ios-2.1.1/ios/Classes/GeocodingPlugin.h \
+  /Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/launch_review.build/module.modulemap \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/launch_review-3.0.1/ios/Classes/LaunchReviewPlugin.h \
+  /Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/permission_handler_apple.build/module.modulemap \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/permission_handler_apple-9.1.4/ios/Classes/PermissionHandlerPlugin.h \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/qr_code_scanner-1.0.1/ios/Classes/FlutterQrPlugin.h \
+  /Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/sqflite.build/module.modulemap \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/sqflite-2.3.2/darwin/Classes/SqflitePlugin.h \
+  /Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/store_redirect.build/module.modulemap \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/store_redirect-2.0.1/ios/Classes/StoreRedirectPlugin.h \
+  /Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/webview_flutter_wkwebview.build/module.modulemap \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5/ios/Classes/FLTWebViewFlutterPlugin.h \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/wifi_iot-0.3.19/ios/Classes/WifiIotPlugin.h \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/wifi_scan-0.4.1/ios/Classes/WifiScanPlugin.h

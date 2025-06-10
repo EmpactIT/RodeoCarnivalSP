@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Debug-iphonesimulator/pay_ios/pay_ios.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/pay_ios.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Debug-iphonesimulator/pay_ios/pay_ios.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "pay_ios-Swift.h",
+      "external-contents": "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/pay_ios.build/unextended-interface-header.h",
+    }]
+  }]
+}

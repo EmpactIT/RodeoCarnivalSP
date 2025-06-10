@@ -1,0 +1,4 @@
+
+module wifi_iot.__Swift {
+  exclude header "wifi_iot-Swift.h"
+}

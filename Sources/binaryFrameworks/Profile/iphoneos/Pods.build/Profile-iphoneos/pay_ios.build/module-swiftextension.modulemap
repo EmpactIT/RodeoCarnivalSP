@@ -1,0 +1,5 @@
+
+module pay_ios.Swift {
+  header "pay_ios-Swift.h"
+  requires objc
+}

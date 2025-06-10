@@ -1,0 +1,23 @@
+moduledependenciestarget: \
+  /Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/webview_flutter_wkwebview.build/module.modulemap \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5/ios/Classes/webview-umbrella.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.4.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5/ios/Classes/FLTWebViewFlutterPlugin.h \
+  /Users/bernardoiribarne/fvm/versions/3.19.2/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Modules/module.modulemap \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5/ios/Classes/FWFDataConverters.h \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5/ios/Classes/FWFGeneratedWebKitApis.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.4.sdk/System/Library/Frameworks/WebKit.framework/Modules/module.modulemap \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5/ios/Classes/FWFHTTPCookieStoreHostApi.h \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5/ios/Classes/FWFInstanceManager.h \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5/ios/Classes/FWFNavigationDelegateHostApi.h \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5/ios/Classes/FWFObjectHostApi.h \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5/ios/Classes/FWFPreferencesHostApi.h \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5/ios/Classes/FWFScriptMessageHandlerHostApi.h \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5/ios/Classes/FWFScrollViewHostApi.h \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5/ios/Classes/FWFUIDelegateHostApi.h \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5/ios/Classes/FWFWebViewConfigurationHostApi.h \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5/ios/Classes/FWFUIViewHostApi.h \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5/ios/Classes/FWFUserContentControllerHostApi.h \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5/ios/Classes/FWFWebViewHostApi.h \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5/ios/Classes/FWFWebsiteDataStoreHostApi.h \
+  /Users/bernardoiribarne/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5/ios/Classes/FWFInstanceManager_Test.h

@@ -1,0 +1,30 @@
+{
+  "" : {
+    "const-values" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/pay_ios.build/Objects-normal/arm64/pay_ios-master.swiftconstvalues",
+    "dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/pay_ios.build/Objects-normal/arm64/pay_ios-master.d",
+    "diagnostics" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/pay_ios.build/Objects-normal/arm64/pay_ios-master.dia",
+    "emit-module-dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/pay_ios.build/Objects-normal/arm64/pay_ios-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/pay_ios.build/Objects-normal/arm64/pay_ios-master-emit-module.dia",
+    "swift-dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/pay_ios.build/Objects-normal/arm64/pay_ios-master.swiftdeps"
+  },
+  "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/pay_ios-1.0.11/ios/Classes/ApplePayButtonView.swift" : {
+    "index-unit-output-path" : "/Pods.build/Profile-iphoneos/pay_ios.build/Objects-normal/arm64/ApplePayButtonView.o",
+    "llvm-bc" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/pay_ios.build/Objects-normal/arm64/ApplePayButtonView.bc",
+    "object" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/pay_ios.build/Objects-normal/arm64/ApplePayButtonView.o"
+  },
+  "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/pay_ios-1.0.11/ios/Classes/PayPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Profile-iphoneos/pay_ios.build/Objects-normal/arm64/PayPlugin.o",
+    "llvm-bc" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/pay_ios.build/Objects-normal/arm64/PayPlugin.bc",
+    "object" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/pay_ios.build/Objects-normal/arm64/PayPlugin.o"
+  },
+  "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/pay_ios-1.0.11/ios/Classes/PaymentExtensions.swift" : {
+    "index-unit-output-path" : "/Pods.build/Profile-iphoneos/pay_ios.build/Objects-normal/arm64/PaymentExtensions.o",
+    "llvm-bc" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/pay_ios.build/Objects-normal/arm64/PaymentExtensions.bc",
+    "object" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/pay_ios.build/Objects-normal/arm64/PaymentExtensions.o"
+  },
+  "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/pay_ios-1.0.11/ios/Classes/PaymentHandler.swift" : {
+    "index-unit-output-path" : "/Pods.build/Profile-iphoneos/pay_ios.build/Objects-normal/arm64/PaymentHandler.o",
+    "llvm-bc" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/pay_ios.build/Objects-normal/arm64/PaymentHandler.bc",
+    "object" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/pay_ios.build/Objects-normal/arm64/PaymentHandler.o"
+  }
+}

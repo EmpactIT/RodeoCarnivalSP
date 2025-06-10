@@ -1,0 +1,5 @@
+
+module wifi_iot.Swift {
+  header "wifi_iot-Swift.h"
+  requires objc
+}

@@ -1,0 +1,54 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s9wifi_scan19SwiftWifiScanPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTq",
+            "_$s9wifi_scan19SwiftWifiScanPluginCfD",
+            "_$s9wifi_scan19SwiftWifiScanPluginCACycfc",
+            "_$s9wifi_scan19SwiftWifiScanPluginC8register4withySo07FlutterF9Registrar_p_tFZ",
+            "_$s9wifi_scan19SwiftWifiScanPluginCMu",
+            "_$s9wifi_scan19SwiftWifiScanPluginCMn",
+            "_wifi_scanVersionString",
+            "_$s9wifi_scan19SwiftWifiScanPluginCMa",
+            "_wifi_scanVersionNumber",
+            "_$s9wifi_scan19SwiftWifiScanPluginCN",
+            "_$s9wifi_scan19SwiftWifiScanPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTj",
+            "_$s9wifi_scan19SwiftWifiScanPluginCMo",
+            "_$s9wifi_scan19SwiftWifiScanPluginCACycfC"
+          ],
+          "objc_class": [
+            "PodsDummy_wifi_scan",
+            "WifiScanPlugin",
+            "_TtC9wifi_scan19SwiftWifiScanPlugin"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/wifi_scan.framework/wifi_scan"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

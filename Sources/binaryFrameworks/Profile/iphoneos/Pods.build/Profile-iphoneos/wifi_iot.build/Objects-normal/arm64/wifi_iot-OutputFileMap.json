@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/wifi_iot.build/Objects-normal/arm64/wifi_iot-master.swiftconstvalues",
+    "dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/wifi_iot.build/Objects-normal/arm64/wifi_iot-master.d",
+    "diagnostics" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/wifi_iot.build/Objects-normal/arm64/wifi_iot-master.dia",
+    "emit-module-dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/wifi_iot.build/Objects-normal/arm64/wifi_iot-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/wifi_iot.build/Objects-normal/arm64/wifi_iot-master-emit-module.dia",
+    "swift-dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/wifi_iot.build/Objects-normal/arm64/wifi_iot-master.swiftdeps"
+  },
+  "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/wifi_iot-0.3.19/ios/Classes/SwiftWifiIotPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Profile-iphoneos/wifi_iot.build/Objects-normal/arm64/SwiftWifiIotPlugin.o",
+    "llvm-bc" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/wifi_iot.build/Objects-normal/arm64/SwiftWifiIotPlugin.bc",
+    "object" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos/Pods.build/Profile-iphoneos/wifi_iot.build/Objects-normal/arm64/SwiftWifiIotPlugin.o"
+  }
+}

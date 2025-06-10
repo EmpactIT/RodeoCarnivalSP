@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
+options: "cec0b581514add923d3b45e8f7a4958b306dead612c2249b19e7ef8a25f71945"
+build_start_time: [1749503742, 536555000]
+build_end_time: [1749503743, 445201000]
+inputs:
+  "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/pay_ios-1.0.11/ios/Classes/ApplePayButtonView.swift": [1748960796, 923760317]
+  "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/pay_ios-1.0.11/ios/Classes/PayPlugin.swift": [1748960796, 916009793]
+  "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/pay_ios-1.0.11/ios/Classes/PaymentExtensions.swift": [1748960796, 910719434]
+  "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/pay_ios-1.0.11/ios/Classes/PaymentHandler.swift": [1748960796, 922145706]

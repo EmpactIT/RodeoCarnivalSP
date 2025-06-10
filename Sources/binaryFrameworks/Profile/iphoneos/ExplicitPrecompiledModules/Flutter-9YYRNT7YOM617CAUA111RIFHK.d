@@ -1,0 +1,24 @@
+moduledependenciestarget: \
+  /Users/bernardoiribarne/fvm/versions/3.19.2/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Modules/module.modulemap \
+  /Users/bernardoiribarne/fvm/versions/3.19.2/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/Flutter.h \
+  /Users/bernardoiribarne/fvm/versions/3.19.2/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.4.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.4.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.4.sdk/usr/include/TargetConditionals.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.4.sdk/usr/include/DarwinFoundation.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.4.sdk/System/Library/Frameworks/UserNotifications.framework/Modules/module.modulemap \
+  /Users/bernardoiribarne/fvm/versions/3.19.2/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/bernardoiribarne/fvm/versions/3.19.2/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/bernardoiribarne/fvm/versions/3.19.2/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/bernardoiribarne/fvm/versions/3.19.2/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/bernardoiribarne/fvm/versions/3.19.2/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/bernardoiribarne/fvm/versions/3.19.2/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/bernardoiribarne/fvm/versions/3.19.2/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterTexture.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.4.sdk/System/Library/Frameworks/CoreMedia.framework/Modules/module.modulemap \
+  /Users/bernardoiribarne/fvm/versions/3.19.2/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/bernardoiribarne/fvm/versions/3.19.2/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/bernardoiribarne/fvm/versions/3.19.2/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/bernardoiribarne/fvm/versions/3.19.2/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/bernardoiribarne/fvm/versions/3.19.2/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/bernardoiribarne/fvm/versions/3.19.2/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/bernardoiribarne/fvm/versions/3.19.2/bin/cache/artifacts/engine/ios-release/Flutter.xcframework/ios-arm64/Flutter.framework/Headers/FlutterViewController.h

@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/wifi_iot-Swift.h</key>
 		<data>
-		WAwDW93yMG2RNLWYNE6grjmai5k=
+		07oZ5yqkckmco3g6ZnpYJoYvi3Y=
 		</data>
 		<key>Headers/wifi_iot-umbrella.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ykcekPGrC8BJKewaxDFLI0FnAXM=
+		mSpOMZwINxJdos3stqLlUlgK9Pk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -26,51 +26,51 @@
 		</data>
 		<key>Modules/wifi_iot.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Njy9QN5nFd8WbJRLRb57s1+eH5w=
+		HkKST98RWJuilakkFilBPOUDPcg=
 		</data>
 		<key>Modules/wifi_iot.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Sjfsr10j5MpT0NiTilKz67xtZ/A=
+		cKaYecRpkgojeIav71eZ4r1YkQI=
 		</data>
 		<key>Modules/wifi_iot.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		tdN24iIcPS09ZCF5P4qaBqhKziI=
+		M3i98Gs4O4rTQTFml3lQSIQW9yM=
 		</data>
 		<key>Modules/wifi_iot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		SsSS6e2jzEazBLyM2SO+lFnsA98=
+		IuNOb3xpDLbXr/6TctEUhOTists=
 		</data>
 		<key>Modules/wifi_iot.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		yRlor9CvRI511vF2qaaEbbCKxdE=
+		7Oh/23LsNbbeTuRD28SjlcJc0Co=
 		</data>
 		<key>Modules/wifi_iot.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		SsSS6e2jzEazBLyM2SO+lFnsA98=
+		IuNOb3xpDLbXr/6TctEUhOTists=
 		</data>
 		<key>Modules/wifi_iot.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GE89zAT9gKM2FP42fmBw406pWec=
+		8J/Xc1Ile3V55TYa1d6TF4emW5M=
 		</data>
 		<key>Modules/wifi_iot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		tdN24iIcPS09ZCF5P4qaBqhKziI=
+		M3i98Gs4O4rTQTFml3lQSIQW9yM=
 		</data>
 		<key>Modules/wifi_iot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		pBfuxvwBiStGBfqFPF7lRfPH6ow=
+		gOaKIVdWGtMb2KiwSpMMZK/bPK4=
 		</data>
 		<key>Modules/wifi_iot.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		pJpqkbW5Xa8LuI1nV1GWfEZ2bPY=
+		Svi2m4i1XGS2LISS4dadbcSO+Kg=
 		</data>
 		<key>Modules/wifi_iot.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		pBfuxvwBiStGBfqFPF7lRfPH6ow=
+		gOaKIVdWGtMb2KiwSpMMZK/bPK4=
 		</data>
 		<key>Modules/wifi_iot.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		P2sv2tcwx504UmBQ0s5Kq3dZkWQ=
+		Ic3Nj6t8f0AaYAdBuLi10k9WsNU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -86,7 +86,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pMItYFJoOCBMLvq2TF0K/L9gmWwZvacP3h61awiplbM=
+			qCpEBViP5nKmHfTLgCvZWAfs3CzbnXW6RmQ4f8IMuIo=
 			</data>
 		</dict>
 		<key>Headers/wifi_iot-umbrella.h</key>
@@ -107,84 +107,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7/HInw5LkgDccyV9M6s/6GiZoqlYV2NeWM5vkEGFc90=
+			jDeOG4jU2gQxawzMEDeKV5LwhyR0hVJJ3Kk9vzEoYqE=
 			</data>
 		</dict>
 		<key>Modules/wifi_iot.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xMcJYmUDYcfA8YffMVt11L8oRYG7Chup+6o1iyxeyLc=
+			zavKeJ/z2YuEPytVau3jUb2wf39w/lKTeFqnU9JppM0=
 			</data>
 		</dict>
 		<key>Modules/wifi_iot.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YL9hgo5vKcI01YYJDTHB0xue1o2ikAQhpj6plzMEnls=
+			GKxc5vczEg1eemeJbCQT6QuyGuztPsQOP9dHNTZ3nmM=
 			</data>
 		</dict>
 		<key>Modules/wifi_iot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R5mMY5bhK+b7Jhz827YNPATN2RHjMmWtUxsm5XLJdMU=
+			7U9uWMmfr9bxMJImhcS7Iwi6nI6NICrdDnHYNIdJwsE=
 			</data>
 		</dict>
 		<key>Modules/wifi_iot.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7rlQi9gH2OF3UOK7/x/KFXXxQwXASOAGGymjNVNAL1M=
+			Um/gVx2m5EGLk8hUPGg4SLtoFuM92blNL7iRgYUZc3c=
 			</data>
 		</dict>
 		<key>Modules/wifi_iot.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R5mMY5bhK+b7Jhz827YNPATN2RHjMmWtUxsm5XLJdMU=
+			7U9uWMmfr9bxMJImhcS7Iwi6nI6NICrdDnHYNIdJwsE=
 			</data>
 		</dict>
 		<key>Modules/wifi_iot.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YTCmJmoUkweEYHetNKdO9QsASCNaV1tBMH3jowj8g1Q=
+			11+Sq9NSlL+sqO2Q9IhOS5cWawWBiSAG+wUN9XdpjdM=
 			</data>
 		</dict>
 		<key>Modules/wifi_iot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YL9hgo5vKcI01YYJDTHB0xue1o2ikAQhpj6plzMEnls=
+			GKxc5vczEg1eemeJbCQT6QuyGuztPsQOP9dHNTZ3nmM=
 			</data>
 		</dict>
 		<key>Modules/wifi_iot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3kniAOSpKt7E9dbVxDLmD1iB2SvB3xm2D13gpPJPNos=
+			Wl4fctQz6U6kpsgoN55U57R3xA7c6JH+ep01aWy2TE8=
 			</data>
 		</dict>
 		<key>Modules/wifi_iot.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q8baCN9dmpMZ430Nhga4Dwyha2Am4egHIsmfo+vWwSY=
+			AeexmkmGE9LmbANIJioj8XfUyKFzk8NDjZMRLKRmpRs=
 			</data>
 		</dict>
 		<key>Modules/wifi_iot.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3kniAOSpKt7E9dbVxDLmD1iB2SvB3xm2D13gpPJPNos=
+			Wl4fctQz6U6kpsgoN55U57R3xA7c6JH+ep01aWy2TE8=
 			</data>
 		</dict>
 		<key>Modules/wifi_iot.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k/JPNvpVOjII+tqv82qXBPaJblEtsGoFjmlOUdSDcG4=
+			2GVgvvdhNILKz5OysFf7NDx4ApwazmUv6lisd6qx3Uc=
 			</data>
 		</dict>
 	</dict>

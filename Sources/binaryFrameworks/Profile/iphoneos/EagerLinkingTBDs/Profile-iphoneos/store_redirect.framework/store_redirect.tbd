@@ -1,0 +1,37 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_store_redirectVersionString",
+            "_store_redirectVersionNumber"
+          ],
+          "objc_class": [
+            "PodsDummy_store_redirect",
+            "StoreRedirectPlugin"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/store_redirect.framework/store_redirect"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

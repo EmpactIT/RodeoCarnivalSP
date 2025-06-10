@@ -1,0 +1,6 @@
+version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
+options: "b4ab57b46568bbeea1c1ad9e94b417fe5784cce67ac4cc644153cf3569989c22"
+build_start_time: [1749503747, 732644000]
+build_end_time: [1749503748, 579992000]
+inputs:
+  "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/wifi_iot-0.3.19/ios/Classes/SwiftWifiIotPlugin.swift": [1748960794, 108371935]

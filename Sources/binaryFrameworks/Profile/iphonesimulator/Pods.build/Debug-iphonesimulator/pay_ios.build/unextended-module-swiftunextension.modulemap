@@ -1,0 +1,4 @@
+
+module pay_ios.__Swift {
+  exclude header "pay_ios-Swift.h"
+}

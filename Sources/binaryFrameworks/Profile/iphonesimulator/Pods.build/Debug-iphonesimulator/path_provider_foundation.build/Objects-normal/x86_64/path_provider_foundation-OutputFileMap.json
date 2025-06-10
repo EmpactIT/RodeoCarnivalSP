@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/path_provider_foundation.build/Objects-normal/x86_64/path_provider_foundation-master.dia",
+    "emit-module-dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/path_provider_foundation.build/Objects-normal/x86_64/path_provider_foundation-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/path_provider_foundation.build/Objects-normal/x86_64/path_provider_foundation-master-emit-module.dia",
+    "swift-dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/path_provider_foundation.build/Objects-normal/x86_64/path_provider_foundation-master.swiftdeps"
+  },
+  "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.2/darwin/Classes/PathProviderPlugin.swift" : {
+    "const-values" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/path_provider_foundation.build/Objects-normal/x86_64/PathProviderPlugin.swiftconstvalues",
+    "dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/path_provider_foundation.build/Objects-normal/x86_64/PathProviderPlugin.d",
+    "diagnostics" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/path_provider_foundation.build/Objects-normal/x86_64/PathProviderPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/path_provider_foundation.build/Objects-normal/x86_64/PathProviderPlugin.o",
+    "llvm-bc" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/path_provider_foundation.build/Objects-normal/x86_64/PathProviderPlugin.bc",
+    "object" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/path_provider_foundation.build/Objects-normal/x86_64/PathProviderPlugin.o",
+    "swift-dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/path_provider_foundation.build/Objects-normal/x86_64/PathProviderPlugin.swiftdeps",
+    "swiftmodule" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/path_provider_foundation.build/Objects-normal/x86_64/PathProviderPlugin~partial.swiftmodule"
+  },
+  "/Users/bernardoiribarne/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.2/darwin/Classes/messages.g.swift" : {
+    "const-values" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/path_provider_foundation.build/Objects-normal/x86_64/messages.g.swiftconstvalues",
+    "dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/path_provider_foundation.build/Objects-normal/x86_64/messages.g.d",
+    "diagnostics" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/path_provider_foundation.build/Objects-normal/x86_64/messages.g.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/path_provider_foundation.build/Objects-normal/x86_64/messages.g.o",
+    "llvm-bc" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/path_provider_foundation.build/Objects-normal/x86_64/messages.g.bc",
+    "object" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/path_provider_foundation.build/Objects-normal/x86_64/messages.g.o",
+    "swift-dependencies" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/path_provider_foundation.build/Objects-normal/x86_64/messages.g.swiftdeps",
+    "swiftmodule" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphonesimulator/Pods.build/Debug-iphonesimulator/path_provider_foundation.build/Objects-normal/x86_64/messages.g~partial.swiftmodule"
+  }
+}

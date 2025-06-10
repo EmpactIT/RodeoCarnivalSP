@@ -1,0 +1,65 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$sSo9PKContactC7pay_iosE12toDictionarySDySSypGyF",
+            "_$sSo15PKPaymentMethodC7pay_iosE12toDictionarySDySSypGyF",
+            "_$sSo24PKPaymentSummaryItemTypeV7pay_iosE10fromStringyABSSFZ",
+            "_$s10Foundation20PersonNameComponentsV7pay_iosE12toDictionarySDySSypGSgyF",
+            "_$s7pay_ios9PayPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTq",
+            "_$s7pay_ios9PayPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTj",
+            "_$sSo9PKPaymentC7pay_iosE12toDictionarySDySSypGyF",
+            "_$s7pay_ios9PayPluginCN",
+            "_$sSo15CNPostalAddressC7pay_iosE12toDictionarySDySSypGyF",
+            "_$s7pay_ios9PayPluginCfD",
+            "_$sSo16PKPaymentNetworka7pay_iosE10fromStringyABSgSSFZ",
+            "_$sSo16PKShippingMethodC7pay_iosE12toDictionarySDySSypSgGyF",
+            "_$sSo14PKContactFielda7pay_iosE10fromStringyABSgSSFZ",
+            "_$sSo19PKPaymentButtonTypeV7pay_iosE10fromStringyABSgSSFZ",
+            "_pay_iosVersionString",
+            "_$sSo20PKMerchantCapabilityV7pay_iosE10fromStringyABSgSSFZ",
+            "_$sSo20PKPaymentButtonStyleV7pay_iosE10fromStringyABSgSSFZ",
+            "_pay_iosVersionNumber",
+            "_$s7pay_ios9PayPluginCACycfC",
+            "_$s7pay_ios9PayPluginCMu",
+            "_$s7pay_ios9PayPluginCMa",
+            "_$s7pay_ios9PayPluginCACycfc",
+            "_$s7pay_ios9PayPluginCMn",
+            "_$s7pay_ios9PayPluginCMo",
+            "_$s7pay_ios9PayPluginC8register4withySo07FlutterD9Registrar_p_tFZ"
+          ],
+          "objc_class": [
+            "_TtC7pay_ios9PayPlugin",
+            "PodsDummy_pay_ios"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/pay_ios.framework/pay_ios"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

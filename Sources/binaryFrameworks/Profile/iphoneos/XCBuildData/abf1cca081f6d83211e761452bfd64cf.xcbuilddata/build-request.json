@@ -1,0 +1,127 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98f08a09402d437c098acddc7bcf497e64"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98b9038e7e871b75150c57ed973218b158"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98144902882b713248a71c322fd5b2f4ee"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9831ced05e49f553f4d1bb4a7cc8ab09f7"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98d41ce0bf2141365ff0288286787936d9"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98583f48d08e567205bb589ccf43c23e63"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e984c468fc4da0086dbd45e45ab5776ff73"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e989da425bb6d6d5d8dbb95e4afffb82217"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e980eb3705e9e04386ff26289cf4a880adf"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98a9264f727d973888bb984bf45da252f2"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e27b1056079741a6bb5419e0adb367a7"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98b66589e559e86b96e7ab7c12d34548fe"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9830037b09fee48cfce1f8562d753688c8"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e987ea64ee8d53085bf9edd1a57aaf8cbb5"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98f094edb913fafe1be46e69707b661ecb"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98ef10255b706f98e1e88fae00855b0968"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98312b4bc59bbbe2c06c205bf4da6737f5"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e7cbafb63ff4e03edd5285aa56a57295"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9828cab1f188854e0a973e6ff6905c5ffe"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e0be3b0d5ad56f1985578b1f97431765"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e983786431ce548989b846bbf1a7384f58e"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9894b6f514aa32ee4cfdd7fc11c1ff5321"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e85a7b32acad81beab4f18bd33060437"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98903e66fa03d6d27edaa18126a82c20fd"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9891b3b8cc56823cdea4b418e009a423b2"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e988efdc4dd0ac29b43123295eca853f4ed"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9804f62765aaeff3fc5377d11ffa13e528"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98c7a63e0ca7bcb3b7739ab14b84318430"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98f08a09402d437c098acddc7bcf497e64"
+    }
+  ],
+  "containerPath" : "/Users/bernardoiribarne/Projects/EmpactIT/flutter_rodeo_carnival_module/.ios/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "configurationName" : "Profile",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "BUILD_LIBRARY_FOR_DISTRIBUTION" : "YES",
+          "ONLY_ACTIVE_ARCH" : "NO",
+          "SDKROOT" : "iphoneos18.4",
+          "SYMROOT" : "/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Profile/iphoneos"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

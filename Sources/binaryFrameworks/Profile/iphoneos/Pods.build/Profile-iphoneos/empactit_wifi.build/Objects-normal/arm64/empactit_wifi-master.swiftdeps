@@ -1,0 +1,7 @@
+version: "Apple Swift version 6.1 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)"
+options: "6382e211248cc7594ae4952de0d30527f36c85c51098fb961d846792f3572807"
+build_start_time: [1749503741, 401284000]
+build_end_time: [1749503741, 739344000]
+inputs:
+  ? "/Users/bernardoiribarne/.pub-cache/git/flutter_plugin_empactit_wifi-b0cb784cbb86cb0d30a8cb6308ff53bca53a8707/empactit_wifi/ios/Classes/EmpactitWifiPlugin.swift"
+  : [1748960793, 642993910]
