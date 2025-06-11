@@ -1,96 +1,85 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/bernardo/Projects/RodeoCarnivalSP/Sources/binaryFrameworks/Release/iphoneos/Release-iphoneos/connectivity_plus/connectivity_plus.framework/connectivity_plus'
+binary-path:     '/Users/bernardoiribarne/Projects/EmpactIT/RodeoCarnivalSP/Sources/binaryFrameworks/Release/iphoneos/Release-iphoneos/connectivity_plus/connectivity_plus.framework/connectivity_plus'
 relocations:
-  - { offsetInCU: 0x34, offset: 0x5A735, size: 0x8, addend: 0x0, symName: _connectivity_plusVersionString, symObjAddr: 0x0, symBinAddr: 0x9060, symSize: 0x0 }
-  - { offsetInCU: 0x69, offset: 0x5A76A, size: 0x8, addend: 0x0, symName: _connectivity_plusVersionNumber, symObjAddr: 0x30, symBinAddr: 0x9090, symSize: 0x0 }
-  - { offsetInCU: 0x68, offset: 0x5A7E8, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC8register4withySo07FlutterE9Registrar_p_tFZTo', symObjAddr: 0x4, symBinAddr: 0x4004, symSize: 0x30 }
-  - { offsetInCU: 0xD0, offset: 0x5A850, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC16detachFromEngine3forySo07FlutterE9Registrar_p_tFTo', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x94 }
-  - { offsetInCU: 0x17F, offset: 0x5A8FF, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTo', symObjAddr: 0x294, symBinAddr: 0x4294, symSize: 0x7C }
-  - { offsetInCU: 0x1D1, offset: 0x5A951, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC8onListen13withArguments9eventSinkSo12FlutterErrorCSgypSg_yAJctFTo', symObjAddr: 0x47C, symBinAddr: 0x447C, symSize: 0x12C }
-  - { offsetInCU: 0x28C, offset: 0x5AA0C, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC8onCancel13withArgumentsSo12FlutterErrorCSgypSg_tFTo', symObjAddr: 0x8F4, symBinAddr: 0x48F4, symSize: 0xB8 }
-  - { offsetInCU: 0x325, offset: 0x5AAA5, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginCACycfcTo', symObjAddr: 0x9F8, symBinAddr: 0x49F8, symSize: 0x2C }
-  - { offsetInCU: 0x3BA, offset: 0x5AB3A, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC0A8ProviderAcA0cF0_p_tcfcTf4en_nAA011PathMonitorcF0C_Tg5', symObjAddr: 0xB68, symBinAddr: 0x4B68, symSize: 0x118 }
-  - { offsetInCU: 0x46A, offset: 0x5ABEA, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC8register4withySo07FlutterE9Registrar_p_tFZTf4nd_n', symObjAddr: 0xC80, symBinAddr: 0x4C80, symSize: 0x19C }
-  - { offsetInCU: 0x57C, offset: 0x5ACFC, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF015$syXlSgIeyBy_ypM7Iegn_TRyXlSgIeyBy_Tf1ncn_nTf4nng_n', symObjAddr: 0x1148, symBinAddr: 0x5148, symSize: 0x2A4 }
-  - { offsetInCU: 0x696, offset: 0x5AE16, size: 0x8, addend: 0x0, symName: '_$syXlSgIeyBy_ypSgIegn_TR', symObjAddr: 0x310, symBinAddr: 0x4310, symSize: 0xD0 }
-  - { offsetInCU: 0x6AA, offset: 0x5AE2A, size: 0x8, addend: 0x0, symName: '_$sIeg_IeyB_TR', symObjAddr: 0x864, symBinAddr: 0x4864, symSize: 0x2C }
-  - { offsetInCU: 0x6D8, offset: 0x5AE58, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginCfETo', symObjAddr: 0xA54, symBinAddr: 0x4A54, symSize: 0x3C }
-  - { offsetInCU: 0x7E2, offset: 0x5AF62, size: 0x8, addend: 0x0, symName: '_$sypSgIegn_SgWOe', symObjAddr: 0xE1C, symBinAddr: 0x4E1C, symSize: 0x10 }
-  - { offsetInCU: 0x7F6, offset: 0x5AF76, size: 0x8, addend: 0x0, symName: '_$sypSgWOh', symObjAddr: 0xE2C, symBinAddr: 0x4E2C, symSize: 0x40 }
-  - { offsetInCU: 0x80A, offset: 0x5AF8A, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0xE6C, symBinAddr: 0x4E6C, symSize: 0x40 }
-  - { offsetInCU: 0x975, offset: 0x5B0F5, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginCMa', symObjAddr: 0xFF4, symBinAddr: 0x4FF4, symSize: 0x20 }
-  - { offsetInCU: 0x989, offset: 0x5B109, size: 0x8, addend: 0x0, symName: '_$syXlSgIeyBy_ypSgIegn_TRTA', symObjAddr: 0x10B4, symBinAddr: 0x50B4, symSize: 0x8 }
-  - { offsetInCU: 0x99D, offset: 0x5B11D, size: 0x8, addend: 0x0, symName: '_$sypSgWOc', symObjAddr: 0x10BC, symBinAddr: 0x50BC, symSize: 0x48 }
-  - { offsetInCU: 0x9B1, offset: 0x5B131, size: 0x8, addend: 0x0, symName: ___swift_project_boxed_opaque_existential_0, symObjAddr: 0x1104, symBinAddr: 0x5104, symSize: 0x24 }
-  - { offsetInCU: 0x9C5, offset: 0x5B145, size: 0x8, addend: 0x0, symName: ___swift_destroy_boxed_opaque_existential_0, symObjAddr: 0x1128, symBinAddr: 0x5128, symSize: 0x20 }
-  - { offsetInCU: 0x9E4, offset: 0x5B164, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC0A13UpdateHandler33_D6FCED2D5D620BC5A1BBE53B5F72CEB9LL0A5TypesySayAA0C4TypeOG_tFyyScMYccfU_TA', symObjAddr: 0x1450, symBinAddr: 0x5450, symSize: 0x8 }
-  - { offsetInCU: 0x9F8, offset: 0x5B178, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x1458, symBinAddr: 0x5458, symSize: 0x10 }
-  - { offsetInCU: 0xA0C, offset: 0x5B18C, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x1468, symBinAddr: 0x5468, symSize: 0x8 }
-  - { offsetInCU: 0xA20, offset: 0x5B1A0, size: 0x8, addend: 0x0, symName: '_$sSay8Dispatch0A13WorkItemFlagsVGMa', symObjAddr: 0x14B0, symBinAddr: 0x54B0, symSize: 0x54 }
-  - { offsetInCU: 0xA34, offset: 0x5B1B4, size: 0x8, addend: 0x0, symName: '_$sypSgIegn_SgWOy', symObjAddr: 0x1504, symBinAddr: 0x5504, symSize: 0x10 }
-  - { offsetInCU: 0xA48, offset: 0x5B1C8, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC0A8ProviderAcA0cF0_p_tcfcySayAA0C4TypeOGcACcfu_yAHcfu0_TA', symObjAddr: 0x1538, symBinAddr: 0x5538, symSize: 0x20 }
-  - { offsetInCU: 0xB60, offset: 0x5B2E0, size: 0x8, addend: 0x0, symName: '_$sSlsE3mapySayqd__Gqd__7ElementQzKXEKlFSay17connectivity_plus16ConnectivityTypeOG_SSTg5023$s17connectivity_plus22e82PlusPluginC10statusFrom33_D6FCED2D5D620BC5A1BBE53B5F72CEB9LL0A5TypesSaySSGSayAA0C4F14OG_tFSSAIXEfU_AE0eiJ0CTf1cn_nTf4nd_n', symObjAddr: 0xEAC, symBinAddr: 0x4EAC, symSize: 0x148 }
-  - { offsetInCU: 0xE45, offset: 0x5B5C5, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC8register4withySo07FlutterE9Registrar_p_tFZ', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x4 }
-  - { offsetInCU: 0xE96, offset: 0x5B616, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC16detachFromEngine3forySo07FlutterE9Registrar_p_tF', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x54 }
-  - { offsetInCU: 0xF3A, offset: 0x5B6BA, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF', symObjAddr: 0x11C, symBinAddr: 0x411C, symSize: 0x178 }
-  - { offsetInCU: 0xFE6, offset: 0x5B766, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC8onListen13withArguments9eventSinkSo12FlutterErrorCSgypSg_yAJctF', symObjAddr: 0x3E0, symBinAddr: 0x43E0, symSize: 0x9C }
-  - { offsetInCU: 0x10B1, offset: 0x5B831, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC0A13UpdateHandler33_D6FCED2D5D620BC5A1BBE53B5F72CEB9LL0A5TypesySayAA0C4TypeOG_tF', symObjAddr: 0x5A8, symBinAddr: 0x45A8, symSize: 0x210 }
-  - { offsetInCU: 0x1107, offset: 0x5B887, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC0A13UpdateHandler33_D6FCED2D5D620BC5A1BBE53B5F72CEB9LL0A5TypesySayAA0C4TypeOG_tFyyScMYccfU_', symObjAddr: 0x7B8, symBinAddr: 0x47B8, symSize: 0xAC }
-  - { offsetInCU: 0x11A0, offset: 0x5B920, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC8onCancel13withArgumentsSo12FlutterErrorCSgypSg_tF', symObjAddr: 0x890, symBinAddr: 0x4890, symSize: 0x64 }
-  - { offsetInCU: 0x120D, offset: 0x5B98D, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginCACycfC', symObjAddr: 0x9AC, symBinAddr: 0x49AC, symSize: 0x20 }
-  - { offsetInCU: 0x1221, offset: 0x5B9A1, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginCACycfc', symObjAddr: 0x9CC, symBinAddr: 0x49CC, symSize: 0x2C }
-  - { offsetInCU: 0x127A, offset: 0x5B9FA, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginCfD', symObjAddr: 0xA24, symBinAddr: 0x4A24, symSize: 0x30 }
-  - { offsetInCU: 0x129D, offset: 0x5BA1D, size: 0x8, addend: 0x0, symName: '_$ss15ContiguousArrayV16_createNewBuffer14bufferIsUnique15minimumCapacity13growForAppendySb_SiSbtFSS_Tg5', symObjAddr: 0xA90, symBinAddr: 0x4A90, symSize: 0x1C }
-  - { offsetInCU: 0x12DB, offset: 0x5BA5B, size: 0x8, addend: 0x0, symName: '_$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSS_Tg5', symObjAddr: 0xAAC, symBinAddr: 0x4AAC, symSize: 0xBC }
-  - { offsetInCU: 0x27, offset: 0x5BBD9, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeO2eeoiySbAC_ACtFZ', symObjAddr: 0x0, symBinAddr: 0x5558, symSize: 0x14 }
-  - { offsetInCU: 0xA6, offset: 0x5BC58, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOSQAASQ2eeoiySbx_xtFZTW', symObjAddr: 0x80, symBinAddr: 0x55D8, symSize: 0x14 }
-  - { offsetInCU: 0xC6, offset: 0x5BC78, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOSQAASQ2eeoiySbx_xtFZTW', symObjAddr: 0x80, symBinAddr: 0x55D8, symSize: 0x14 }
-  - { offsetInCU: 0xEC, offset: 0x5BC9E, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOSHAASH9hashValueSivgTW', symObjAddr: 0x94, symBinAddr: 0x55EC, symSize: 0x44 }
-  - { offsetInCU: 0x1CF, offset: 0x5BD81, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOSHAASH4hash4intoys6HasherVz_tFTW', symObjAddr: 0xD8, symBinAddr: 0x5630, symSize: 0x28 }
-  - { offsetInCU: 0x262, offset: 0x5BE14, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOSHAASQWb', symObjAddr: 0x140, symBinAddr: 0x5698, symSize: 0x4 }
-  - { offsetInCU: 0x276, offset: 0x5BE28, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOACSQAAWl', symObjAddr: 0x144, symBinAddr: 0x569C, symSize: 0x44 }
-  - { offsetInCU: 0x28A, offset: 0x5BE3C, size: 0x8, addend: 0x0, symName: ___swift_memcpy1_1, symObjAddr: 0x188, symBinAddr: 0x56E0, symSize: 0xC }
-  - { offsetInCU: 0x29E, offset: 0x5BE50, size: 0x8, addend: 0x0, symName: ___swift_noop_void_return, symObjAddr: 0x194, symBinAddr: 0x56EC, symSize: 0x4 }
-  - { offsetInCU: 0x2B2, offset: 0x5BE64, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOwet', symObjAddr: 0x198, symBinAddr: 0x56F0, symSize: 0x90 }
-  - { offsetInCU: 0x2C6, offset: 0x5BE78, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOwst', symObjAddr: 0x228, symBinAddr: 0x5780, symSize: 0xBC }
-  - { offsetInCU: 0x2DA, offset: 0x5BE8C, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOwug', symObjAddr: 0x2E4, symBinAddr: 0x583C, symSize: 0x8 }
-  - { offsetInCU: 0x2EE, offset: 0x5BEA0, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOwup', symObjAddr: 0x2EC, symBinAddr: 0x5844, symSize: 0x4 }
-  - { offsetInCU: 0x302, offset: 0x5BEB4, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOwui', symObjAddr: 0x2F0, symBinAddr: 0x5848, symSize: 0x8 }
-  - { offsetInCU: 0x316, offset: 0x5BEC8, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOMa', symObjAddr: 0x2F8, symBinAddr: 0x5850, symSize: 0x10 }
-  - { offsetInCU: 0x3A7, offset: 0x5BF59, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOSHAASH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0x100, symBinAddr: 0x5658, symSize: 0x40 }
-  - { offsetInCU: 0x4D4, offset: 0x5C086, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeO2eeoiySbAC_ACtFZ', symObjAddr: 0x0, symBinAddr: 0x5558, symSize: 0x14 }
-  - { offsetInCU: 0x51B, offset: 0x5C0CD, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeO4hash4intoys6HasherVz_tF', symObjAddr: 0x14, symBinAddr: 0x556C, symSize: 0x28 }
-  - { offsetInCU: 0x5A6, offset: 0x5C158, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeO9hashValueSivg', symObjAddr: 0x3C, symBinAddr: 0x5594, symSize: 0x44 }
-  - { offsetInCU: 0x150, offset: 0x5C3B1, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderCACycfcTo', symObjAddr: 0x544, symBinAddr: 0x5DD4, symSize: 0x20 }
-  - { offsetInCU: 0x1B3, offset: 0x5C414, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC06ensurecD033_DC44086486C9B1E03CB96CC218EB1188LL7Network06NWPathD0CyFyAF0P0VcACcfu_yAJcfu0_', symObjAddr: 0x68C, symBinAddr: 0x5F1C, symSize: 0x88 }
-  - { offsetInCU: 0x245, offset: 0x5C4A6, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderCAA0eF0A2aDP07currentE5TypesSayAA0E4TypeOGvgTW', symObjAddr: 0x7CC, symBinAddr: 0x605C, symSize: 0x4 }
-  - { offsetInCU: 0x261, offset: 0x5C4C2, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderCAA0eF0A2aDP0A13UpdateHandlerySayAA0E4TypeOGcSgvgTW', symObjAddr: 0x7D0, symBinAddr: 0x6060, symSize: 0x58 }
-  - { offsetInCU: 0x29E, offset: 0x5C4FF, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderCAA0eF0A2aDP0A13UpdateHandlerySayAA0E4TypeOGcSgvsTW', symObjAddr: 0x828, symBinAddr: 0x60B8, symSize: 0x5C }
-  - { offsetInCU: 0x2E5, offset: 0x5C546, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderCAA0eF0A2aDP0A13UpdateHandlerySayAA0E4TypeOGcSgvMTW', symObjAddr: 0x884, symBinAddr: 0x6114, symSize: 0x44 }
-  - { offsetInCU: 0x322, offset: 0x5C583, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderCAA0eF0A2aDP5startyyFTW', symObjAddr: 0x8C8, symBinAddr: 0x6158, symSize: 0x4 }
-  - { offsetInCU: 0x33E, offset: 0x5C59F, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderCAA0eF0A2aDP4stopyyFTW', symObjAddr: 0x8CC, symBinAddr: 0x615C, symSize: 0x58 }
-  - { offsetInCU: 0x3B9, offset: 0x5C61A, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC0A4From33_DC44086486C9B1E03CB96CC218EB1188LL4pathSayAA0E4TypeOG7Network6NWPathV_tFTf4nd_n', symObjAddr: 0xAC4, symBinAddr: 0x6354, symSize: 0x3D4 }
-  - { offsetInCU: 0x7ED, offset: 0x5CA4E, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC0A13UpdateHandlerySayAA0E4TypeOGcSgvpACTK', symObjAddr: 0x13C, symBinAddr: 0x59CC, symSize: 0x94 }
-  - { offsetInCU: 0x825, offset: 0x5CA86, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC0A13UpdateHandlerySayAA0E4TypeOGcSgvpACTk', symObjAddr: 0x1D0, symBinAddr: 0x5A60, symSize: 0xB8 }
-  - { offsetInCU: 0x867, offset: 0x5CAC8, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC06ensurecD033_DC44086486C9B1E03CB96CC218EB1188LL7Network06NWPathD0CyFyAF0P0VcACcfu_yAJcfu0_TA', symObjAddr: 0x738, symBinAddr: 0x5FC8, symSize: 0x8 }
-  - { offsetInCU: 0x87B, offset: 0x5CADC, size: 0x8, addend: 0x0, symName: '_$s7Network6NWPathVIeghn_SgWOy', symObjAddr: 0x740, symBinAddr: 0x5FD0, symSize: 0x10 }
-  - { offsetInCU: 0x88F, offset: 0x5CAF0, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderCfETo', symObjAddr: 0x780, symBinAddr: 0x6010, symSize: 0x4C }
-  - { offsetInCU: 0x8E3, offset: 0x5CB44, size: 0x8, addend: 0x0, symName: '_$ss22_ContiguousArrayBufferV19_uninitializedCount15minimumCapacityAByxGSi_SitcfC17connectivity_plus16ConnectivityTypeO_Tgm5', symObjAddr: 0x924, symBinAddr: 0x61B4, symSize: 0x6C }
-  - { offsetInCU: 0x966, offset: 0x5CBC7, size: 0x8, addend: 0x0, symName: '_$ss22_ContiguousArrayBufferV19_uninitializedCount15minimumCapacityAByxGSi_SitcfCSS_Tgm5', symObjAddr: 0x990, symBinAddr: 0x6220, symSize: 0x80 }
-  - { offsetInCU: 0xB69, offset: 0x5CDCA, size: 0x8, addend: 0x0, symName: '_$sSay17connectivity_plus16ConnectivityTypeOGIegg_SgWOe', symObjAddr: 0xE98, symBinAddr: 0x6728, symSize: 0x10 }
-  - { offsetInCU: 0xB7D, offset: 0x5CDDE, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderCMa', symObjAddr: 0xEA8, symBinAddr: 0x6738, symSize: 0x20 }
-  - { offsetInCU: 0xB91, offset: 0x5CDF2, size: 0x8, addend: 0x0, symName: '_$sSo17OS_dispatch_queueCMa', symObjAddr: 0xF84, symBinAddr: 0x6814, symSize: 0x3C }
-  - { offsetInCU: 0xBB0, offset: 0x5CE11, size: 0x8, addend: 0x0, symName: '_$sSay17connectivity_plus16ConnectivityTypeOGytIegnr_ADIegg_TRTA', symObjAddr: 0xFE4, symBinAddr: 0x6874, symSize: 0x44 }
-  - { offsetInCU: 0xBE4, offset: 0x5CE45, size: 0x8, addend: 0x0, symName: '_$sSay17connectivity_plus16ConnectivityTypeOGIegg_ADytIegnr_TRTA', symObjAddr: 0x1028, symBinAddr: 0x68B8, symSize: 0x24 }
-  - { offsetInCU: 0xE38, offset: 0x5D099, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC07currentE5TypesSayAA0E4TypeOGvg', symObjAddr: 0x0, symBinAddr: 0x5890, symSize: 0x13C }
-  - { offsetInCU: 0xF90, offset: 0x5D1F1, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC0A13UpdateHandlerySayAA0E4TypeOGcSgvg', symObjAddr: 0x288, symBinAddr: 0x5B18, symSize: 0x58 }
-  - { offsetInCU: 0xFAF, offset: 0x5D210, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC0A13UpdateHandlerySayAA0E4TypeOGcSgvs', symObjAddr: 0x2E0, symBinAddr: 0x5B70, symSize: 0x5C }
-  - { offsetInCU: 0xFD8, offset: 0x5D239, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC0A13UpdateHandlerySayAA0E4TypeOGcSgvM', symObjAddr: 0x33C, symBinAddr: 0x5BCC, symSize: 0x44 }
-  - { offsetInCU: 0xFF7, offset: 0x5D258, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC0A13UpdateHandlerySayAA0E4TypeOGcSgvM.resume.0', symObjAddr: 0x380, symBinAddr: 0x5C10, symSize: 0x4 }
-  - { offsetInCU: 0x1018, offset: 0x5D279, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderCACycfc', symObjAddr: 0x384, symBinAddr: 0x5C14, symSize: 0x1C0 }
-  - { offsetInCU: 0x110D, offset: 0x5D36E, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC5startyyF', symObjAddr: 0x564, symBinAddr: 0x5DF4, symSize: 0xD0 }
-  - { offsetInCU: 0x11FA, offset: 0x5D45B, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC4stopyyF', symObjAddr: 0x634, symBinAddr: 0x5EC4, symSize: 0x58 }
-  - { offsetInCU: 0x1286, offset: 0x5D4E7, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderCfD', symObjAddr: 0x750, symBinAddr: 0x5FE0, symSize: 0x30 }
-  - { offsetInCU: 0x1317, offset: 0x5D578, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF17connectivity_plus16ConnectivityTypeO_Tg5', symObjAddr: 0xA10, symBinAddr: 0x62A0, symSize: 0xB4 }
+  - { offset: 0x60CB7, size: 0x8, addend: 0x0, symName: _connectivity_plusVersionString, symObjAddr: 0x0, symBinAddr: 0x8DA0, symSize: 0x0 }
+  - { offset: 0x60CEC, size: 0x8, addend: 0x0, symName: _connectivity_plusVersionNumber, symObjAddr: 0x30, symBinAddr: 0x8DD0, symSize: 0x0 }
+  - { offset: 0x61076, size: 0x8, addend: 0x0, symName: '_$syXlSgIeyBy_ypSgIegn_TR', symObjAddr: 0x308, symBinAddr: 0x4308, symSize: 0xD0 }
+  - { offset: 0x6108A, size: 0x8, addend: 0x0, symName: '_$sIeg_IeyB_TR', symObjAddr: 0x85C, symBinAddr: 0x485C, symSize: 0x2C }
+  - { offset: 0x610B8, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginCfETo', symObjAddr: 0xA4C, symBinAddr: 0x4A4C, symSize: 0x3C }
+  - { offset: 0x610E7, size: 0x8, addend: 0x0, symName: '_$ss15ContiguousArrayV16_createNewBuffer14bufferIsUnique15minimumCapacity13growForAppendySb_SiSbtFSS_Tg5', symObjAddr: 0xA88, symBinAddr: 0x4A88, symSize: 0x1C }
+  - { offset: 0x61162, size: 0x8, addend: 0x0, symName: '_$ss22_ContiguousArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtFSS_Tg5', symObjAddr: 0xAA4, symBinAddr: 0x4AA4, symSize: 0x108 }
+  - { offset: 0x61291, size: 0x8, addend: 0x0, symName: '_$sypSgIegn_SgWOe', symObjAddr: 0xE40, symBinAddr: 0x4E40, symSize: 0x10 }
+  - { offset: 0x612A5, size: 0x8, addend: 0x0, symName: '_$sypSgWOh', symObjAddr: 0xE50, symBinAddr: 0x4E50, symSize: 0x40 }
+  - { offset: 0x612B9, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0xE90, symBinAddr: 0x4E90, symSize: 0x44 }
+  - { offset: 0x61388, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginCMa', symObjAddr: 0x1060, symBinAddr: 0x5060, symSize: 0x20 }
+  - { offset: 0x6139C, size: 0x8, addend: 0x0, symName: '_$syXlSgIeyBy_ypSgIegn_TRTA', symObjAddr: 0x1120, symBinAddr: 0x5120, symSize: 0x8 }
+  - { offset: 0x613B0, size: 0x8, addend: 0x0, symName: '_$sypSgWOc', symObjAddr: 0x1128, symBinAddr: 0x5128, symSize: 0x48 }
+  - { offset: 0x613C4, size: 0x8, addend: 0x0, symName: ___swift_project_boxed_opaque_existential_0, symObjAddr: 0x1170, symBinAddr: 0x5170, symSize: 0x24 }
+  - { offset: 0x613D8, size: 0x8, addend: 0x0, symName: ___swift_destroy_boxed_opaque_existential_0, symObjAddr: 0x1194, symBinAddr: 0x5194, symSize: 0x20 }
+  - { offset: 0x613F7, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC0A13UpdateHandler33_D6FCED2D5D620BC5A1BBE53B5F72CEB9LL0A5TypesySayAA0C4TypeOG_tFyyScMYccfU_TA', symObjAddr: 0x14BC, symBinAddr: 0x54BC, symSize: 0x8 }
+  - { offset: 0x6140B, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x14C4, symBinAddr: 0x54C4, symSize: 0x10 }
+  - { offset: 0x6141F, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x14D4, symBinAddr: 0x54D4, symSize: 0x8 }
+  - { offset: 0x61433, size: 0x8, addend: 0x0, symName: '_$sSay8Dispatch0A13WorkItemFlagsVGMa', symObjAddr: 0x151C, symBinAddr: 0x551C, symSize: 0x54 }
+  - { offset: 0x61447, size: 0x8, addend: 0x0, symName: '_$sypSgIegn_SgWOy', symObjAddr: 0x1570, symBinAddr: 0x5570, symSize: 0x10 }
+  - { offset: 0x6145B, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC0A8ProviderAcA0cF0_p_tcfcySayAA0C4TypeOGcACcfu_yAHcfu0_TA', symObjAddr: 0x15A4, symBinAddr: 0x55A4, symSize: 0x20 }
+  - { offset: 0x61552, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC8register4withySo07FlutterE9Registrar_p_tFZ', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x4 }
+  - { offset: 0x61573, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC8register4withySo07FlutterE9Registrar_p_tFZTo', symObjAddr: 0x4, symBinAddr: 0x4004, symSize: 0x30 }
+  - { offset: 0x6166B, size: 0x8, addend: 0x0, symName: '_$sSlsE3mapySayqd__Gqd__7ElementQzqd_0_YKXEqd_0_YKs5ErrorRd_0_r0_lFSay17connectivity_plus16ConnectivityTypeOG_SSs5NeverOTg5023$s17connectivity_plus22f82PlusPluginC10statusFrom33_D6FCED2D5D620BC5A1BBE53B5F72CEB9LL0A5TypesSaySSGSayAA0C4G14OG_tFSSAIXEfU_AF0fkL0CTf1cn_nTf4nd_n', symObjAddr: 0xED4, symBinAddr: 0x4ED4, symSize: 0x18C }
+  - { offset: 0x6182E, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC16detachFromEngine3forySo07FlutterE9Registrar_p_tF', symObjAddr: 0x34, symBinAddr: 0x4034, symSize: 0x54 }
+  - { offset: 0x618A0, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC16detachFromEngine3forySo07FlutterE9Registrar_p_tFTo', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0x94 }
+  - { offset: 0x61922, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF', symObjAddr: 0x11C, symBinAddr: 0x411C, symSize: 0x170 }
+  - { offset: 0x619DB, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTo', symObjAddr: 0x28C, symBinAddr: 0x428C, symSize: 0x7C }
+  - { offset: 0x61A05, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC8onListen13withArguments9eventSinkSo12FlutterErrorCSgypSg_yAJctF', symObjAddr: 0x3D8, symBinAddr: 0x43D8, symSize: 0x9C }
+  - { offset: 0x61A98, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC8onListen13withArguments9eventSinkSo12FlutterErrorCSgypSg_yAJctFTo', symObjAddr: 0x474, symBinAddr: 0x4474, symSize: 0x12C }
+  - { offset: 0x61B37, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC0A13UpdateHandler33_D6FCED2D5D620BC5A1BBE53B5F72CEB9LL0A5TypesySayAA0C4TypeOG_tF', symObjAddr: 0x5A0, symBinAddr: 0x45A0, symSize: 0x210 }
+  - { offset: 0x61B8D, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC0A13UpdateHandler33_D6FCED2D5D620BC5A1BBE53B5F72CEB9LL0A5TypesySayAA0C4TypeOG_tFyyScMYccfU_', symObjAddr: 0x7B0, symBinAddr: 0x47B0, symSize: 0xAC }
+  - { offset: 0x61C26, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC8onCancel13withArgumentsSo12FlutterErrorCSgypSg_tF', symObjAddr: 0x888, symBinAddr: 0x4888, symSize: 0x64 }
+  - { offset: 0x61C93, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC8onCancel13withArgumentsSo12FlutterErrorCSgypSg_tFTo', symObjAddr: 0x8EC, symBinAddr: 0x48EC, symSize: 0xB8 }
+  - { offset: 0x61CF8, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginCACycfC', symObjAddr: 0x9A4, symBinAddr: 0x49A4, symSize: 0x20 }
+  - { offset: 0x61D0C, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginCACycfc', symObjAddr: 0x9C4, symBinAddr: 0x49C4, symSize: 0x2C }
+  - { offset: 0x61D65, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginCACycfcTo', symObjAddr: 0x9F0, symBinAddr: 0x49F0, symSize: 0x2C }
+  - { offset: 0x61DC4, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginCfD', symObjAddr: 0xA1C, symBinAddr: 0x4A1C, symSize: 0x30 }
+  - { offset: 0x61E06, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC0A8ProviderAcA0cF0_p_tcfcTf4en_nAA011PathMonitorcF0C_Tg5Tf4gn_n', symObjAddr: 0xBAC, symBinAddr: 0x4BAC, symSize: 0x104 }
+  - { offset: 0x61E9C, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC8register4withySo07FlutterE9Registrar_p_tFZTf4nd_n', symObjAddr: 0xCB0, symBinAddr: 0x4CB0, symSize: 0x190 }
+  - { offset: 0x62017, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus22ConnectivityPlusPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF015$syXlSgIeyBy_ypM7Iegn_TRyXlSgIeyBy_Tf1ncn_nTf4nng_n', symObjAddr: 0x11B4, symBinAddr: 0x51B4, symSize: 0x29C }
+  - { offset: 0x62236, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeO2eeoiySbAC_ACtFZ', symObjAddr: 0x0, symBinAddr: 0x55C4, symSize: 0x14 }
+  - { offset: 0x622FD, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOSHAASQWb', symObjAddr: 0x140, symBinAddr: 0x5684, symSize: 0x4 }
+  - { offset: 0x62311, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOACSQAAWl', symObjAddr: 0x144, symBinAddr: 0x5688, symSize: 0x40 }
+  - { offset: 0x62325, size: 0x8, addend: 0x0, symName: ___swift_memcpy1_1, symObjAddr: 0x184, symBinAddr: 0x56C8, symSize: 0xC }
+  - { offset: 0x62339, size: 0x8, addend: 0x0, symName: ___swift_noop_void_return, symObjAddr: 0x190, symBinAddr: 0x56D4, symSize: 0x4 }
+  - { offset: 0x6234D, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOwet', symObjAddr: 0x194, symBinAddr: 0x56D8, symSize: 0x90 }
+  - { offset: 0x62361, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOwst', symObjAddr: 0x224, symBinAddr: 0x5768, symSize: 0xB0 }
+  - { offset: 0x62375, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOwug', symObjAddr: 0x2D4, symBinAddr: 0x5818, symSize: 0x8 }
+  - { offset: 0x62389, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOwup', symObjAddr: 0x2DC, symBinAddr: 0x5820, symSize: 0x4 }
+  - { offset: 0x6239D, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOwui', symObjAddr: 0x2E0, symBinAddr: 0x5824, symSize: 0x8 }
+  - { offset: 0x623B1, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOMa', symObjAddr: 0x2E8, symBinAddr: 0x582C, symSize: 0x10 }
+  - { offset: 0x62432, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeOSHAASH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0x100, symBinAddr: 0x5644, symSize: 0x40 }
+  - { offset: 0x624C6, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeO2eeoiySbAC_ACtFZ', symObjAddr: 0x0, symBinAddr: 0x55C4, symSize: 0x14 }
+  - { offset: 0x62506, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeO4hash4intoys6HasherVz_tF', symObjAddr: 0x14, symBinAddr: 0x55D8, symSize: 0x28 }
+  - { offset: 0x6257C, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus16ConnectivityTypeO9hashValueSivg', symObjAddr: 0x3C, symBinAddr: 0x5600, symSize: 0x44 }
+  - { offset: 0x62966, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC0A13UpdateHandlerySayAA0E4TypeOGcSgvpACTK', symObjAddr: 0x13C, symBinAddr: 0x59A8, symSize: 0x94 }
+  - { offset: 0x6299E, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC0A13UpdateHandlerySayAA0E4TypeOGcSgvpACTk', symObjAddr: 0x1D0, symBinAddr: 0x5A3C, symSize: 0xB8 }
+  - { offset: 0x629E0, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderCfETo', symObjAddr: 0x740, symBinAddr: 0x5FAC, symSize: 0x4C }
+  - { offset: 0x62A7D, size: 0x8, addend: 0x0, symName: '_$ss12_ArrayBufferV20_consumeAndCreateNew14bufferIsUnique15minimumCapacity13growForAppendAByxGSb_SiSbtF17connectivity_plus16ConnectivityTypeO_Tg5', symObjAddr: 0x8E0, symBinAddr: 0x6040, symSize: 0xF0 }
+  - { offset: 0x62C22, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC06ensurecD033_DC44086486C9B1E03CB96CC218EB1188LL7Network06NWPathD0CyFyAF0P0VcACcfu_yAJcfu0_TA', symObjAddr: 0xDC8, symBinAddr: 0x6528, symSize: 0x8 }
+  - { offset: 0x62C36, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderCMa', symObjAddr: 0xDF0, symBinAddr: 0x6530, symSize: 0x20 }
+  - { offset: 0x62C4A, size: 0x8, addend: 0x0, symName: '_$sSo17OS_dispatch_queueCMa', symObjAddr: 0xECC, symBinAddr: 0x660C, symSize: 0x44 }
+  - { offset: 0x62C69, size: 0x8, addend: 0x0, symName: '_$sSay17connectivity_plus16ConnectivityTypeOGytIegnr_ADIegg_TRTA', symObjAddr: 0xF34, symBinAddr: 0x6674, symSize: 0x30 }
+  - { offset: 0x62C9D, size: 0x8, addend: 0x0, symName: '_$sSay17connectivity_plus16ConnectivityTypeOGIegg_ADytIegnr_TRTA', symObjAddr: 0xF64, symBinAddr: 0x66A4, symSize: 0x24 }
+  - { offset: 0x62E7E, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC07currentE5TypesSayAA0E4TypeOGvg', symObjAddr: 0x0, symBinAddr: 0x586C, symSize: 0x13C }
+  - { offset: 0x62FD6, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC0A13UpdateHandlerySayAA0E4TypeOGcSgvg', symObjAddr: 0x288, symBinAddr: 0x5AF4, symSize: 0x58 }
+  - { offset: 0x62FF5, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC0A13UpdateHandlerySayAA0E4TypeOGcSgvs', symObjAddr: 0x2E0, symBinAddr: 0x5B4C, symSize: 0x5C }
+  - { offset: 0x6301E, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC0A13UpdateHandlerySayAA0E4TypeOGcSgvM', symObjAddr: 0x33C, symBinAddr: 0x5BA8, symSize: 0x40 }
+  - { offset: 0x6303D, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC0A13UpdateHandlerySayAA0E4TypeOGcSgvM.resume.0', symObjAddr: 0x37C, symBinAddr: 0x5BE8, symSize: 0x4 }
+  - { offset: 0x6305E, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderCACycfc', symObjAddr: 0x380, symBinAddr: 0x5BEC, symSize: 0x1C0 }
+  - { offset: 0x63143, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderCACycfcTo', symObjAddr: 0x540, symBinAddr: 0x5DAC, symSize: 0x20 }
+  - { offset: 0x63157, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC5startyyF', symObjAddr: 0x560, symBinAddr: 0x5DCC, symSize: 0xD0 }
+  - { offset: 0x63244, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC4stopyyF', symObjAddr: 0x630, symBinAddr: 0x5E9C, symSize: 0x58 }
+  - { offset: 0x632D0, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC06ensurecD033_DC44086486C9B1E03CB96CC218EB1188LL7Network06NWPathD0CyFyAF0P0VcACcfu_yAJcfu0_', symObjAddr: 0x688, symBinAddr: 0x5EF4, symSize: 0x88 }
+  - { offset: 0x63346, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderCfD', symObjAddr: 0x710, symBinAddr: 0x5F7C, symSize: 0x30 }
+  - { offset: 0x63369, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderCAA0eF0A2aDP07currentE5TypesSayAA0E4TypeOGvgTW', symObjAddr: 0x78C, symBinAddr: 0x5FF8, symSize: 0x4 }
+  - { offset: 0x63391, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderCAA0eF0A2aDP0A13UpdateHandlerySayAA0E4TypeOGcSgvMTW', symObjAddr: 0x844, symBinAddr: 0x5FFC, symSize: 0x40 }
+  - { offset: 0x633C6, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderCAA0eF0A2aDP5startyyFTW', symObjAddr: 0x884, symBinAddr: 0x603C, symSize: 0x4 }
+  - { offset: 0x633FB, size: 0x8, addend: 0x0, symName: '_$s17connectivity_plus31PathMonitorConnectivityProviderC0A4From33_DC44086486C9B1E03CB96CC218EB1188LL4pathSayAA0E4TypeOG7Network6NWPathV_tFTf4nd_n', symObjAddr: 0x9D0, symBinAddr: 0x6130, symSize: 0x3D4 }
 ...
