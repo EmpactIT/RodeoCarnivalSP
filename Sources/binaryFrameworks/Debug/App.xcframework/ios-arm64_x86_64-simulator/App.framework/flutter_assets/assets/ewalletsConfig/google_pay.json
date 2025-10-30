@@ -1,0 +1,39 @@
+{
+  "provider": "google_pay",
+  "data": {
+    "environment": "PRODUCTION",
+    "apiVersion": 2,
+    "apiVersionMinor": 0,
+    "allowedPaymentMethods": [
+      {
+        "type": "CARD",
+        "tokenizationSpecification": {
+          "type": "PAYMENT_GATEWAY",
+          "parameters": {
+            "gateway": "gatewayservices",
+            "gatewayMerchantId": "1127840"
+          }
+        },
+        "parameters": {
+          "allowedCardNetworks": ["VISA", "MASTERCARD", "AMEX", "DISCOVER"],
+          "allowedAuthMethods": ["PAN_ONLY", "CRYPTOGRAM_3DS"],
+          "billingAddressRequired": true,
+          "billingAddressParameters": {
+            "format": "FULL",
+            "phoneNumberRequired": true
+          }
+        }
+      }
+    ],
+    "merchantInfo": {
+      "merchantId": "536895242987363801",
+      "merchantName": "RCSFunPass"
+    },
+    "transactionInfo": {
+      "totalPriceStatus": "FINAL",
+      "totalPrice": "#total_price#",
+      "countryCode": "US",
+      "currencyCode": "USD"
+    }
+  }
+}
