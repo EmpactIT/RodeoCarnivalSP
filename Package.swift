@@ -45,7 +45,7 @@ let package = Package(
                 .target(name: "connectivity_plus"),
                 .target(name: "pay_ios"),
                 .target(name: "FlutterPluginRegistrant"),
-                .target(name: "url_launcher_ios"),
+                //.target(name: "url_launcher_ios"),
                 .target(name: "MTBBarcodeScanner"),
                 .target(name: "qr_code_scanner"),
                 //.target(name: "fpjs_pro_plugin"),
@@ -125,10 +125,10 @@ let package = Package(
                     name: "FlutterPluginRegistrant",
                     path: "./Sources/binaryFrameworks/Release/FlutterPluginRegistrant.xcframework"
                 ),
-        .binaryTarget(
+        /*.binaryTarget(
                     name: "url_launcher_ios",
                     path: "./Sources/binaryFrameworks/Release/url_launcher_ios.xcframework"
-                ),
+                ),*/
         .binaryTarget(
                     name: "MTBBarcodeScanner",
                     path: "./Sources/binaryFrameworks/Release/MTBBarcodeScanner.xcframework"
