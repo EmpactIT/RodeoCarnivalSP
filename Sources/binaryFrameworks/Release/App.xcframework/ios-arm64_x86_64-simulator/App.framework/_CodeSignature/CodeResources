@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		r1xQoeyYWO3S7zJ+Uo8MwesfGU4=
+		/REsN2CWKJlRPmSzoENlFtCUTPc=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		ip5vuSPnT15rEKozCl3dFYeWGWw=
+		JrXet4jX1iZwxcOh33H4w7LNM+s=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -191,6 +191,10 @@
 		<key>flutter_assets/assets/images/ForkKnife.svg</key>
 		<data>
 		ns1Vj2HNljQLAQxI+IxUROsrxVs=
+		</data>
+		<key>flutter_assets/assets/images/HLSR_1C_BowH_W.png</key>
+		<data>
+		4qZMF50n/snGkUSQAx9P02baDMA=
 		</data>
 		<key>flutter_assets/assets/images/HLSR_3C_BowH_Rev.svg</key>
 		<data>
@@ -2567,14 +2571,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YsaNBrxG+0AxcnwqfetntYdgbUMFQi/fB4awNy/lZIo=
+			kJBsIQtdOJAS9jznhNUCO+0mhEczu47qEzpqBCzj2/Q=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hEXo1xdJG/lrPwai2eHKU4W2u20PbZb6RDuz5SiMCpI=
+			hQ7SdUWWTLn4REM1Hc9xYQRRN7FOFltN+dMvFD6esJE=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -2883,6 +2887,13 @@
 			<key>hash2</key>
 			<data>
 			VkeWB6AxUme1CI1Z9jh2mRc+Jtd02iz91gr3p5beRws=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/HLSR_1C_BowH_W.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kAEqIqDKrs1xKcvjZcBKY/iaYFXUgNPB0NJB3zvomlY=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/images/HLSR_3C_BowH_Rev.svg</key>
