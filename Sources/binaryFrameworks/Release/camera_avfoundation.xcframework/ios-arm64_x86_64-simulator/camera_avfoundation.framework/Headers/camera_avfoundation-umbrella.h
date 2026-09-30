@@ -1,9 +1,18 @@
-// Copyright 2013 The Flutter Authors. All rights reserved.
-// Use of this source code is governed by a BSD-style license that can be
-// found in the LICENSE file.
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#else
+#ifndef FOUNDATION_EXPORT
+#if defined(__cplusplus)
+#define FOUNDATION_EXPORT extern "C"
+#else
+#define FOUNDATION_EXPORT extern
+#endif
+#endif
+#endif
 
-#import <Foundation/Foundation.h>
-#import <camera_avfoundation/CameraPlugin.h>
+#import "camera_avfoundation.h"
+#import "messages.g.h"
 
-FOUNDATION_EXPORT double cameraVersionNumber;
-FOUNDATION_EXPORT const unsigned char cameraVersionString[];
+FOUNDATION_EXPORT double camera_avfoundationVersionNumber;
+FOUNDATION_EXPORT const unsigned char camera_avfoundationVersionString[];
+

@@ -1,0 +1,621 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "geocoding_darwin",
+    "printedName": "geocoding_darwin",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "geocoding_darwin"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "geocoding_darwin"
+      },
+      {
+        "kind": "Import",
+        "name": "Contacts",
+        "printedName": "Contacts",
+        "declKind": "Import",
+        "moduleName": "geocoding_darwin"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "geocoding_darwin"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "geocoding_darwin"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "geocoding_darwin"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "geocoding_darwin"
+      },
+      {
+        "kind": "Import",
+        "name": "Contacts",
+        "printedName": "Contacts",
+        "declKind": "Import",
+        "moduleName": "geocoding_darwin"
+      },
+      {
+        "kind": "Import",
+        "name": "Contacts",
+        "printedName": "Contacts",
+        "declKind": "Import",
+        "moduleName": "geocoding_darwin"
+      },
+      {
+        "kind": "Import",
+        "name": "Flutter",
+        "printedName": "Flutter",
+        "declKind": "Import",
+        "moduleName": "geocoding_darwin"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "GeocodingDarwinPlugin",
+        "printedName": "GeocodingDarwinPlugin",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "register",
+            "printedName": "register(with:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "FlutterPluginRegistrar",
+                "printedName": "any Flutter.FlutterPluginRegistrar",
+                "usr": "c:objc(pl)FlutterPluginRegistrar"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@geocoding_darwin@objc(cs)GeocodingDarwinPlugin(cm)registerWithRegistrar:",
+            "mangledName": "$s16geocoding_darwin21GeocodingDarwinPluginC8register4withySo07FlutterE9Registrar_p_tFZ",
+            "moduleName": "geocoding_darwin",
+            "static": true,
+            "objc_name": "registerWithRegistrar:",
+            "declAttributes": [
+              "Final",
+              "ObjC",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "detachFromEngine",
+            "printedName": "detachFromEngine(for:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "FlutterPluginRegistrar",
+                "printedName": "any Flutter.FlutterPluginRegistrar",
+                "usr": "c:objc(pl)FlutterPluginRegistrar"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@geocoding_darwin@objc(cs)GeocodingDarwinPlugin(im)detachFromEngineForRegistrar:",
+            "mangledName": "$s16geocoding_darwin21GeocodingDarwinPluginC16detachFromEngine3forySo07FlutterE9Registrar_p_tF",
+            "moduleName": "geocoding_darwin",
+            "objc_name": "detachFromEngineForRegistrar:",
+            "declAttributes": [
+              "ObjC",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "GeocodingDarwinPlugin",
+                "printedName": "geocoding_darwin.GeocodingDarwinPlugin",
+                "usr": "c:@M@geocoding_darwin@objc(cs)GeocodingDarwinPlugin"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@geocoding_darwin@objc(cs)GeocodingDarwinPlugin(im)init",
+            "mangledName": "$s16geocoding_darwin21GeocodingDarwinPluginCACycfc",
+            "moduleName": "geocoding_darwin",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@geocoding_darwin@objc(cs)GeocodingDarwinPlugin",
+        "mangledName": "$s16geocoding_darwin21GeocodingDarwinPluginC",
+        "moduleName": "geocoding_darwin",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "geocoding_darwin",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "geocoding_darwin"
+      },
+      {
+        "kind": "Import",
+        "name": "Contacts",
+        "printedName": "Contacts",
+        "declKind": "Import",
+        "moduleName": "geocoding_darwin"
+      },
+      {
+        "kind": "Import",
+        "name": "Flutter",
+        "printedName": "Flutter",
+        "declKind": "Import",
+        "moduleName": "geocoding_darwin"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "GeocodingLibraryPigeonProxyApiRegistrar",
+        "printedName": "GeocodingLibraryPigeonProxyApiRegistrar",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "ignoreCallsToDart",
+            "printedName": "ignoreCallsToDart",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:16geocoding_darwin39GeocodingLibraryPigeonProxyApiRegistrarC17ignoreCallsToDartSbvp",
+            "mangledName": "$s16geocoding_darwin39GeocodingLibraryPigeonProxyApiRegistrarC17ignoreCallsToDartSbvp",
+            "moduleName": "geocoding_darwin",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16geocoding_darwin39GeocodingLibraryPigeonProxyApiRegistrarC17ignoreCallsToDartSbvg",
+                "mangledName": "$s16geocoding_darwin39GeocodingLibraryPigeonProxyApiRegistrarC17ignoreCallsToDartSbvg",
+                "moduleName": "geocoding_darwin",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16geocoding_darwin39GeocodingLibraryPigeonProxyApiRegistrarC17ignoreCallsToDartSbvs",
+                "mangledName": "$s16geocoding_darwin39GeocodingLibraryPigeonProxyApiRegistrarC17ignoreCallsToDartSbvs",
+                "moduleName": "geocoding_darwin",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16geocoding_darwin39GeocodingLibraryPigeonProxyApiRegistrarC17ignoreCallsToDartSbvM",
+                "mangledName": "$s16geocoding_darwin39GeocodingLibraryPigeonProxyApiRegistrarC17ignoreCallsToDartSbvM",
+                "moduleName": "geocoding_darwin",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:16geocoding_darwin39GeocodingLibraryPigeonProxyApiRegistrarC",
+        "mangledName": "$s16geocoding_darwin39GeocodingLibraryPigeonProxyApiRegistrarC",
+        "moduleName": "geocoding_darwin",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "geocoding_darwin"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "geocoding_darwin",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "geocoding_darwin"
+      },
+      {
+        "kind": "Import",
+        "name": "Flutter",
+        "printedName": "Flutter",
+        "declKind": "Import",
+        "moduleName": "geocoding_darwin"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "geocoding_darwin"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ProxyApiRegistrar",
+        "printedName": "ProxyApiRegistrar",
+        "declKind": "Class",
+        "usr": "s:16geocoding_darwin17ProxyApiRegistrarC",
+        "mangledName": "$s16geocoding_darwin17ProxyApiRegistrarC",
+        "moduleName": "geocoding_darwin",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "superclassUsr": "s:16geocoding_darwin39GeocodingLibraryPigeonProxyApiRegistrarC",
+        "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "geocoding_darwin.GeocodingLibraryPigeonProxyApiRegistrar"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "geocoding_darwin"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "geocoding_darwin"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/geocoding_darwin-1.0.2\/darwin\/geocoding_darwin\/Sources\/geocoding_darwin\/Geocoding\/GeocodingLibrary.g.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2143,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/geocoding_darwin-1.0.2\/darwin\/geocoding_darwin\/Sources\/geocoding_darwin\/Geocoding\/GeocodingLibrary.g.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4597,
+      "length": 5,
+      "value": "65536"
+    },
+    {
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/geocoding_darwin-1.0.2\/darwin\/geocoding_darwin\/Sources\/geocoding_darwin\/Geocoding\/GeocodingLibrary.g.swift",
+      "kind": "StringLiteral",
+      "offset": 4651,
+      "length": 39,
+      "value": "\"GeocodingLibraryPigeonInstanceManager\""
+    },
+    {
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/geocoding_darwin-1.0.2\/darwin\/geocoding_darwin\/Sources\/geocoding_darwin\/Geocoding\/GeocodingLibrary.g.swift",
+      "kind": "BooleanLiteral",
+      "offset": 17299,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/geocoding_darwin-1.0.2\/darwin\/geocoding_darwin\/Sources\/geocoding_darwin\/Geocoding\/GeocodingLibrary.g.swift",
+      "kind": "IntegerLiteral",
+      "offset": 26094,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/geocoding_darwin-1.0.2\/darwin\/geocoding_darwin\/Sources\/geocoding_darwin\/Geocoding\/GeocodingLibrary.g.swift",
+      "kind": "IntegerLiteral",
+      "offset": 26218,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/geocoding_darwin-1.0.2\/darwin\/geocoding_darwin\/Sources\/geocoding_darwin\/Geocoding\/GeocodingLibrary.g.swift",
+      "kind": "IntegerLiteral",
+      "offset": 26381,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/geocoding_darwin-1.0.2\/darwin\/geocoding_darwin\/Sources\/geocoding_darwin\/Geocoding\/GeocodingLibrary.g.swift",
+      "kind": "IntegerLiteral",
+      "offset": 26565,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/geocoding_darwin-1.0.2\/darwin\/geocoding_darwin\/Sources\/geocoding_darwin\/Geocoding\/GeocodingLibrary.g.swift",
+      "kind": "IntegerLiteral",
+      "offset": 26824,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/geocoding_darwin-1.0.2\/darwin\/geocoding_darwin\/Sources\/geocoding_darwin\/Geocoding\/GeocodingLibrary.g.swift",
+      "kind": "IntegerLiteral",
+      "offset": 26954,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/geocoding_darwin-1.0.2\/darwin\/geocoding_darwin\/Sources\/geocoding_darwin\/Geocoding\/GeocodingLibrary.g.swift",
+      "kind": "IntegerLiteral",
+      "offset": 27081,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/geocoding_darwin-1.0.2\/darwin\/geocoding_darwin\/Sources\/geocoding_darwin\/Geocoding\/GeocodingLibrary.g.swift",
+      "kind": "IntegerLiteral",
+      "offset": 27211,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/geocoding_darwin-1.0.2\/darwin\/geocoding_darwin\/Sources\/geocoding_darwin\/Geocoding\/GeocodingLibrary.g.swift",
+      "kind": "IntegerLiteral",
+      "offset": 27280,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/geocoding_darwin-1.0.2\/darwin\/geocoding_darwin\/Sources\/geocoding_darwin\/Geocoding\/GeocodingLibrary.g.swift",
+      "kind": "IntegerLiteral",
+      "offset": 27749,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/geocoding_darwin-1.0.2\/darwin\/geocoding_darwin\/Sources\/geocoding_darwin\/Geocoding\/GeocodingLibrary.g.swift",
+      "kind": "IntegerLiteral",
+      "offset": 27905,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/geocoding_darwin-1.0.2\/darwin\/geocoding_darwin\/Sources\/geocoding_darwin\/Geocoding\/GeocodingLibrary.g.swift",
+      "kind": "IntegerLiteral",
+      "offset": 28171,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/geocoding_darwin-1.0.2\/darwin\/geocoding_darwin\/Sources\/geocoding_darwin\/Geocoding\/GeocodingLibrary.g.swift",
+      "kind": "IntegerLiteral",
+      "offset": 28371,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/geocoding_darwin-1.0.2\/darwin\/geocoding_darwin\/Sources\/geocoding_darwin\/Geocoding\/GeocodingLibrary.g.swift",
+      "kind": "IntegerLiteral",
+      "offset": 28644,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/geocoding_darwin-1.0.2\/darwin\/geocoding_darwin\/Sources\/geocoding_darwin\/Geocoding\/GeocodingLibrary.g.swift",
+      "kind": "IntegerLiteral",
+      "offset": 28713,
+      "length": 1,
+      "value": "5"
+    }
+  ]
+}

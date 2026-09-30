@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.1 effective-5.10 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)
-// swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name pay_ios
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1
+// swift-compiler-version: Apple Swift version 6.2.4 effective-5.10 (swiftlang-6.2.4.1.4 clang-1700.6.4.2)
+// swift-module-flags: -target arm64-apple-ios17.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name pay_ios
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.4
 import Flutter
 import PassKit
 import Swift
@@ -11,10 +11,14 @@ import _StringProcessing
 import _SwiftConcurrencyShims
 @_exported import pay_ios
 extension PassKit.PKPaymentButtonType {
+  #if compiler(>=5.3) && $NonescapableTypes
   public static func fromString(_ buttonType: Swift.String) -> PassKit.PKPaymentButtonType?
+  #endif
 }
 extension PassKit.PKPaymentButtonStyle {
+  #if compiler(>=5.3) && $NonescapableTypes
   public static func fromString(_ buttonStyle: Swift.String) -> PassKit.PKPaymentButtonStyle?
+  #endif
 }
 extension PassKit.PKPayment {
   public func toDictionary() -> [Swift.String : Any]
@@ -26,25 +30,35 @@ extension PassKit.PKContact {
   public func toDictionary() -> [Swift.String : Any]
 }
 extension Foundation.PersonNameComponents {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func toDictionary() -> [Swift.String : Any]?
+  #endif
 }
 extension Contacts.CNPostalAddress {
   public func toDictionary() -> [Swift.String : Any]
 }
 extension PassKit.PKShippingMethod {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func toDictionary() -> [Swift.String : Any?]
+  #endif
 }
 extension PassKit.PKPaymentNetwork {
+  #if compiler(>=5.3) && $NonescapableTypes
   public static func fromString(_ paymentNetworkString: Swift.String) -> PassKit.PKPaymentNetwork?
+  #endif
 }
 extension PassKit.PKPaymentSummaryItemType {
   public static func fromString(_ summaryItemType: Swift.String) -> PassKit.PKPaymentSummaryItemType
 }
 extension PassKit.PKMerchantCapability {
+  #if compiler(>=5.3) && $NonescapableTypes
   public static func fromString(_ merchantCapability: Swift.String) -> PassKit.PKMerchantCapability?
+  #endif
 }
 extension PassKit.PKContactField {
+  #if compiler(>=5.3) && $NonescapableTypes
   public static func fromString(_ contactFieldItem: Swift.String) -> PassKit.PKContactField?
+  #endif
 }
 @objc @_inheritsConvenienceInitializers public class PayPlugin : ObjectiveC.NSObject, Flutter.FlutterPlugin {
   @objc public static func register(with registrar: any Flutter.FlutterPluginRegistrar)

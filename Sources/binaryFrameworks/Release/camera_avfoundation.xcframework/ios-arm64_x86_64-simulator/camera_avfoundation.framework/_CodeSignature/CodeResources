@@ -4,73 +4,81 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/CameraPermissionUtils.h</key>
+		<key>Headers/camera_avfoundation-Swift.h</key>
 		<data>
-		bFSPpi/SPZl6kA1A2dNV1EJvO+Y=
-		</data>
-		<key>Headers/CameraPlugin.h</key>
-		<data>
-		gjKPjwQUy4YpaNYlxUHAvoPlLd0=
-		</data>
-		<key>Headers/CameraPlugin_Test.h</key>
-		<data>
-		8Qjzmn1MF38u1wSadMM7HaR4ssE=
-		</data>
-		<key>Headers/CameraProperties.h</key>
-		<data>
-		GrguleWl+IqEFllssFQDEXzH1hY=
-		</data>
-		<key>Headers/FLTCam.h</key>
-		<data>
-		84ta9jR9LnTnUJGqxq4FLU/dIn4=
-		</data>
-		<key>Headers/FLTCam_Test.h</key>
-		<data>
-		rBI3xUj/P1ChH1UKCjplBMmdGnk=
-		</data>
-		<key>Headers/FLTSavePhotoDelegate.h</key>
-		<data>
-		vxSw7kkeWo1uTpNIUHLscdCgO3o=
-		</data>
-		<key>Headers/FLTSavePhotoDelegate_Test.h</key>
-		<data>
-		dbidtQoMmTgZOyjx4OsmUxxoiK8=
-		</data>
-		<key>Headers/FLTThreadSafeEventChannel.h</key>
-		<data>
-		v9r7p5A+S03dHHT9aCz7JGCMBAE=
-		</data>
-		<key>Headers/FLTThreadSafeFlutterResult.h</key>
-		<data>
-		rx1ulvPTafVNsFRG/lidQqcBTU0=
-		</data>
-		<key>Headers/FLTThreadSafeMethodChannel.h</key>
-		<data>
-		2Zw+iVWKow/Bfe3AyFrMw+weLKs=
-		</data>
-		<key>Headers/FLTThreadSafeTextureRegistry.h</key>
-		<data>
-		r+f92qhPcpNn0OH0sdTUUv5dXOI=
-		</data>
-		<key>Headers/QueueUtils.h</key>
-		<data>
-		r72smLzzu9OEiD/1aQQCwCCq0Rc=
+		Ibx7ykyiVGNBM8rvgubqHk+M16E=
 		</data>
 		<key>Headers/camera_avfoundation-umbrella.h</key>
 		<data>
-		se8+u2UIVRmcLVsp/Gko5ZCDEAI=
+		46p1OvzP9w78kKLz1cA4sqtIwbE=
+		</data>
+		<key>Headers/camera_avfoundation.h</key>
+		<data>
+		z85bF0jVDlrqgCYzJSXxbkm1qFA=
+		</data>
+		<key>Headers/messages.g.h</key>
+		<data>
+		JrOx7WZLSIECZAlr27+LLZ/DEWc=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		FoQAgu3KWBTgdYcddC43VASBQek=
+		pGSt/DKo/TSZme+QJj8SkbTWDkc=
+		</data>
+		<key>Modules/camera_avfoundation.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<data>
+		rwfifrjdnTpLqjiCBMXxzlwBFw0=
+		</data>
+		<key>Modules/camera_avfoundation.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<data>
+		a6GmVXT4q4Nz9OvaO33cTdFjulM=
+		</data>
+		<key>Modules/camera_avfoundation.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		3lo19y4qpRmbyVZwBTq7Lw8KG5Y=
+		</data>
+		<key>Modules/camera_avfoundation.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		zGd7b9NukQetnJwm76s7QJ79VL4=
+		</data>
+		<key>Modules/camera_avfoundation.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		wM/StV7CrzcPyvjzbo/dlBcUMqk=
+		</data>
+		<key>Modules/camera_avfoundation.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		zGd7b9NukQetnJwm76s7QJ79VL4=
+		</data>
+		<key>Modules/camera_avfoundation.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		u0SWX9a9CBAuC0AhNgC7GsxN6fE=
+		</data>
+		<key>Modules/camera_avfoundation.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		3lo19y4qpRmbyVZwBTq7Lw8KG5Y=
+		</data>
+		<key>Modules/camera_avfoundation.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		xxM3c2FPDh62XIe+5smbZvecgGI=
+		</data>
+		<key>Modules/camera_avfoundation.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		RbDZVMFxkysG9T8jp4JeMVE8nVU=
+		</data>
+		<key>Modules/camera_avfoundation.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		xxM3c2FPDh62XIe+5smbZvecgGI=
+		</data>
+		<key>Modules/camera_avfoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		aDkQgwvQSNPd7LxbkQI+lhVTsQ0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		48SjTVuIMRO+7k55uNwWrU76bdU=
+		f/BCznk60PcIkJAOwjVyY+TPuJw=
 		</data>
 		<key>camera_avfoundation_privacy.bundle/Info.plist</key>
 		<data>
-		X5gdYfpsx6r5GF26AcU29vBKapw=
+		0XIyB/j+GWQ1NoztE63fL39dF/I=
 		</data>
 		<key>camera_avfoundation_privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -79,116 +87,130 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/CameraPermissionUtils.h</key>
+		<key>Headers/camera_avfoundation-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tr6hym1tYEc709pdU+TPU2wo5/BhCTqq24C9jGijIIw=
-			</data>
-		</dict>
-		<key>Headers/CameraPlugin.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/uoSNLc4aYhGdgsyclhMzNOH3g4r7WrFbxAfrjNdLqs=
-			</data>
-		</dict>
-		<key>Headers/CameraPlugin_Test.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EqwKqxm5DZONwo9lKJtNUaOnNwhEUqZEM5IS0wKFfjo=
-			</data>
-		</dict>
-		<key>Headers/CameraProperties.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Y2vsOtsNeT3Q7o4WnDGDOxnZYJ/rU8ePKlXZcjj7H2k=
-			</data>
-		</dict>
-		<key>Headers/FLTCam.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			xHvVG/xfYPs7fV3vQ288OeqGH/c1F/sQeVJp3r9bXI0=
-			</data>
-		</dict>
-		<key>Headers/FLTCam_Test.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MBhRkj9EpsfKh9iiFObtldyVHbBrd1NLN56JgIfKznI=
-			</data>
-		</dict>
-		<key>Headers/FLTSavePhotoDelegate.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ihddU8AOhKiKq7SuXk4U8eyPGelDuMnamILegf/U7bk=
-			</data>
-		</dict>
-		<key>Headers/FLTSavePhotoDelegate_Test.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			SjTZnQQtyw6bhZ8LXSelP2LiSvS9Y8GEkaEEaOtIp+g=
-			</data>
-		</dict>
-		<key>Headers/FLTThreadSafeEventChannel.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6ctHhX8Gfj5pck7Ikqxtwxwfbws8/R3iUadARJIAxTc=
-			</data>
-		</dict>
-		<key>Headers/FLTThreadSafeFlutterResult.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MO6zFmuK36H7nJC1m46qvz5Re4G56ylSCqGtvnunUp8=
-			</data>
-		</dict>
-		<key>Headers/FLTThreadSafeMethodChannel.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			aTvdkmdm48HDJ/++NT3KgJBC9dbd1CjPL3AcoqzaYbQ=
-			</data>
-		</dict>
-		<key>Headers/FLTThreadSafeTextureRegistry.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			o4lgVTAOFp3KjCOWRQl0/e/UjjfLdzb7Qzr37uj+aNs=
-			</data>
-		</dict>
-		<key>Headers/QueueUtils.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Q4Rp0ZE4xlEbXxb0qYLcc0KpjGZ88Y6LjAFIQNr84rs=
+			EpP1ouL5i80hGJd8+yjU5Nbkb2DB1L+OB43I7dT0MSY=
 			</data>
 		</dict>
 		<key>Headers/camera_avfoundation-umbrella.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MyNmNNncpW1xJzLtL43VDBA8xg0f5YKwRZoQmZvjMF0=
+			mCG2yYdpSuKlmoTSLZYX+jETINxWk/5H++0g5W1iAgw=
+			</data>
+		</dict>
+		<key>Headers/camera_avfoundation.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JKiSAdUC1xkd8xqJXAShv/IV78ErYppbxvIht8499Yg=
+			</data>
+		</dict>
+		<key>Headers/messages.g.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UWhPzSFqlYaXdiWu/XiKgSlTeHw86Ap8d4PSpQiLk9M=
+			</data>
+		</dict>
+		<key>Modules/camera_avfoundation.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oI7B7OnwvTjwtbuK736y2OpJNKXjxMnfmusdBcBot/E=
+			</data>
+		</dict>
+		<key>Modules/camera_avfoundation.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GuT2+xXzpATpulRKqd5dc+NbSG3kYSy4l4foIWDCoNo=
+			</data>
+		</dict>
+		<key>Modules/camera_avfoundation.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			t2flDVzglpBd+PbJ2DuXQDQGMt3O2OwB15XuaeoXS0I=
+			</data>
+		</dict>
+		<key>Modules/camera_avfoundation.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BDsqlUlh44zk4a7gHKgvKt7GG0momyxYCIGnujJ8Wj0=
+			</data>
+		</dict>
+		<key>Modules/camera_avfoundation.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HdQFW/flK+BkPfWZXdAT5mPMRjBMdv3kQkEZRnTSGN0=
+			</data>
+		</dict>
+		<key>Modules/camera_avfoundation.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BDsqlUlh44zk4a7gHKgvKt7GG0momyxYCIGnujJ8Wj0=
+			</data>
+		</dict>
+		<key>Modules/camera_avfoundation.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KTeOP4J5kj2wELPG4klXIOIVi9l08zOqkzROsfPfAFA=
+			</data>
+		</dict>
+		<key>Modules/camera_avfoundation.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			t2flDVzglpBd+PbJ2DuXQDQGMt3O2OwB15XuaeoXS0I=
+			</data>
+		</dict>
+		<key>Modules/camera_avfoundation.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oPHyNYRdbq8QoQUG3ZRQJHJu5A9pPJWeP2LJaMGuRbo=
+			</data>
+		</dict>
+		<key>Modules/camera_avfoundation.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/hXYGDRZ2ThxLeUlrVaYL0FoW0efdHubnvzv7iY/0hk=
+			</data>
+		</dict>
+		<key>Modules/camera_avfoundation.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oPHyNYRdbq8QoQUG3ZRQJHJu5A9pPJWeP2LJaMGuRbo=
+			</data>
+		</dict>
+		<key>Modules/camera_avfoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iBYBFtEhxvRJpTBQrcv9wbx481F5I/sRGkDOYd0bZe0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VpJTZvvrGQqnZY2TPCI9dSF9IZ+412+EHbI4eLJH21o=
+			ir9GRZ1AgIucoltUYSA5O/j/RCDOXaswlrq1+GhW968=
 			</data>
 		</dict>
 		<key>camera_avfoundation_privacy.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hw9H23aWqA1v7GYd8asMkH6sNXrF+yHh4zXaFAHXbNE=
+			hn9dBLYoXYGr3iTw7vOaxQdSaA/08pG7S3iortnzqgM=
 			</data>
 		</dict>
 		<key>camera_avfoundation_privacy.bundle/PrivacyInfo.xcprivacy</key>
