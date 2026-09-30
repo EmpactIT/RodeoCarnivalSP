@@ -1986,6 +1986,13 @@
             "printedName": "Hashable",
             "usr": "s:SH",
             "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -2105,6 +2112,13 @@
             "printedName": "Hashable",
             "usr": "s:SH",
             "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -2597,6 +2611,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Copyable",
             "printedName": "Copyable",
             "usr": "s:s8CopyableP",
@@ -2720,6 +2741,8 @@
         "declAttributes": [
           "Available",
           "ObjC",
+          "SynthesizedProtocol",
+          "Sendable",
           "Dynamic"
         ],
         "superclassUsr": "c:objc(cs)NSObject",
@@ -2729,6 +2752,13 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
           {
             "kind": "Conformance",
             "name": "Copyable",
@@ -2791,6 +2821,13 @@
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -3079,6 +3116,13 @@
             "printedName": "_HasCustomAnyHashableRepresentation",
             "usr": "s:s35_HasCustomAnyHashableRepresentationP",
             "mangledName": "$ss35_HasCustomAnyHashableRepresentationP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -3190,6 +3234,13 @@
             "printedName": "Hashable",
             "usr": "s:SH",
             "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -3335,6 +3386,13 @@
             ],
             "usr": "s:s10SetAlgebraP",
             "mangledName": "$ss10SetAlgebraP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           },
           {
             "kind": "Conformance",
@@ -3517,6 +3575,13 @@
             "printedName": "_HasCustomAnyHashableRepresentation",
             "usr": "s:s35_HasCustomAnyHashableRepresentationP",
             "mangledName": "$ss35_HasCustomAnyHashableRepresentationP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       }
@@ -3525,30 +3590,30 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.11\/ios\/Classes\/ApplePayButtonView.swift",
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.2.0\/ios\/pay_ios\/Sources\/pay_ios\/ApplePayButtonView.swift",
       "kind": "StringLiteral",
       "offset": 3227,
       "length": 41,
       "value": "\"plugins.flutter.io\/pay\/apple_pay_button\""
     },
     {
-      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.11\/ios\/Classes\/PayPlugin.swift",
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.2.0\/ios\/pay_ios\/Sources\/pay_ios\/PayPlugin.swift",
       "kind": "StringLiteral",
       "offset": 814,
-      "length": 32,
-      "value": "\"plugins.flutter.io\/pay_channel\""
+      "length": 24,
+      "value": "\"plugins.flutter.io\/pay\""
     },
     {
-      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.11\/ios\/Classes\/PayPlugin.swift",
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.2.0\/ios\/pay_ios\/Sources\/pay_ios\/PayPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 880,
+      "offset": 875,
       "length": 12,
       "value": "\"userCanPay\""
     },
     {
-      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.0.11\/ios\/Classes\/PayPlugin.swift",
+      "filePath": "\/Users\/bernardoiribarne\/.pub-cache\/hosted\/pub.dev\/pay_ios-1.2.0\/ios\/pay_ios\/Sources\/pay_ios\/PayPlugin.swift",
       "kind": "StringLiteral",
-      "offset": 935,
+      "offset": 930,
       "length": 21,
       "value": "\"showPaymentSelector\""
     }

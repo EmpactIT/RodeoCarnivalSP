@@ -1,0 +1,26 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.2.4 effective-5.10 (swiftlang-6.2.4.1.4 clang-1700.6.4.2)
+// swift-module-flags: -target arm64-apple-ios17.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name geocoding_darwin
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.4
+import Contacts
+import CoreLocation
+import Flutter
+import Foundation
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@_exported import geocoding_darwin
+@objc @_hasMissingDesignatedInitializers public class GeocodingDarwinPlugin : ObjectiveC.NSObject, Flutter.FlutterPlugin {
+  @objc public static func register(with registrar: any Flutter.FlutterPluginRegistrar)
+  @objc public func detachFromEngine(for registrar: any Flutter.FlutterPluginRegistrar)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers open class GeocodingLibraryPigeonProxyApiRegistrar {
+  public var ignoreCallsToDart: Swift.Bool
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers open class ProxyApiRegistrar : geocoding_darwin.GeocodingLibraryPigeonProxyApiRegistrar {
+  @objc deinit
+}

@@ -1,0 +1,11 @@
+framework module geocoding_darwin {
+  umbrella header "geocoding_darwin-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module geocoding_darwin.Swift {
+  header "geocoding_darwin-Swift.h"
+  requires objc
+}

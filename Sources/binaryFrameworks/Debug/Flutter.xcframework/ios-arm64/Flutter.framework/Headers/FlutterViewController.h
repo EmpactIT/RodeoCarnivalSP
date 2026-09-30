@@ -11,6 +11,7 @@
 #import "FlutterBinaryMessenger.h"
 #import "FlutterDartProject.h"
 #import "FlutterEngine.h"
+#import "FlutterHourFormat.h"
 #import "FlutterMacros.h"
 #import "FlutterPlugin.h"
 #import "FlutterTexture.h"
@@ -41,7 +42,7 @@ extern NSNotificationName const FlutterSemanticsUpdateNotification;
  * used to implicitly spin up a new `FlutterEngine`. Creating a `FlutterEngine` before showing a
  * FlutterViewController can be used to pre-initialize the Dart VM and to prepare the isolate in
  * order to reduce the latency to the first rendered frame. See
- * https://flutter.dev/docs/development/add-to-app/performance for more details on loading
+ * https://docs.flutter.dev/development/add-to-app/performance for more details on loading
  * latency.
  *
  * Holding a `FlutterEngine` independently of FlutterViewControllers can also be used to not to lose
@@ -232,7 +233,7 @@ FLUTTER_DARWIN_EXPORT
  * `FlutterViewController` is initialized with or a new `FlutterEngine` implicitly created if
  * no engine was supplied during initialization.
  */
-@property(weak, nonatomic, readonly) FlutterEngine* engine;
+@property(nonatomic, readonly) FlutterEngine* engine;
 
 /**
  * The `FlutterBinaryMessenger` associated with this FlutterViewController (used for communicating
@@ -252,6 +253,19 @@ FLUTTER_DARWIN_EXPORT
  * See also: `-[FlutterEngine initWithName:project:allowHeadlessExecution:]`
  */
 @property(nonatomic, readonly) BOOL engineAllowHeadlessExecution;
+
+/**
+ * Controls whether the created view can be sized based on its content.
+ * When set to `YES`, the FlutterView will be the same size as the outermost widget.
+ * Cannot be used with unbounded height widgets, such as Scaffold.
+ * This property is intended to be used with Add-to-App scenarios.
+ *
+ * Once auto resizing is enabled, the FlutterView will rely on custom constraints from then on.
+ * Avoid disabling it after enabling, as behaviour will then be undefined.
+ *
+ * Default is `NO`.
+ */
+@property(nonatomic, getter=isAutoResizable) BOOL autoResizable;
 
 @end
 

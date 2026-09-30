@@ -9,7 +9,10 @@
         "name": "Flutter",
         "printedName": "Flutter",
         "declKind": "Import",
-        "moduleName": "connectivity_plus"
+        "moduleName": "connectivity_plus",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "TypeDecl",
