@@ -26,7 +26,7 @@
 		</data>
 		<key>ios-arm64/sqflite_darwin.framework/sqflite_darwin</key>
 		<data>
-		sVDLQ5d5JG+3QV6SPV4bFtFpaYg=
+		Oa40HZulCVn37yyCuSjf1V5ZfIo=
 		</data>
 		<key>ios-arm64/sqflite_darwin.framework/sqflite_darwin_privacy.bundle/Info.plist</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/sqflite_darwin.framework/sqflite_darwin</key>
 		<data>
-		NIpP4c91hyYGZBZ1OD28tkXZw0o=
+		dVkX/vJCK/ib1Wog3TrAd08v8wo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/sqflite_darwin.framework/sqflite_darwin_privacy.bundle/Info.plist</key>
 		<data>
@@ -134,11 +134,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sVDLQ5d5JG+3QV6SPV4bFtFpaYg=
+			Oa40HZulCVn37yyCuSjf1V5ZfIo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ekJOXtmQzWqvoQov9F8ldWqnBuo/s2YymgOS9MeGlvM=
+			EsTrrQLfgA6UMSMz/ODOWHqRUUocp3Y63l8MWoBxtBU=
 			</data>
 		</dict>
 		<key>ios-arm64/sqflite_darwin.framework/sqflite_darwin_privacy.bundle/Info.plist</key>
@@ -233,11 +233,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NIpP4c91hyYGZBZ1OD28tkXZw0o=
+			dVkX/vJCK/ib1Wog3TrAd08v8wo=
 			</data>
 			<key>hash2</key>
 			<data>
-			nwN8iR/E1vj686R0zGDp0mKxtogPLrfFGepkA1IQ8iE=
+			kRz95mtDfQLy1maqdDRgpqMjlp7GE9PfvEmTyZxhjwE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/sqflite_darwin.framework/sqflite_darwin_privacy.bundle/Info.plist</key>

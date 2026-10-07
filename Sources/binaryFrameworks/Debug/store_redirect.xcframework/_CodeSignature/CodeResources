@@ -22,7 +22,7 @@
 		</data>
 		<key>ios-arm64/store_redirect.framework/store_redirect</key>
 		<data>
-		gcKHD5tCexGSVtU3BGYTfn1GqRg=
+		iU30VtcmCtvDhteY7UqtrMOyZww=
 		</data>
 		<key>ios-arm64_x86_64-simulator/store_redirect.framework/Headers/StoreRedirectPlugin.h</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/store_redirect.framework/store_redirect</key>
 		<data>
-		C1V6pVpMSC6YYHzOxsoCkAxWS1Y=
+		srJo9cw3+YRsS2OBkB+FBM28t/M=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -99,11 +99,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gcKHD5tCexGSVtU3BGYTfn1GqRg=
+			iU30VtcmCtvDhteY7UqtrMOyZww=
 			</data>
 			<key>hash2</key>
 			<data>
-			KDCMfq3HDLxnMBCsio6t3fjPV9W+hN54YOxlx4C/ufk=
+			4DACv9jIWrziiUBZb23jXochuNAekB9Bxyn7OVZZqQg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/store_redirect.framework/Headers/StoreRedirectPlugin.h</key>
@@ -165,11 +165,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			C1V6pVpMSC6YYHzOxsoCkAxWS1Y=
+			srJo9cw3+YRsS2OBkB+FBM28t/M=
 			</data>
 			<key>hash2</key>
 			<data>
-			U/bemfv+MRmPedv5UiLGD3yFTQeMuxiUY6F8zDg1JPs=
+			W+fKqbMRXfyGbdUkxcfYGixwLQtoObr1J7jS0UgLFQQ=
 			</data>
 		</dict>
 	</dict>
