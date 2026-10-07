@@ -50,7 +50,7 @@
 		</data>
 		<key>ios-arm64/camera_avfoundation.framework/camera_avfoundation</key>
 		<data>
-		G9kASbPj6fyR317BHu1o7npCWPw=
+		G6d9gYkf1LqPcOyFD9Boze0DdsQ=
 		</data>
 		<key>ios-arm64/camera_avfoundation.framework/camera_avfoundation_privacy.bundle/Info.plist</key>
 		<data>
@@ -126,11 +126,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/camera_avfoundation.framework/_CodeSignature/CodeResources</key>
 		<data>
-		15hNAObwX/ek72V3Kg18piJHY1k=
+		wUU/xpwiaiJYyFPdeWUUBtSTZVQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/camera_avfoundation.framework/camera_avfoundation</key>
 		<data>
-		CsjrcxwP3oORJ/HongdowLDaqJM=
+		/bq0WggUx40oUnE+1sxPQMI06uk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/camera_avfoundation.framework/camera_avfoundation_privacy.bundle/Info.plist</key>
 		<data>
@@ -268,11 +268,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			G9kASbPj6fyR317BHu1o7npCWPw=
+			G6d9gYkf1LqPcOyFD9Boze0DdsQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			/eHXSSriVLy9C3QtOYBzv1jtNV67P0HBZIvG0IMQpnc=
+			23OrLPBqqh/cX9P+1Q/hq9liumM46PF9TPRJm+UScbI=
 			</data>
 		</dict>
 		<key>ios-arm64/camera_avfoundation.framework/camera_avfoundation_privacy.bundle/Info.plist</key>
@@ -477,22 +477,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			15hNAObwX/ek72V3Kg18piJHY1k=
+			wUU/xpwiaiJYyFPdeWUUBtSTZVQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			0Wv0q5LuCPyxbzPVrmFIoQe7EwODIa3UXkQIy2vGT0Y=
+			sWIwCNzbLAIsLTOL0AJ3ZUj2b4owBD54Gte0VMyqSq8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/camera_avfoundation.framework/camera_avfoundation</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CsjrcxwP3oORJ/HongdowLDaqJM=
+			/bq0WggUx40oUnE+1sxPQMI06uk=
 			</data>
 			<key>hash2</key>
 			<data>
-			DCdVDEl40B8RSaYtwxQh5wkyLAAHxTs8uPDZaJK6a2w=
+			cwPjdVdeniqWenDz48K6keGlQFCBbrTeaAPimq1o4eo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/camera_avfoundation.framework/camera_avfoundation_privacy.bundle/Info.plist</key>
