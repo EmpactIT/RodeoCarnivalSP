@@ -46,7 +46,7 @@
 		</data>
 		<key>ios-arm64/wifi_scan.framework/wifi_scan</key>
 		<data>
-		RHwwJoagfT1nWPu8kfaKnkW9SVc=
+		p2c/pDQMsGwDSMtMl2XFJUqumkY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/wifi_scan.framework/Headers/WifiScanPlugin.h</key>
 		<data>
@@ -110,11 +110,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/wifi_scan.framework/_CodeSignature/CodeResources</key>
 		<data>
-		fi9J+Ey/vLpSSd5oM4OTs8tP9oM=
+		eKquFCNIKwtV8zQztZtwAKH8Ws4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/wifi_scan.framework/wifi_scan</key>
 		<data>
-		xUs7AnyS/ievG4XDvvy3ZtwI2cw=
+		r/tq75FRtn/A07Mw5T3hTQvvac8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -233,11 +233,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RHwwJoagfT1nWPu8kfaKnkW9SVc=
+			p2c/pDQMsGwDSMtMl2XFJUqumkY=
 			</data>
 			<key>hash2</key>
 			<data>
-			0Egm8Q6m13t3x9WpohLBRxFdiB2hc2xduLgDXrzg/Uk=
+			HvBFHJvuIkNg0uUC7ujyFseqLgXQ8DCVYZGI8Ejecbw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/wifi_scan.framework/Headers/WifiScanPlugin.h</key>
@@ -409,22 +409,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fi9J+Ey/vLpSSd5oM4OTs8tP9oM=
+			eKquFCNIKwtV8zQztZtwAKH8Ws4=
 			</data>
 			<key>hash2</key>
 			<data>
-			9vvIzyfoFcD4eFP91pGp9qZCcpHYelPqe1ePFq88Xok=
+			QsB5omm85Xnj+8XPuFfkAWQcUFlMwpQmLuSE3Lpffpk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/wifi_scan.framework/wifi_scan</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xUs7AnyS/ievG4XDvvy3ZtwI2cw=
+			r/tq75FRtn/A07Mw5T3hTQvvac8=
 			</data>
 			<key>hash2</key>
 			<data>
-			QotHeEJMM/BMjc6hcb9B3s/HUJu2hiFMbtN8gtE2VAI=
+			6Xyy+nGxo4rD+b25wwwjsy/s53vFUa9mxiUcPeket/U=
 			</data>
 		</dict>
 	</dict>
