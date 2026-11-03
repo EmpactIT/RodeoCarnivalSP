@@ -42,7 +42,7 @@
 		</data>
 		<key>ios-arm64/empactit_wifi.framework/empactit_wifi</key>
 		<data>
-		tcFknziqplg/cs+twbpKkciV1bI=
+		OGKQ8VRRZQv+K3U8QYB1Khp9SiA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/empactit_wifi.framework/Headers/empactit_wifi-Swift.h</key>
 		<data>
@@ -102,11 +102,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/empactit_wifi.framework/_CodeSignature/CodeResources</key>
 		<data>
-		dXG+HxOPZqziBn4qadYh9vr3DxI=
+		XI4E9ThSB6z+SpMsBZf/66tIVRI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/empactit_wifi.framework/empactit_wifi</key>
 		<data>
-		+DJZGslCsQ25uvAa7ezq3sxohTQ=
+		gYOYbtcpGMe0q6go3SRePRtXJSw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -214,11 +214,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tcFknziqplg/cs+twbpKkciV1bI=
+			OGKQ8VRRZQv+K3U8QYB1Khp9SiA=
 			</data>
 			<key>hash2</key>
 			<data>
-			DPg4z7NMbM0n6hP0sf74++ak9BjHmNE7Jd7QUHTRfak=
+			I82osj3b0b2HaiBVAa1tPbjuTkXjlY4GWHA/SgT+R/M=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/empactit_wifi.framework/Headers/empactit_wifi-Swift.h</key>
@@ -379,22 +379,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dXG+HxOPZqziBn4qadYh9vr3DxI=
+			XI4E9ThSB6z+SpMsBZf/66tIVRI=
 			</data>
 			<key>hash2</key>
 			<data>
-			tDPqrs6wSDtxYhfvfTq8SOqsOmD64ypgzPz7OVx/7PY=
+			UC9ZVXn+SOHaIpJCjxESykR6W6w2QHncx8WqGVv3fCQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/empactit_wifi.framework/empactit_wifi</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+DJZGslCsQ25uvAa7ezq3sxohTQ=
+			gYOYbtcpGMe0q6go3SRePRtXJSw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gb4jPmbVunYofSYU/FcZrOcQiJREyk1cnvDiwyVYTRs=
+			SMErnKCPZq6MPfIYnJ/IOHaf1pO/SFkxOx14Djt/DFU=
 			</data>
 		</dict>
 	</dict>
