@@ -42,7 +42,7 @@
 		</data>
 		<key>ios-arm64/url_launcher_ios.framework/url_launcher_ios</key>
 		<data>
-		vrK2Fm5pWqurrj/DPvibVhvIJQw=
+		3bYd+VeeDSvPfZrVxNiPQdfwmow=
 		</data>
 		<key>ios-arm64/url_launcher_ios.framework/url_launcher_ios_privacy.bundle/Info.plist</key>
 		<data>
@@ -110,11 +110,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/url_launcher_ios.framework/_CodeSignature/CodeResources</key>
 		<data>
-		zycdjn1YI2uoc0QJbCiTte2kJuc=
+		11dqJwbKvOeB+K9iwItX+suaEkU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/url_launcher_ios.framework/url_launcher_ios</key>
 		<data>
-		/TmzntSTeez1m79qXfZUDdI8dKU=
+		Od6ohGQUC2LH+EyutP7fjVmd9bA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/url_launcher_ios.framework/url_launcher_ios_privacy.bundle/Info.plist</key>
 		<data>
@@ -230,11 +230,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vrK2Fm5pWqurrj/DPvibVhvIJQw=
+			3bYd+VeeDSvPfZrVxNiPQdfwmow=
 			</data>
 			<key>hash2</key>
 			<data>
-			nqPs88NJBows/j3Hw/rCSzVp/2Czs+cOEDT7snZE0cM=
+			18gIJ7pzFxV/7hZizENFgLSepzWkY6iDJ1Yf8BbdjtY=
 			</data>
 		</dict>
 		<key>ios-arm64/url_launcher_ios.framework/url_launcher_ios_privacy.bundle/Info.plist</key>
@@ -417,22 +417,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zycdjn1YI2uoc0QJbCiTte2kJuc=
+			11dqJwbKvOeB+K9iwItX+suaEkU=
 			</data>
 			<key>hash2</key>
 			<data>
-			iy7bhm+Be60qP1X9A3TPSgO31C4QnI5cBdp9A/KJdYY=
+			V83jFgD0PJnbATvbQL8J9tkRBO5Uofo++pECOhSWVo8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/url_launcher_ios.framework/url_launcher_ios</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/TmzntSTeez1m79qXfZUDdI8dKU=
+			Od6ohGQUC2LH+EyutP7fjVmd9bA=
 			</data>
 			<key>hash2</key>
 			<data>
-			EblSXMnSRwAJXWpFjktO83JEhyLurIFgr1ZGKNhGgAk=
+			bDFxtlfIybTQJ303L7r3ybg8JtOR9Kl60l77eDS0FC8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/url_launcher_ios.framework/url_launcher_ios_privacy.bundle/Info.plist</key>

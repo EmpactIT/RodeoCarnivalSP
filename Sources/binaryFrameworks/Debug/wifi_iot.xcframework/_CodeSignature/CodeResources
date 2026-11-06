@@ -46,7 +46,7 @@
 		</data>
 		<key>ios-arm64/wifi_iot.framework/wifi_iot</key>
 		<data>
-		LpyPU+xdrWa+HZoSwWkDmh0oGow=
+		5t/tNm0yy76kt8wa7UFONkx4QLM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/wifi_iot.framework/Headers/WifiIotPlugin.h</key>
 		<data>
@@ -110,11 +110,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/wifi_iot.framework/_CodeSignature/CodeResources</key>
 		<data>
-		DBMnsACZR9YrJlDVysEkSQQMKkw=
+		wz9G0xwkD06U3y5rvygAaHtQjOE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/wifi_iot.framework/wifi_iot</key>
 		<data>
-		dzZcMJDmyPU23zw4Cgk4oOlJVxM=
+		GClhOyaGTmY/ktxWujErp7KII3g=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -233,11 +233,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LpyPU+xdrWa+HZoSwWkDmh0oGow=
+			5t/tNm0yy76kt8wa7UFONkx4QLM=
 			</data>
 			<key>hash2</key>
 			<data>
-			TguYbhn1D52vK6Hxsm5EGzV6AWpKs9ofCidxBwoLjVs=
+			1Edv6UM8lcWlXnzETYRE6UvIEV7NiCTAmlCObhQzdb0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/wifi_iot.framework/Headers/WifiIotPlugin.h</key>
@@ -409,22 +409,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DBMnsACZR9YrJlDVysEkSQQMKkw=
+			wz9G0xwkD06U3y5rvygAaHtQjOE=
 			</data>
 			<key>hash2</key>
 			<data>
-			PHOp438wsbyo817U+b+b+b6FWg1rjv/uNPzT0JcrxWg=
+			tsgFPoDLf1b9SiXhW1jHXoUvyOY1gT0werO7LoVwemk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/wifi_iot.framework/wifi_iot</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dzZcMJDmyPU23zw4Cgk4oOlJVxM=
+			GClhOyaGTmY/ktxWujErp7KII3g=
 			</data>
 			<key>hash2</key>
 			<data>
-			UmrDPjbfkRXFEMo4mpIeNOzVEmHbQKdEnVlC3BIi8wg=
+			I2Q6G8yQEUwG0zxD62341ma7/hBFmDoCpkqGjd6XGlo=
 			</data>
 		</dict>
 	</dict>

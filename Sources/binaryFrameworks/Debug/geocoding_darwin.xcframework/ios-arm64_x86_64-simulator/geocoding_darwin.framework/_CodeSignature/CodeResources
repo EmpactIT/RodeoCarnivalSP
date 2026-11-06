@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/geocoding_darwin.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		MoXF5mI2N8WVoLGoIDEMkSbaMRM=
+		Fkk24vmizFsB7bMvSe2UxeYvZR0=
 		</data>
 		<key>Modules/geocoding_darwin.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/geocoding_darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tov4AmxQzyUrasQrAz71Qr5Oyfo=
+		lCW+Z8kzTfdjrskzij73X2eIFE0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -139,7 +139,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9q9IwVdlUSCuxJTw83Hmz02ovDIa4AyIZNDvOvPLZl4=
+			6lYrsgQxRewdd09sqeK8IToqhUK9rYIjxePi7pPVYpc=
 			</data>
 		</dict>
 		<key>Modules/geocoding_darwin.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -174,7 +174,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tG7VeMl968svBtmD4npm5ZS1xseXUWVTvzQkaII0RuU=
+			Nvi6hgEHYadNd1oFLnfKXMQ9sTI7kUchXK3iQKiZN9g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
