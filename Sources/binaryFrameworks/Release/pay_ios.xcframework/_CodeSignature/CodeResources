@@ -42,7 +42,7 @@
 		</data>
 		<key>ios-arm64/pay_ios.framework/pay_ios</key>
 		<data>
-		2Mrag3vQljI6bcwEWxyQPxswJvA=
+		qb8GA56DB1L2IbfLyYiLPDeI06s=
 		</data>
 		<key>ios-arm64_x86_64-simulator/pay_ios.framework/Headers/pay_ios-Swift.h</key>
 		<data>
@@ -102,11 +102,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/pay_ios.framework/_CodeSignature/CodeResources</key>
 		<data>
-		hnNTmhB3Cj7LnoDUi9jN8jXn99w=
+		0HrL9Y5Fvttdq3h9PqQB73dQIsg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/pay_ios.framework/pay_ios</key>
 		<data>
-		x0jNJVYdDIveueQ3ZHmyf7IHti4=
+		ToNlL2/wMj+YtzhayWUS69pBg4s=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -214,11 +214,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2Mrag3vQljI6bcwEWxyQPxswJvA=
+			qb8GA56DB1L2IbfLyYiLPDeI06s=
 			</data>
 			<key>hash2</key>
 			<data>
-			QQUh4ITA0WSuRydR9uRKlfoRdSsMO2MZSLCCvVYN94E=
+			27XdM9HzkpcAYBhV19oAo/uzJFHWLYVby0dy+OWsaHA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/pay_ios.framework/Headers/pay_ios-Swift.h</key>
@@ -379,22 +379,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hnNTmhB3Cj7LnoDUi9jN8jXn99w=
+			0HrL9Y5Fvttdq3h9PqQB73dQIsg=
 			</data>
 			<key>hash2</key>
 			<data>
-			zIVsiU1vCDQMhXnzuAkH2dXSRyIoAP/J7G8vMelEMQk=
+			GkXwq0lJmuwS0G18gQJ/9THu3NzW/z56KyLRT9V2Lh8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/pay_ios.framework/pay_ios</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			x0jNJVYdDIveueQ3ZHmyf7IHti4=
+			ToNlL2/wMj+YtzhayWUS69pBg4s=
 			</data>
 			<key>hash2</key>
 			<data>
-			Bw7dclkrBxtLXI1cLcHNYVKjYySSZJu3CyySgUv9/0E=
+			faAeoHMQ84/x19oCrWneNIDke8c31WAg3LWUDQWf1G8=
 			</data>
 		</dict>
 	</dict>
