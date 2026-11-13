@@ -42,7 +42,7 @@
 		</data>
 		<key>ios-arm64/mobile_scanner.framework/mobile_scanner</key>
 		<data>
-		tMU89Hs4793LrRuZBcwVOhcsEic=
+		vQRtwIUieWCull06DN42GoRcNWY=
 		</data>
 		<key>ios-arm64/mobile_scanner.framework/mobile_scanner_privacy.bundle/Info.plist</key>
 		<data>
@@ -110,11 +110,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/mobile_scanner.framework/_CodeSignature/CodeResources</key>
 		<data>
-		MuEzseBrkWxXckaKR/q6AO04e8g=
+		d7gZTzeu197tuWhSB0RMfXUtzOo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/mobile_scanner.framework/mobile_scanner</key>
 		<data>
-		6EwJB8L53mxb0SjeTh1IiYy5bxY=
+		VSsdke6JPVvqXGIdDrxH/T6Qzrk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/mobile_scanner.framework/mobile_scanner_privacy.bundle/Info.plist</key>
 		<data>
@@ -230,11 +230,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tMU89Hs4793LrRuZBcwVOhcsEic=
+			vQRtwIUieWCull06DN42GoRcNWY=
 			</data>
 			<key>hash2</key>
 			<data>
-			x0E+zyHkpKMo9LFPTuWHPsU/PVdVHuKKygTvBg1Dfas=
+			dD6YXD8Qx1rkChNAPHDZ75T9JtpgDyWlJr9GnmqEXn8=
 			</data>
 		</dict>
 		<key>ios-arm64/mobile_scanner.framework/mobile_scanner_privacy.bundle/Info.plist</key>
@@ -417,22 +417,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MuEzseBrkWxXckaKR/q6AO04e8g=
+			d7gZTzeu197tuWhSB0RMfXUtzOo=
 			</data>
 			<key>hash2</key>
 			<data>
-			4CnNosAg1zbkgRIIqNFlLVvIWySC0xTdbeHp6Mu5mDU=
+			lPxDHA+uuHkcc64umFZX914UtIvb9fGnbdSykB6Qcuk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/mobile_scanner.framework/mobile_scanner</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6EwJB8L53mxb0SjeTh1IiYy5bxY=
+			VSsdke6JPVvqXGIdDrxH/T6Qzrk=
 			</data>
 			<key>hash2</key>
 			<data>
-			IFg28dN4qeD3tY8sVHU64wM5fwO4sJHIaphKCn6Riok=
+			utFkI+xY5GKSMoKP8wrIensm4UKaoU0CDlpnNo22aKM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/mobile_scanner.framework/mobile_scanner_privacy.bundle/Info.plist</key>

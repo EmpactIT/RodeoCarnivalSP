@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/empactit_wifi.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		V61MQcD3X1IMW5gZMClJT6cOUDo=
+		xSEQMig0+9KVcGoxL6euupgp3n8=
 		</data>
 		<key>Modules/empactit_wifi.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		hKGvmlTvRkwveoFyODTbDRITN3w=
+		XvoTmoMa+d6WoIlaJb/bWfeILuE=
 		</data>
 		<key>Modules/empactit_wifi.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/empactit_wifi.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ExVi5bYPtxd8TeAWVkf3JUamxgs=
+		3lUmaD6sWSc+DWjZaGfefbYWSbg=
 		</data>
 		<key>Modules/empactit_wifi.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/empactit_wifi.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		kOCGmLe4CRTVC+4udfw9PHpu3zA=
+		BHZ5bOj4z6lZRuYpJnTdhGoo7IY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -89,14 +89,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LmMbDaS5Pc2TlBVK14NSW7LOXD9vfK+GD2tIPWhzebk=
+			v4VzOoD344Hnv6e0zsFYkSHb5a/a+d+nUUYxoM1LJDA=
 			</data>
 		</dict>
 		<key>Modules/empactit_wifi.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xVQ/RKT4KHKHb2tb+JzDLAkEE/t7qpBD7Z+0024VIzE=
+			/JjE2PrXIw070NKSbe+0QkIDR54gMfb/lVQbQkvW7V4=
 			</data>
 		</dict>
 		<key>Modules/empactit_wifi.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -131,7 +131,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zGbXSlLYCLtNA9LT46bXSqGTSSVQrIvQIkHNmZQDvRc=
+			nqrRQocwliJfdBxgIUQg3R0D9NPR7tDwNqdpmjOYzOs=
 			</data>
 		</dict>
 		<key>Modules/empactit_wifi.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -166,7 +166,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mMTiyMVO9vvCYhtEOJwSO8Iv57b+7M13gc6t7obM1Sk=
+			tjS9vy7ybXOZpWnQzRp/5TuizzzStx7kz2+l2H7G5AI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
