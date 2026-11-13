@@ -42,7 +42,7 @@
 		</data>
 		<key>ios-arm64/connectivity_plus.framework/connectivity_plus</key>
 		<data>
-		IrB+YgRulB5nqzIAqEpW422RkVw=
+		DFwuvzAjIiDiZIzyCBlbJwhtRWA=
 		</data>
 		<key>ios-arm64/connectivity_plus.framework/connectivity_plus_privacy.bundle/Info.plist</key>
 		<data>
@@ -110,11 +110,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/connectivity_plus.framework/_CodeSignature/CodeResources</key>
 		<data>
-		Y4hT1fpEMLOXBuuRYJqRVVBfVAg=
+		kfySoljPL6ffE7XWl2Y5yrbwdbI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/connectivity_plus.framework/connectivity_plus</key>
 		<data>
-		boOkkno7WX66l1QMYe0mtK/APR0=
+		nqP2eBXd2ZSAMbVe5xlCAmRJlzs=
 		</data>
 		<key>ios-arm64_x86_64-simulator/connectivity_plus.framework/connectivity_plus_privacy.bundle/Info.plist</key>
 		<data>
@@ -230,11 +230,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IrB+YgRulB5nqzIAqEpW422RkVw=
+			DFwuvzAjIiDiZIzyCBlbJwhtRWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ww/WShn8F/nqKZmd809lOTl3Hwk2jxecrcaqF7L5xtk=
+			XxXW27AQVqqeizg8VrA0gOah3/oUNLWMEdk3mylmEV8=
 			</data>
 		</dict>
 		<key>ios-arm64/connectivity_plus.framework/connectivity_plus_privacy.bundle/Info.plist</key>
@@ -417,22 +417,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Y4hT1fpEMLOXBuuRYJqRVVBfVAg=
+			kfySoljPL6ffE7XWl2Y5yrbwdbI=
 			</data>
 			<key>hash2</key>
 			<data>
-			2bvjdoXeTIRPq/HVETYhG+9JPcmdaVXHIIzmksRGC+8=
+			K2hQXtmoVs+7Vi1GKV5YkRojeGds+Y9sze2l4kyg1tE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/connectivity_plus.framework/connectivity_plus</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			boOkkno7WX66l1QMYe0mtK/APR0=
+			nqP2eBXd2ZSAMbVe5xlCAmRJlzs=
 			</data>
 			<key>hash2</key>
 			<data>
-			O/9M8yvrLRZgGytBudhweajUQ/soLkqG9lZU//iXJMM=
+			bSBF76SiL9VPNS1lIwF0Zlzvt2IFjIz/lhQMIb9nbHc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/connectivity_plus.framework/connectivity_plus_privacy.bundle/Info.plist</key>

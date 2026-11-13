@@ -26,7 +26,7 @@
 		</data>
 		<key>ios-arm64/device_info_plus.framework/device_info_plus</key>
 		<data>
-		30e3PYjWj8Pi4HTx+DWis2H5SMw=
+		3NSPg8blTFjU3F8If8M7A5LJ9lQ=
 		</data>
 		<key>ios-arm64/device_info_plus.framework/device_info_plus_privacy.bundle/Info.plist</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/device_info_plus.framework/device_info_plus</key>
 		<data>
-		MHxio5yQj6vpzIZhtp/3zt/MKYc=
+		LsbEEp+eSgPQXWsEssMr80v3DOM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/device_info_plus.framework/device_info_plus_privacy.bundle/Info.plist</key>
 		<data>
@@ -134,11 +134,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			30e3PYjWj8Pi4HTx+DWis2H5SMw=
+			3NSPg8blTFjU3F8If8M7A5LJ9lQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			pB97KjvNdBmvI6oLHwS/Gz/ki+jQApIyYKi/4kbVvho=
+			8dJqEAgDbJvru7B/zG3FLq/r1mYE40Ixv1FEfwb7sHM=
 			</data>
 		</dict>
 		<key>ios-arm64/device_info_plus.framework/device_info_plus_privacy.bundle/Info.plist</key>
@@ -233,11 +233,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MHxio5yQj6vpzIZhtp/3zt/MKYc=
+			LsbEEp+eSgPQXWsEssMr80v3DOM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZlsSm3g4tkIA3CbDp+tfPu8ngJ/P94SCjpC3n4LIbe0=
+			cSdKE+lwYQqk4fqwGhn51t1BOMC2n2JDmCNZKUuQ9SE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/device_info_plus.framework/device_info_plus_privacy.bundle/Info.plist</key>

@@ -74,11 +74,11 @@ API_AVAILABLE(ios(13.0))
 #pragma mark - Continuing user activities
 
 /**
- * Tells the delegate that the scene is continuing a user tracking.
+ * Tells the delegate that the scene is continuing a user activity.
  *
  * This corresponds to `-[UISceneDelegate scene:continueUserActivity:]`.
  *
- * @return `YES` if this handled the tracking.
+ * @return `YES` if this handled the activity.
  */
 - (BOOL)scene:(UIScene*)scene continueUserActivity:(NSUserActivity*)userActivity;
 
