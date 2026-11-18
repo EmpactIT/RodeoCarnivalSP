@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/FlutterPluginRegistrant.framework/FlutterPluginRegistrant</key>
 		<data>
-		4F+hp2B+p0/9Zj2Cb8xEGj63suw=
+		GUVEbXAFP5FQj3P2hLNUuZz5YOI=
 		</data>
 		<key>ios-arm64/FlutterPluginRegistrant.framework/Headers/FlutterPluginRegistrant-umbrella.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/FlutterPluginRegistrant.framework/FlutterPluginRegistrant</key>
 		<data>
-		UxEKl3rUWazQ6t1kkuljYx21Dp4=
+		87Co2Aibzd9onuu2xAsMN0SHlZM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FlutterPluginRegistrant.framework/Headers/FlutterPluginRegistrant-umbrella.h</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/FlutterPluginRegistrant.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		v9WlK+t2rb93uZxU5HR3/8uIbmU=
+		D0XF+/Eg/NKqmjIoDhfb/I4SKAo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FlutterPluginRegistrant.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/FlutterPluginRegistrant.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		hwTX3Hz51ox+V53e1hHRfH6DevI=
+		UFL8TNxgoVYM/QqXLqdffPb28tM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/FlutterPluginRegistrant.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -71,11 +71,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4F+hp2B+p0/9Zj2Cb8xEGj63suw=
+			GUVEbXAFP5FQj3P2hLNUuZz5YOI=
 			</data>
 			<key>hash2</key>
 			<data>
-			GN0X1RTjwazDGeqqQu/UVzcsx3DnwAFjS4dApjIVTOk=
+			ciupJ8yGp+iyTW1Hrya3+XH+fpgSfCgM5inc68HpezM=
 			</data>
 		</dict>
 		<key>ios-arm64/FlutterPluginRegistrant.framework/Headers/FlutterPluginRegistrant-umbrella.h</key>
@@ -126,11 +126,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UxEKl3rUWazQ6t1kkuljYx21Dp4=
+			87Co2Aibzd9onuu2xAsMN0SHlZM=
 			</data>
 			<key>hash2</key>
 			<data>
-			KtdLxpUeb0Lh1WjOzBgNhuTTDy+vw9OM6vqGjgUJOQI=
+			+jUDzAUNH4EHRs2yDCcDk6k1S2lSNVooaiH3rR2X2z0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FlutterPluginRegistrant.framework/Headers/FlutterPluginRegistrant-umbrella.h</key>
@@ -181,11 +181,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			v9WlK+t2rb93uZxU5HR3/8uIbmU=
+			D0XF+/Eg/NKqmjIoDhfb/I4SKAo=
 			</data>
 			<key>hash2</key>
 			<data>
-			5amwIhAisXuXwYJcbHyYyYUDIpLHjBH9oTZtUhXhTqY=
+			eUakz84XOc+/roI8SZyQH02F4p25HODWJTWOJ6z3DKk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FlutterPluginRegistrant.framework/_CodeSignature/CodeRequirements</key>
@@ -203,11 +203,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hwTX3Hz51ox+V53e1hHRfH6DevI=
+			UFL8TNxgoVYM/QqXLqdffPb28tM=
 			</data>
 			<key>hash2</key>
 			<data>
-			KhaA7iMT2d81PYosWbS2xR5/QsjgrLutX/61BN5GZWQ=
+			QpWrV0gFUHUSDdxr+uv+pTAogRxtVmvVTtvH5/ClCuU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/FlutterPluginRegistrant.framework/_CodeSignature/CodeResources</key>
